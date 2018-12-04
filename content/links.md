@@ -9,7 +9,7 @@ menu:
 url: /blog/2018/10/27/links.html
 ---
 
-**域名已於 2018-12-03 從 kujihhoe.com 遷移到 kqh.life，請大家及時更新**
+**域名已於 2018-12-03 從 kujihhoe.com 遷移到 kqh.ac，請大家及時更新**
 
 想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kujihhoe.com) 給我呀，我將在一至三日內囘復。
 
