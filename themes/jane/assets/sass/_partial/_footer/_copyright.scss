@@ -1,0 +1,26 @@
+// ==============================
+// Copyright
+// =============================
+
+.copyright {
+  margin: $copyright-margin;
+  color: $dark-gray;
+  text-align: center;
+  font-family: $global-serif-font-family;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.7;
+
+  .hexo-link,
+  .theme-link {
+    color: $theme-color;
+  }
+
+  .copyright-year {
+    display: block;
+
+    .heart {
+      font-size: 14px;
+    }
+  }
+}

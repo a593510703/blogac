@@ -1,0 +1,15 @@
+// ==============================
+// Header
+// ==============================
+.header {
+  @include clearfix;
+
+  @import '_header/logo';
+  @import '_header/menu';
+}
+@include max-screen() {
+  .header {
+    padding: 0 0 0 0;
+    text-align: center;
+  }
+}

@@ -1,0 +1,56 @@
+{{ define "title" }}{{ i18n "archive" }} - {{ .Site.Title }}{{ end }}
+{{ define "content"}}
+
+{{- $paginator := .Paginate (where .Pages.ByLastmod.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
+<section id="archive" class="archive">
+{{- if not $paginator.HasPrev }}
+    <div class="archive-title">
+      <p class="archive-post-counter">
+        {{- $length := len .Data.Pages }}
+          {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
+      </p>
+    </div>
+      {{- end -}}
+    <div class="archive-post" >
+    <span class="archive-post-time" >發布旹閒
+      <br>攸改旹閒</span>
+      <span class="archive-post-title">作者｜標題（按修改時間倒敘）</span>
+<a class="archive-post-categories">分類</a><br>
+  <a class="archive-post-tags">/ 系列</a>
+</div>
+  {{- range $element := $paginator.Pages -}}
+    <div class="archive-post">
+      <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
+        {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+        {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+      </time>
+      <span class="archive-post-title">
+      {{ .Params.author }}｜<a href="{{ $element.URL }}" class="archive-post-link">{{ .Title }}</a>
+        </span>
+    <span class="archive-post-categories">
+        {{ with .Params.categories -}}
+            {{ range . }}
+            {{- $name := . -}}
+            {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
+              <a href="/categories/#{{ $name }}" >{{ $name }}</a>
+            {{ end -}}
+            {{ end }}
+        {{- end }}
+        </span>
+<br>
+        <span class="archive-post-tags">
+        {{ with .Params.tags -}}
+            {{ range . }}
+            {{- $name := . -}}
+            {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
+            <a href="/tags/#{{ $name }}" >{{ $name }}</a>
+            {{ end -}}
+            {{ end }}
+        {{- end }}
+        </span>
+    </div>
+  {{- end -}}
+</section>
+<!-- pagination -->
+{{ partial "pagination.html" . }}
+{{ end }}

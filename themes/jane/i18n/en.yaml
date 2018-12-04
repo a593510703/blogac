@@ -1,0 +1,115 @@
+- id: archive
+  translation: 博客首葉
+
+- id: tags
+  translation: 系列
+
+- id: tag
+  translation: "系列｜"
+
+- id: categories
+  translation: 分類
+
+- id: category
+  translation: "分類｜"
+
+- id: authors
+  translation: 作者｜
+
+- id: author_item
+  translation: "作者｜"
+
+# posts
+- id: prev
+  translation: 上葉
+
+- id: next
+  translation: 下葉
+
+- id: prev_post
+  translation: 上篇
+
+- id: next_post
+  translation: 下篇
+
+- id: toc
+  translation: 目次
+
+- id: readmore
+  translation: 全文
+
+- id: reward
+  translation: 讚賞
+
+- id: rewardAlipay
+  translation: 支付寶
+
+- id: rewardWechat
+  translation: 微信
+
+- id: seeMarkDown
+  translation: 査看本文 md »
+
+- id: loadDisqus
+  translation: 顯示 Disqus 評論
+
+# posts.header
+- id: wordCount
+  translation: 字數 {{.Count}}
+
+- id: readingTime
+  translation: 豫計旹長 {{.Count}} 分鐘
+
+# copyright
+- id: author
+  translation: 作者
+
+- id: lastMod
+  translation: 㪅新
+
+- id: markdown
+  translation: 源件
+
+- id: license
+  translation: 版權
+
+# counter
+- id: counter_archives
+  translation: 緫 {{.Count}} 篇
+
+- id: counter_tagcloud
+  translation: 緫 {{.Count}} 箇系列
+
+- id: counter_categories
+  translation: 緫 {{.Count}} 箇分類
+
+- id: counter_author
+  translation: 緫 {{.Count}} 箇作者
+
+# other
+- id: morePost
+  translation: 査看㪅多 >>
+
+- id: read_en
+  translation: Read in English
+
+- id: read_es
+  translation: Leer en español
+
+- id: read_zh-cn
+  translation: 中文阅读
+
+- id: read_ru
+  translation: Читать на русском
+
+- id: read_pt
+  translation: Leia em português
+
+- id: read_fr
+  translation: Lire en français
+
+- id: language
+  translation: 語言
+
+- id: comments
+  translation: 評論

@@ -1,0 +1,19 @@
+// ==============================
+// Logo
+// =============================
+
+.logo-wrapper {
+  float: left;
+  padding: 20px 0 0 16px;
+
+  .logo {
+    font-size: $logo-font-size;
+    font-family: $logo-font-family;
+    font-weight: 700;
+  }
+}
+
+@include max-screen() {
+  .logo-wrapper {
+  }
+}

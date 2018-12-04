@@ -1,0 +1,32 @@
+.post-copyright {
+  padding: 10px 0 10px 0;
+  margin-bottom: 4em;
+  font-size: 18px;
+  line-height: 1.8;
+  display: block;
+  background-color: hsla(0,0%,71%,.1);
+  border: 1px solid #e1e1e1;
+  border-left: solid;
+  margin-top: 2em;
+text-indent:-1.5em;
+padding-left: 1.5em;
+  .copyright-item {
+    margin: 9px 0 9px 46px;
+
+    a {
+      color: $theme-color;
+      word-wrap: break-word;
+
+      &:hover {
+        border-bottom: $content-link-border;
+      }
+    }
+
+    .item-title {
+      display: inline-block;
+      margin-right: 5px;
+      text-align: left;
+      font-weight: 700;
+    }
+  }
+}

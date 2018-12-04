@@ -1,0 +1,180 @@
+{{ define "title" }}{{ i18n .Data.Plural }} - {{ .Site.Title }}{{ end }}
+
+{{ define "content" }}
+  {{ $termName := .Data.Singular }}
+  {{ $terms := .Data.Terms.ByCount }}
+  {{ $length := len $terms }}
+  {{ $type := .Type }}
+
+  <!-- Categories Page -->
+  {{ if and $.Site.Taxonomies.categories (eq $termName "category") }}
+  <div class="tag-cloud"  style="margin: 0 90px 2em 90px;">
+    <div class="tag-cloud-title">
+      {{ i18n "counter_categories" $length}}
+    </div>
+<br>
+                {{ range $tagName, $taxonomy := $.Site.Taxonomies.categories }}
+                    {{ $currentTagCount := len $taxonomy.Pages }}
+                    {{ $count := len $taxonomy.Pages }}
+                    {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $tagName) }}
+                <a href="#{{ $tagName }}"> {{ $tagName }} {{ len $taxonomy.Pages }}</a>　
+              {{end}}{{end}}
+    </div>
+    {{ range $terms }}
+    {{ $term := .Term }}
+    {{ $pages := .Pages }}
+    {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $term) }}
+      <section id="archive" class="archive">
+          <div class="archive-title tag">
+            <h2 class="archive-year" id="{{ $term }}">
+              {{ i18n "category" }}<a href="#">{{ $term }}</a>
+            </h2>
+          </div>
+          <div class="archive-word">
+            {{ $count := 0 }}{{ range $pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
+          </div>
+
+          {{ range $pages }}
+            <div class="archive-post">
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
+                {{ .Date.Format "2006-01-02" }}
+          {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+              </time>
+              <span class="archive-post-title">
+{{ .Params.author }}｜<a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a>
+              </span>
+              <span class="archive-post-tags1">
+              {{ with .Params.tags -}}
+                  {{ range . }}
+                  {{- $name := . -}}
+                  {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
+                  <a href="/tags/#{{ $name }}" >{{ $name }}</a>
+                  {{ end -}}
+                  {{ end }}
+              {{- end }}
+              </span>
+            </div>
+          {{ end }}
+      </section>
+    {{ end }}
+    {{ end }}
+  <!-- Tag Page -->
+  {{ else if and $.Site.Taxonomies.tags (eq $termName "tag") }}
+  <div class="tag-cloud"  style="margin: 0 90px 2em 90px;">
+    <div class="tag-cloud-title">
+      {{ i18n "counter_tagcloud" $length}}
+    </div>
+<br>
+                {{ range $tagName, $taxonomy := $.Site.Taxonomies.tags }}
+                    {{ $currentTagCount := len $taxonomy.Pages }}
+                    {{ $count := len $taxonomy.Pages }}
+                    {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $tagName) }}
+                <a href="#{{ $tagName }} ">  {{ $tagName }} {{ len $taxonomy.Pages }}</a>　
+              {{end}}{{end}}
+    </div>
+    {{ range $terms }}
+    {{ $term := .Term }}
+    {{ $pages := .Pages }}
+    {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $term) }}
+      <section id="archive" class="archive">
+          <div class="archive-title tag">
+            <h2 class="archive-year" id="{{ $term }}">
+              {{ i18n "tag" }}<a href="#">{{ $term }}</a>
+            </h2>
+          </div>
+          <div class="archive-word">
+            {{ $count := 0 }}{{ range $pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
+          </div>
+
+          {{ range $pages }}
+            <div class="archive-post">
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
+                {{ .Date.Format "2006-01-02" }}
+          {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+              </time>
+              <span class="archive-post-title">
+{{ .Params.author }}｜<a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a>
+              </span>
+              <span class="archive-post-categories1">
+              {{ with .Params.categories -}}
+                  {{ range . }}
+                  {{- $name := . -}}
+                  {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
+                  <a href="/categories/#{{ $name }}" >{{ $name }}</a>
+                  {{ end -}}
+                  {{ end }}
+              {{- end }}
+              </span>
+            </div>
+          {{ end }}
+      </section>
+    {{ end }}
+    {{ end }}
+  <!-- Author Page -->
+  {{ else if and $.Site.Taxonomies.author (eq $termName "author") }}
+  <div class="tag-cloud" style="margin: 0 90px 2em 90px;">
+    <div class="tag-cloud-title">
+      {{ i18n "counter_author" $length}}
+    </div>
+<br>
+                {{ range $authorName, $taxonomy := $.Site.Taxonomies.author }}
+                    {{ $currentTagCount := len $taxonomy.Pages }}
+                    {{ $count := len $taxonomy.Pages }}
+                    {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $authorName) }}
+                <a href="#{{ $authorName }} ">  {{ $authorName }} {{ len $taxonomy.Pages }}</a>　
+              {{end}}{{end}}
+    </div>
+    {{ range $terms }}
+    {{ $term := .Term }}
+    {{ $pages := .Pages }}
+    {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $term) }}
+      <section id="archive" class="archive">
+          <div class="archive-title author">
+            <h2 class="archive-year" id="{{ $term }}">
+              {{ i18n "authors" }}<a href="#">{{ $term }}</a>
+            </h2>
+          </div>
+          <div class="archive-word">
+                {{ $count := 0 }}{{ range $pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
+          </div>
+          {{ range  $pages }}
+            <div class="archive-post">
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
+                {{ .Date.Format "2006-01-02" }}
+              {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+                  </time>
+                  <span class="archive-post-title">
+                    <a href="{{ .URL }}" class="archive-post-link">
+                      {{ .Title }}
+                    </a>
+                  </span>
+                  <span class="archive-post-categories">
+                      {{ with .Params.categories -}}
+                          {{ range . }}
+                          {{- $name := . -}}
+                          {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
+                            <a href="/categories/#{{ $name }}" >{{ $name }}</a>
+                          {{ end -}}
+                          {{ end }}
+                      {{- end }}
+                      </span>
+                      <br>
+                  <span class="archive-post-tags">
+                  {{ with .Params.tags -}}
+                      {{ range . }}
+                      {{- $name := . -}}
+                      {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
+                      <a href="/tags/#{{ $name }}" >{{ $name }}</a>
+                      {{ end -}}
+                      {{ end }}
+                  {{- end }}
+                  </span>
+            </div>
+          {{ end }}
+      </section>
+    {{ end }}
+    {{ end }}
+
+  {{ end }}
+
+{{ end }}

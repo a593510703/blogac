@@ -1,0 +1,191 @@
+// ==============================
+// Archive
+// =============================
+
+.archive {
+  // margin: $archive-margin;
+  // max-width: $archive-max-width;
+  margin: 0 5em 3em;
+  background-color: $white;
+  padding: 2em 3em 2em 2em;
+
+
+  .archive-word{
+    font-family: $global-serif-font-family;
+    font-weight: bold;
+    font-size: $global-font-size;
+    color: $dark-gray;
+    float: right;
+    display: inline-block;
+    position: relative;
+    line-height: 3;
+    margin: 2px -22px 0 0;
+  }
+  .archive-title {
+    font-family: $global-serif-font-family;
+    font-weight: bold;
+    &.tag,
+    &.category,
+    &.author {
+      line-height: .5;
+      padding-bottom: 20px;
+      float: left;
+      display: inline-block;
+      position: relative;
+    }
+
+    .archive-name {
+      margin: 0;
+      display: inline-block;
+      font-weight: 400;
+      font-size: $global-font-size;
+      line-height: $archive-name-font-size;
+    }
+
+    .archive-post-counter {
+  margin: 20px 0 20px 20px;
+      color: $dark-gray;
+      font-family: $global-serif-font-family;
+    }
+  }
+
+  .collection-title {
+    font-family: $global-serif-font-family;
+
+    .archive-year {
+      margin: .2em 0em 1em .68em;
+      font-weight: 700;
+      font-size: $collection-title-font-size;
+      line-height: 1.5;
+    }
+  }
+
+  .archive-post {
+    padding: $archive-post-padding;
+    border-top: $archive-post-top;
+    font-size: 1em;
+    display: table;
+    width: 100%;
+
+    .archive-post-time {
+       color: $dark-gray;
+       font-size: 16px;
+line-height: 1.75;
+      display: table-cell;
+      width: 6em;
+      padding-right: 2em;
+      vertical-align: middle;
+    }
+    .archive-post-categories{
+      float: right;
+      font-size: 16px;
+margin-bottom: -12px;
+     display: table-cell;
+     vertical-align: middle;
+
+  }
+  .archive-post-tags{
+    float: right;
+    font-size: 16px;
+margin-top: -12px;
+   display: table-cell;
+   vertical-align: middle;
+  a{ &::before {
+     content: ' / ';
+   }
+ }
+}
+  .archive-post-categories1{
+    float: right;
+    display: table-cell;
+    margin-top: 13px;
+    font-size: 16px;
+  a{  &::before {
+    content: '分類｜';}
+  }
+  }
+  
+.archive-post-tags1{
+  float: right;
+  display: table-cell;
+  margin-top: 13px;
+  font-size: 16px;
+  a{&::before {
+  content: '系列｜';}
+}}
+
+
+
+    .archive-post-title {
+      display: table-cell;
+      vertical-align: middle;
+      .archive-post-link {
+        color: $black;
+      }
+    }
+
+    &:first-child {
+      margin-top: 10px;
+    }
+
+    &:hover {
+      // border-left: $archive-post-hover-border-left;
+      transition: $archive-post-hover-transition;
+      transform: $archive-post-hover-transform;
+
+      .archive-post-time {
+        color: darken($black, 10%);
+      }
+      .archive-post-title{
+        color: darken($theme-color, 10%);
+      }
+      .archive-post-link{
+        color: darken($theme-color, 10%);
+      }
+    }
+  }
+
+  .more-post {
+    text-align: right;
+
+    .more-post-link {
+      margin-top: 1em;
+      color: $theme-color;
+      font-size: 1em;
+      font-family: $global-serif-font-family;
+
+      &:hover {
+        border-top: $post-readMore-border-bottom;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 799px) {
+  .archive {
+    margin: 0 auto 1em auto;
+    padding: 1em;
+
+    .archive-title .archive-name {
+      font-size: $archive-name-font-size - 4px;
+    }
+
+    .collection-title .archive-year {
+      margin: 10px 0;
+      font-size: $collection-title-font-size - 4px;
+    }
+
+    .archive-post {
+      padding: $archive-post-mobile-padding;
+
+      .archive-post-time {
+        font-size: $archive-post-mobile-time-font-size;
+        display: block;
+      }
+
+      .archive-post-title {
+        display: block;
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+// ==============================
+// Social
+// =============================
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+margin-bottom: 1.3em;
+  .iconfont {
+    font-size: $social-icon-font-size;
+
+    & + .iconfont {
+      margin-left: $social-link-margin-left;
+    }
+
+    &:hover {
+      color: $theme-color;
+      svg {
+        fill: $theme-color;
+      }
+    }
+  }
+}

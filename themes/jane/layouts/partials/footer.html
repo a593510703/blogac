@@ -1,0 +1,37 @@
+<div class="copyright">
+  <span class="power-by">
+    引擎 <a class="hexo-link" href="https://gohugo.io" target="_blank">Hugo</a> ×
+  <span class="theme-info">
+    主題 <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane" target="_blank">Jane</a>—<a class="theme-link"  href="https://github.com/kujihhoe/blogneva" target="_blank">kujihhoe</a> × 平臺 <a class="hexo-link" href="https://www.netlify.com" target="_blank">netlify</a>
+    </span>
+  </span>
+
+  <span class="copyright-year">
+    {{- $current := now.Format "2006" }}
+    &copy;
+    {{ if ne .Site.Params.since $current }}
+      {{ .Site.Params.since }} -
+    {{ end }}
+    {{- $current }}
+    <span class="heart">
+      {{/* icon heart */}}
+      <i class="iconfont">
+        {{ partial "svg/heart.svg" }}
+      </i>
+    </span>
+    {{- if or .Site.Copyright .Site.Author.name -}}
+      <span class="author">
+        {{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}
+        {{ else }}{{ .Site.Author.name | safeHTML }}
+        {{ end }}
+      </span>
+    {{- end -}}
+  </span>
+
+  <!-- Counter busuanzi -->
+  {{ if .Site.Params.counter.busuanzi.enable }}
+    <span id="busuanzi_container">
+      访客数/访问量：<span id="busuanzi_value_site_uv"></span>/<span id="busuanzi_value_site_pv"></span>
+    </span>
+  {{ end }}
+</div>
