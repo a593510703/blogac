@@ -30,20 +30,64 @@ HUGO_VERSION = "0.52"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-from = "https://kqh.netlify.com/*"
+from = "https://kqh.life/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://kujihhoe.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
 
+[[redirects]]
+from = "https://kujihhoe.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://kujihhoe1.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqhlife.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
 
+[[redirects]]
+from = "https://master--kujihhoe.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
 [[redirects]]
 from = "https://master--kqh.netlify.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
-
+[[redirects]]
+from = "https://master--kqhlife.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master.kujihhoe.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
 [[redirects]]
 from = "https://master.kqh.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master.kqhlife.netlify.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
