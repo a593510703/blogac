@@ -64,11 +64,12 @@ url: /blog/2017/10/04/uomk.html
 
 - 本站所有文章授權方式采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a> （署名-非商業性使用-相同方式共享）國際條款，若需使用，請務必閱讀竝遵循條款內容。說簡單點，非商業性使用無須告知作者，只要標明作者、出處就好（當然，沒人會轉載我的文章的，想多了）。爲便於排版，直接取用 md [源文件](https://github.com/kujihhoe/kujihhoe.github.io/tree/master/_posts) 卽可。如果發現有錯別字，也可以在 Git 上幫我改正。
 
-- 若發現文章中有不適冝的內容（如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等），請儘速 [郵件](mailto:1@kqh.life) 或評論告知我，我將盡㝡快速度處理。
+- 若發現文章中有不適冝的內容（如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等），請儘速 [郵件](mailto:1@kqh.ac) 或評論告知我，我將盡㝡快速度處理。
 
 - 我用䋣體字，還有一些奇怪的寫法，一來爲了滿足自己的一些癖好；二來爲了過濾一些不想看的來訪者；三來照顧牆外能用 Google 的華人們；還有一箇原因是系統自帶的簡體宋體无一箇能看的。
 
 - 訂閱此博客，可通過 RSS，或在評論區告知我，僅需要塡上您的郵箱卽可，每次㪅新後我將發送郵件通知您。MailChimp 好象被牆了，難受死了。
 
 - 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益及讚賞表](/blog/2018/11/06/zjuh.html)。You can support me via [paypal](https://paypal.me/kujihhoe).
+
   <div style="text-align: center"><img src="https://api.superbed.cn/pic/5bf82416c4ff9e058246008d" width="100px"></div>

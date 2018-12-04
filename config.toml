@@ -152,7 +152,7 @@ google_verification = ""  # Google_Verification         # 谷歌
 
 
   [params.social]
-  a-email = "mailto:1@kqh.life"
+  a-email = "mailto:1@kqh.ac"
   d-facebook = "https://www.facebook.com/kujihhoe"
   g-github = "https://github.com/kujihhoe"
   i-zhihu = "https://www.zhihu.com/people/ke-qi-han/activities"
