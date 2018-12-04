@@ -31,24 +31,19 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
 from = "https://kqh.netlify.com/*"
-to = "https://kqh.life/:splat"
+to = "https://kqh.ac/:splat"
 status = 301
 force = true
 
+
 [[redirects]]
 from = "https://master--kqh.netlify.com/*"
-to = "https://kqh.life/:splat"
+to = "https://kqh.ac/:splat"
 status = 301
 force = true
 
 [[redirects]]
 from = "https://master.kqh.netlify.com/*"
-to = "https://kqh.life/:splat"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://master.kujihhoe.netlify.com/*"
-to = "https://kqh.life/:splat"
+to = "https://kqh.ac/:splat"
 status = 301
 force = true
