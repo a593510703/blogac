@@ -4,3 +4,4 @@ Sitemap: {{ "sitemap.xml" | absURL }}
 Disallow: /categories/*
 Disallow: /tags/*
 Disallow: /author/*
+Disallow: /page/*
