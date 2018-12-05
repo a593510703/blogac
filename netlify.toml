@@ -49,6 +49,16 @@ from = "https://kujihhoe.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
+[[redirects]]
+from = "https://keqh.cc/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://keqh.me/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
 
 [[redirects]]
 from = "https://kujihhoe.netlify.com/*"
