@@ -50,6 +50,11 @@ to = "https://kqh.ac/:splat"
 status = 301
 force = true
 [[redirects]]
+from = "https://kujihhoe.com/blog/"
+to = "https://kqh.ac/post/"
+status = 301
+force = true
+[[redirects]]
 from = "https://keqh.cc/*"
 to = "https://kqh.ac/:splat"
 status = 301
