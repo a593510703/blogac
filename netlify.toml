@@ -35,6 +35,16 @@ to = "https://kqh.ac/:splat"
 status = 301
 force = true
 [[redirects]]
+from = "https://keke.life/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://keqihan.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
 from = "https://kujihhoe.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
