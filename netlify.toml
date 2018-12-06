@@ -156,3 +156,18 @@ from = "https://kqh.ac/blog/2018/07/05/uiuhgu.html"
 to = "https://kqh.wiki/?file=002-攷試資料/007-世界上古史"
 status = 301
 force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/09/06/whvi.html"
+to = "https://kqh.wiki/?file=003-筆記/002-王制表"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/post/133uuwf/"
+to = "https://kqh.wiki/?file=003-筆記/001-稿本經義述聞緫目"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/10/21/uhuu3.html"
+to = "https://kqh.wiki/?file=003-筆記/003-尚書/001-凡例"
+status = 301
+force = true
