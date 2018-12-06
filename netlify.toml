@@ -39,27 +39,12 @@ to = "https://kqh.ac/:splat"
 status = 301
 force = true
 [[redirects]]
-from = "https://keqihan.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
 from = "https://kujihhoe.com/blog/"
-to = "https://kqh.ac/post/"
+to = "https://kqh.ac/"
 status = 301
 force = true
 [[redirects]]
 from = "https://kujihhoe.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://keqh.cc/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://keqh.me/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
