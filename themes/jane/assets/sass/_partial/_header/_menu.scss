@@ -28,7 +28,8 @@ margin-left: -1.3em;
         transition: 0.2s 1s;
         list-style: none;
         padding: 0;
-        background: #fff;
+        font-size: 18px;
+        background: #e2f5fd;
         white-space:nowrap;
         border: 1px solid #ddd;
         border-bottom: none;
@@ -60,7 +61,7 @@ margin-left: -1.3em;
 
 .menu-parent::after {
   content: " ▼";
-  font-size: 11px;
+  font-size: 8px;
 }
 
 .menu a:hover {

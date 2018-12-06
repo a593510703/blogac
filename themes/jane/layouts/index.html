@@ -1,297 +1,89 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default "en" }}" itemscope itemtype="https://schema.org/WebPage">
+<html lang="{{ $.Site.LanguageCode | default "en" }}" itemscope itemtype="http://schema.org/WebPage">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>
+    {{- block "title" . -}}
+      {{ if .IsPage }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}
+    {{- end -}}
+  </title>
   {{ partial "head.html" . }}
 </head>
 <body>
+  {{ if or .Site.Params.photoswipe .Site.Params.fancybox }}
+    {{ partial "photoswipe.html" . }}
+  {{ end }}
+  <header id="header" class="header container">
+    {{ partial "header.html" . }}
+  </header>
+  <div id="mobile-panel">
     <main id="main" class="main bg-llight">
       <div class="content-wrapper">
         <div id="content" class="content container">
-          <div class="post bg-white">
-              <div class="post-content">
-
-<h1 style="color:#2b2b2b">咨爾多士！惟旹柯棋瀚箇人主葉。</h1>
-<b>域名已於 2018-12-03 從 kujihhoe.com 遷移到 kqh.ac，請大家及時更新</b>
-<br><br>
-<center>👏🏾👏🏽👏👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏👏👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏　　　　👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏  　　⬇︎　　  👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏　　　　　　　　👏👏🏼👏🏽👏🏾</center>
-<center>👏🏽👏&nbsp;&nbsp;➡︎　　<img src="https://api.superbed.cn/pic/5bf762a5c4ff9e05833a06bd" Width="140">　　⬅︎&nbsp;&nbsp;👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏　　　　　　　　👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏  　　⬆︎　　  👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏　　　　👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏👏👏👏🏼👏🏽👏🏾</center>
-<center>👏🏾👏🏽👏👏👏🏼👏🏽👏🏾</center>
-<br>
-<center>永嘉田家後　生於九七秊　長于錦官城　讀的歷史系</center>
-<center>我當然不會告訴伱具體生日　因爲名字就有我的八字</center>
-<center>我從小到大的外號依次爲　柯柯　主席　柯手　師傅　柯神　蓮蓮　柯柯</center>
-<div id="footer" class="footer">
-<div class="social-links">
-  <a href="/kujihhoe (EDE37172) .asc" target="_blank">PGP</a>　{{ partial "social_links.html" . }}
-</div>
-</div>
-<center>投稿、交換友鏈及其佗任何問題都可以評論或發郵件</center>
-<center><p style="color:grey"><font size="2">（⬇︎紅色的字都是可以點的⬇︎）</font></p></center>
-<br><br>
-<h1 id="-post-"><a href="/post/">博客</a></h1>
-<center><img src="https://api.superbed.cn/pic/5bf80b58c4ff9e058246005e" ></center>
-<br><br>
-<h1><a href="https://music.163.com/#/artist?id=13612790"  target="_blank">古琴</a></h1>
-<center><img src="https://api.superbed.cn/pic/5bf6976ec4ff9e05833a067f" width="400"></center>
-
-<p>在網易雲音樂開了音樂人：赫赫文王。現在的是今秊四月初錄的，不怎麼滿意，在錄音棚狀態跟平時彈不太一樣。計畫以後每秊元旦㪅新。  </p>
-<p>㪅多見 <a href="https://kujihhoe.com/categories/古琴/"  target="_blank">古琴</a> 分類  </p>
-<p>我在 B 站上發了 <a href="https://kujihhoe.com/blog/2018/11/10/pu.html"  target="_blank">王華德琴譜稿及未出版歷史錄音</a>  </p>
-<br><br>
-
-<h1><a href="http://music.163.com/#/radio/527105637?userid=275990862">田埜錄音</a></h1>
-<center><img src="https://api.superbed.cn/pic/5bf6970fc4ff9e058245ff3b" width="170"></center>
-<p>在網易雲音樂開了電臺：情形于声</p>
-
-<br><br>
-<h1><a href="https://500px.me/kujihhoe"  target="_blank">書灋 × 平面</a></h1>
-<center><img src="https://ww1.sinaimg.cn/large/007iUjdily1fxh2w8s4wvj31rk03r0t2" width="430"></center>
-<p>厚顏无恥地用「平面設計」這箇詞，其實自己一點都不會，就是在社團的旹候做了一點毫无技術含量的海報、封面之類。  </p>
-<p>㪅多見 <a href="https://kujihhoe.com/tags/墨池記/"  target="_blank">墨池記</a> 系列  </p>
-
-<br><br>
-<h1><a href="https://space.bilibili.com/176570453/#/dynamic"  target="_blank">讀中古音</a></h1>
-<center><img src="https://api.superbed.cn/pic/5bf6970fc4ff9e058245ff3c" width="160"></center>
-<p>B 站上放一些用切韻擬音來讀的文章。現在有《立部伎》《隻麟》兩篇，以後我計畫先把尚書讀完，可能的話一兩周㪅一篇。  </p>
-<p>㪅多見 <a href="https://kujihhoe.com/tags/音韻/"  target="_blank">音韻</a> 系列</p>
-
-<br><br>
-<h1 style="color:#2b2b2b">旁白配音</h1>
-<h3 style="color:#2b2b2b">1、</h3>
-<p>優酷：<a href="https://v.youku.com/v_show/id_XMTczMjYwMDEzNg==.html?spm=a2h0k.11417342.soresults.dtitle" target="_blank">北師大政府管理學院四名學生深入彌勒市林區 探訪護林員</a>（2016 暑期社會實踐成果）</p>
-<p>是一位髙中同學叫我幫忙錄的。用的一箇類似採訪用的小蜜蜂那樣的拾音設備。㝡奇怪的是爲何做視頻的人要把我的旁白調快？？這樣很奇怪很彆扭。</p>
-<h3 style="color:#2b2b2b">2、</h3>
-<p>B 站：<a href="https://www.bilibili.com/video/av35467511/" target="_blank">阿昌刀鍛造工藝——2016暑期實踐紀實</a></p>
-<p>㪅多見 <a href="https://kujihhoe.com/post/134husa"  target="_blank">記二〇一六秊戶撒刀暑期實踐</a></p>
-
-<br><br>
-<h1 style="color:#2b2b2b">文章、發表</h1>
-<p>我這發上來完全是貽笑大方，大方無視便是。竝非爲了誇耀，其實這些文章沒什麼水平，只是想鞭策自己努力。如果以後能走上學術道路，那這些也筭作一箇起點。（內部刊物指沒有公開發行刊號的刊物）</p>
-<h2 style="color:#2b2b2b">本科階段</h2>
-<p>1、<a href="https://kujihhoe.com/blog/2018/02/09/houzuowu.html"  target="_blank">蜀中琴人侯作吾先生</a>　《錦江琴刊》（川派古琴學會會刊，內部刊物）第二期丁酉刊</p>
-<p>2、<a href="https://kujihhoe.com/blog/2017/10/28/fuchou.html"  target="_blank">《公羊傳》齊襄復讎事詮釋史</a>　2017 秊「白壽彝史學論著獎·本科生獎」三等獎；《春秋學刊》（內部刊物）<a href="https://kujihhoe.com/blog/2018/03/25/xuekan5.html"  target="_blank">2017 秊秌季卷</a> ；《唐山師笵學院學報》<a href="https://pan.baidu.com/s/1CcePh-mJSJsaRm_uvQ98JA"  target="_blank">2018 秊第 5 期</a>（人生弟一篇公開發表的呢）</p>
-<p>3、<a href="https://kujihhoe.com/blog/2018/08/04/sangfu.html"  target="_blank">雷次宗的喪服學</a>　2018 秊「白壽彝史學論著獎·本科生獎」三等獎</p>
-
-<br><hr><br>
-（接第一部分古琴）
-<h2 style="color:#2b2b2b">學琴順序</h2>
-<p>2013  秊  1—3  月 跟董老師：</p>
-<ol>
-<li><p>秋風詞</p>
-</li>
-<li><p>湘妃怨</p>
-</li>
-<li><p>酒狂。2016 秊 11 月重新據神譜梳理了一徧</p>
-</li>
-<li><p>關山 月</p>
-</li>
-<li><p>桃李園序</p>
-</li>
-<li><p>神人暢（何老）2013 秊 7 月—9 月 15 日</p>
-</li>
-<li><p>陽關三疊（據譜）2013 秊 9 月 20 日—？</p>
-</li>
-<li><p>平沙落雁（何老）2013 秊 11 月</p>
-</li>
-<li><p>梅花三弄（何老）2013 秊 12 月</p>
-</li>
-<li><p>髙山（何老）2014 秊 3 月</p>
-</li>
-<li><p>滿江紅）（何老據譜）2014 秊 4 月？</p>
-</li>
-<li><p>醉漁唱晚（何老）？</p>
-</li>
-<li><p>普庵咒（何老）？</p>
-</li>
-<li><p>良宵引（何老）？</p>
-</li>
-<li><p>憶故人（何老）2014 秊 8 月</p>
-</li>
-<li><p>泛滄浪（神譜）2014 秊 10 月</p>
-</li>
-<li><p>佩蘭（何老）2015 秊 7 月</p>
-</li>
-<li><p>梅花三弄（神譜）2015 秊 7 月。10 枼</p>
-</li>
-<li><p>陽春（神譜）2015 秊 7 月。7 枼</p>
-</li>
-<li><p>猿鶴雙清（何老）2015 秊 8 月</p>
-</li>
-<li><p>佩蘭（王爺雨果）2015 秊 8 月</p>
-</li>
-<li><p>猿鶴雙清（王爺雨果）2015 秊 8 月</p>
-</li>
-<li><p>髙山（王爺雨果）2015 秊 8 月</p>
-</li>
-<li><p>漁樵問答（何老據吳㬌畧譜）2016 秊 8 月</p>
-</li>
-<li><p>瀟湘水雲（神譜）2016 秊 8 月</p>
-</li>
-<li><p>洞庭秋思（西麓堂）2016 秊 10 月</p>
-</li>
-<li><p>髙山（神譜）2016 秊 12 月。11 枼</p>
-</li>
-<li><p>招隐（神譜）2017 秊 1 月。2 枼</p>
-</li>
-<li><p>神人畅（西麓堂）2017 秊 1 月</p>
-</li>
-<li><p>流水（神譜）2017 秊 2 月。14 枼</p>
-</li>
-<li><p>髙山流水（神譜）2017 秊 3 月。據神譜改</p>
-<p>複習陽春、泛滄浪、瀟湘水雲、梅花三弄（神譜）</p>
-</li>
-<li><p>玄默（神譜）2017 秊 7 月。5 枼。三天背下來</p>
-</li>
-<li><p>广陵散（神譜）2017 秊 7 月</p>
-</li>
-<li><p>幽兰（卷子谱）2018 秊 2 月</p>
-</li>
-<li><p>白雪（神譜）2018 秊 4 月</p>
-</li>
-<li><p>大雅（神譜）2018 秊 11 月</p>
-</li>
-</ol>
-<p>下一步：</p>
-<p>山中思友人（神譜）。2 枼</p>
-<p>秋月照茅亭（神譜）。4 枼</p>
-<p>颐真（神譜）。6 枼</p>
-<p>遁世操（神譜）。8 枼</p>
-<p>获麟（神譜）。6 枼</p>
-<p>瀟湘水雲（何老）</p>
-<p>小胡笳（神譜）。13 枼</p>
-
-<h2 style="color:#2b2b2b">表演記錄</h2>
-<p>#考古時間到。天殺的微信，信息檢索太不方便，搜也搜不到，只能挨箇去翻，翻也不方便，兩年前的推送翻了五分鐘。微信什麼時候能倒閉啊？</p>
-<p>我把我所有用過話筒的場合都記下來，可能很多雞毛蒜皮的，純粹是我箇人的記錄，不用在意。</p>
-<h4 id="-1-2015-7-">（1）2015 秊 7 月，在江南大酒店喫酒，佩蘭</h4>
-<p>第一次表演。</p>
-<h4 id="-2-2015-9-19-">（2）2015 秊 9 月 19 日，學院迎新晚会，佩蘭、平沙</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad989c4ff9e05833a0a41" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/p6rwjr2QtQ3psUXYYnu-FQ"  target="_blank">迎新特辑｜&quot;初见欢·历史学院 迎新晚会&quot;正式开演！！！</a></p>
-<blockquote>
-<p>紧接着，同学们开始各显其能。洋洋盈耳的朗诵，余音绕梁的琴筝和鸣，古风古韵的采薇之舞，妙语连珠的小品表演，青春洋溢的歌曲串烧，让晚会的气氛变得愈发欢快热烈。</p>
-</blockquote>
-<h4 id="-3-2015-11-14-">（3）2015 秊 11 月 14 日，燕歸來，學活，梅花三弄</h4>
-<center><img src="https://api.superbed.cn/pic/5bfadcb0c4ff9e05824602c8"  width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/0vuiVu0f-vUBS9TZWaWVzw"  target="_blank">【“燕归来”传统文化节】闭幕式圆满落幕！</a></p>
-<blockquote>
-<p>第二篇章名为“古韵悠悠”。由松风琴社、书法协会共同带来的《清律逸风》将现场书法与古琴演奏相结合，蕴含着中国古代文人的情怀。</p>
-</blockquote>
-<h4 id="-4-2016-1-24-">（4）2016 秊 1 月 24 日，乾坤琴社秊會，溫江，佩蘭</h4>
-<center><img src="https://api.superbed.cn/pic/5bfae0eec4ff9e05833a0a45"  width="400"></center>
-
-<p>網上新聞已經被刪除了。</p>
-<h4 id="-5-2016-3-">（5）2016 秊 3 月，輔仁校區，猿鶴雙清、佩蘭</h4>
-<p>一箇什麼傳統文化班叫我去。</p>
-<h4 id="-6-2016-5-1-">（6）2016 秊 5 月 1 日，第八屆全國大學生古琴音樂會，武漢大學，猿鶴雙清</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad58dc4ff9e05833a0a38" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/dc-RsUYLc3UiJv75V-b07g"  target="_blank">第八届全国大学生古琴音乐会在武汉珞珈山成功举办</a></p>
-<h4 id="-7-2016-5-14-">（7）2016 秊 5 月 14 日，松風琴社八周年社慶，輔仁校區</h4>
-<center><img src="https://api.superbed.cn/pic/5bfadfc1c4ff9e05824602c9" width="400"></center>
-<br>
-<center><img src="https://api.superbed.cn/pic/5bfade52c4ff9e05833a0a44" width="300"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/ITszamrMnT7qbmeqF1tY_w"  target="_blank">活动 | 松风生日快乐！——辅仁雅集小记</a></p>
-<blockquote>
-<p>千手白莲！划掉……应该是盛开的柯同学.jpg</p>
-</blockquote>
-<h4 id="-8-2016-6-3-">（8）2016 秊 6 月 3 日，學院畢業晚會，與王佳玥古箏合奏梅花</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad6dec4ff9e05833a0a3a" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/OGT6ZhBbL6wVqtUFxS8wtw"  target="_blank">“历历在木”历史学院2016届毕业生晚会精彩落幕！</a></p>
-<blockquote>
-<p>器乐合奏的《梅花三弄》意境悠远，令人叹赏。</p>
-</blockquote>
-<h4 id="-9-2016-9-">（9）2016 秊 9 月，日本代表團，王東平老師主持，學院會議室，渔樵</h4>
-<h4 id="-10-2016-9-">（10）2016 秊 9 月，琴社迎新，梅花</h4>
-<h4 id="-11-2016-11-12-">（11）2016 秊 11 月 12 日，燕歸來，學活，漁樵，有茶藝書法。</h4>
-<center><img src="https://api.superbed.cn/pic/5bfadc16c4ff9e05833a0a42" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/YmJo5cXbSI5lYKt1e5MPKQ"  target="_blank">【“燕归来”传统文化节】“华光九域”专场演出</a></p>
-<blockquote>
-<p>琴棋书画在中国传统文化中必不可少，那么《渔樵汲泉》则不容错过。春秋学社和松风琴社，北京农学院惊云书画社以及茗声茶社联合为我们展示了琴，书，画三者的完美结合。</p>
-</blockquote>
-<h4 id="-12-2017-4-23-">（12）2017 秊 4 月 23 日，第八屆北京大學生古琴音樂會，敬文講堂，髙山流水</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad46fc4ff9e05824602c4" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/4cVNGMUKDAJKIRxJ9k_4Dw"  target="_blank">活动 |“挟仙游”第八届北京大学生古琴音乐会圆满落幕</a></p>
-<blockquote>
-<p>《高山》《流水》本一曲也，初志在乎高山，言仁者乐山之意，后志在乎流水，言智者乐水之意，至唐分为两曲，由是原曲难寻。柯棋瀚同学追寻古人的脚步，尽力构拟出此曲原始结构，为听者展示了他心中的《高山流水》。</p>
-</blockquote>
-<p><a href="http://zhuye.bnu.edu.cn/bsdkx/83902.html"  target="_blank">第八届北京大学生古琴音乐会在我校举行</a>，這篇新聞已經沒了，以下是殘留：</p>
-<blockquote>
-<p>4月23日，第八届北京大学生古琴音乐会在我校举行。北京市各高校琴社代表、京内古琴界师友和我校师生共300余人观看了音乐会。 音乐会以“挟仙游”为主题，演出曲目包括《高山流水》、《良宵引》等传世古琴名曲，涵盖咏物、抒情、言志等各类主旨，并以独奏、琴箫合奏、古琴琵琶二重奏等多种演奏方式呈现。整场音乐会将古琴清、和、淡、雅的音乐品格展现得淋漓尽致，让观众感受到了古琴艺术恒久的魅力。 北京大学生古琴音乐会</p>
-</blockquote>
-<h4 id="-13-2017-9-502-">（13）2017 秊 9 月，文學院社團宣講，教九 502，廣陵散一分鐘</h4>
-<h4 id="-14-2017-12-">（14）2017 秊 12 月，臺大琴社在臺北故宮的雅集，梅花三弄刪宋、髙山、陽春</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad2cac4ff9e05833a0a34" width="400"></center>
-
-<p>視頻見 <a href="https://www.facebook.com/ntuqinclub/videos/1985472468147164/"  target="_blank">臉書</a></p>
-<blockquote>
-<p>臺大古琴社至善雅集(一)</p>
-<p>等待整整一個期末加上寒假，106上學期雅集的剪輯影片終於出爐啦！在戶外的松風閣撫琴，影片錄音難免有忙碌的交通哨聲、車聲、啦叭聲，經過汰選剪輯後已盡量避免，而最可喜的，是琴音背後，尚有當時鳥蟲鳴叫，風聲樹葉交相呢喃的自然之音，實在太棒了！</p>
-<p>聽到川派聲音了嗎？柯社長上學期來到台灣交換一學期，習琴五年，第一首刪宋梅花便是他自己改編自神奇秘譜的梅花三弄呢，高山見其巍峨，而陽春，則是希望借助此曲一抹微陽來溫暖場地，以解決當日過閣冷風下快要凍僵窘境，這其中，大家是否也感受到了濃濃的川味......？（誤</p>
-<p>讓我們一起期待下一集的剪輯回顧吧！</p>
-<p>演奏：北京師範大學　柯棋瀚
-地點：臺北故宮至善園
-影片剪輯：臺大古琴社十三屆社長　李尚謙</p>
-</blockquote>
-<h4 id="-15-2018-2-3-">（15）2018 秊 2 月 3 日，乾坤琴社秊會，泛滄浪、神人暢</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad039c4ff9e05824602c1" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/gVuO6srVvOLAeMsDe82d8g"  target="_blank">阆苑仙葩-乾坤琴社2017年会</a></p>
-<h4 id="-16-2018-4-20-">（16）2018 秊 4 月 20 日，南山詩社，學活，佩蘭</h4>
-<center><img src="https://api.superbed.cn/pic/5bfacfa3c4ff9e05824602c0" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/V-5IxDPgGiSmRPW-WwiVPA"  target="_blank">南山专场 | 南山诗社十一周年专场表演《雨霖铃》圆满结束</a></p>
-<blockquote>
-<p>在此，南山诗社还要特别感谢松风琴社为我们带来的古琴曲《佩兰》和韶兮国乐社的民乐合奏《春江花月夜》! 感谢韶兮国乐社对本次专场演出的大力支持！</p>
-</blockquote>
-<h4 id="-17-2018-4-24-">（17）2018 秊 4 月 24 日，韶兮國樂社，學活，白雪（慘烈車禍）</h4>
-<center><img src="https://api.superbed.cn/pic/5bface6ac4ff9e05824602bf" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/rI1gOv201XNYhOL8vUyBRw"  target="_blank">四季弦歌｜韶兮國樂社專場音樂會圓滿閉幕</a></p>
-<blockquote>
-<p>柴门闻犬吠，风雪里、却不见夜归人。绿蚁新醅，温了又凉，红炉小火，燃了，又熄。同样是雪，《江山雪》引人神伤，《白雪》则少了些萧瑟寂寥之意，多了些凛然清洁、雪竹琳琅之音。琴者，禁也。含天地之醇和兮，吸日月之休光。禁人邪恶，归於正道。故谓之琴。</p>
-</blockquote>
-<p>寫的啥啊，</p>
-<h4 id="-18-2018-5-20-">（18）2018 秊 5 月 20 日，松風琴社十周年，憶故人</h4>
-<center><img src="https://api.superbed.cn/pic/5bfad3aac4ff9e05824602c3" width="400"></center>
-
-<p>活動詳情見：<a href="https://mp.weixin.qq.com/s/WGg_z1UKNd1GS7BqpCFmBQ"  target="_blank">活动｜松风琴社成立十周年纪念活动现场回顾</a></p>
-<blockquote>
-<p>历任社长讲话之后，大家齐齐推举心目中的大佬上台弹琴，大佬们也向萌新传授了一些古琴知识。</p>
-</blockquote>
-<h4 id="-19-2018-9-6-">（19）2018 秊 9 月 6 日，文學院社團宣講，敬文講堂，髙山開頭</h4>
-<h4 id="-20-2018-11-25-">（20）2018 秊 11 月 25 日，世界課例大會閉幕式，敬文講堂，幽蘭二至四段</h4>
-
-
-<h4>（21）2018 秊 11 月29 日，「誦讀經典 禮讚輝煌」北京高校中華經典詩詞誦讀吟唱比賽決賽，學活，幽蘭三四段</h4>
-<p><a href="https://app.bjtitle.com/8816/videoshow.php?newsid=5199592&mood=wx&typeid=&did=659ca82cbfd14ccc9079957033cdce89&ntype=0" target="_blank">直播地址</a>，我在 1 小旹 54 分。</p>
-<center><img src="https://api.superbed.cn/pic/5c04db05c4ff9e0582460c53" width="400"></center>
-<p>活動詳情見：<a href="http://news.bnu.edu.cn//zx/zhxw/105568.htm" target="_blank">第三届北京高校中华经典诗词诵读吟唱比赛决赛举行</a>、<a href="https://mp.weixin.qq.com/s/rPqhb6QVAE94XGPg-2CwzQ" target="_blank">第三届北京高校“诵读经典 礼赞辉煌”中华经典诗词诵读吟唱比赛决赛圆满落幕</a></p>
-<blockquote>
-<p>松风琴社《碣石调幽兰》选段</p>
-</blockquote>
-
+          {{- $paginator := .Paginate (where .Pages.ByLastmod.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
+          <section id="archive" class="archive">
+          {{- if not $paginator.HasPrev }}
+              <div class="archive-title">
+                <p class="archive-post-counter">
+                  {{- $length := len .Data.Pages }}
+                    {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
+                </p>
               </div>
+                {{- end -}}
+              <div class="archive-post" >
+              <span class="archive-post-time" >發布旹閒
+                <br>攸改旹閒</span>
+                <span class="archive-post-title">作者｜標題（按修改時間倒敘）</span>
+          <a class="archive-post-categories">分類</a><br>
+            <a class="archive-post-tags">/ 系列</a>
           </div>
+            {{- range $element := $paginator.Pages -}}
+              <div class="archive-post">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
+                  {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+                  {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+                </time>
+                <span class="archive-post-title">
+                {{ .Params.author }}｜<a href="{{ $element.URL }}" class="archive-post-link">{{ .Title }}</a>
+                  </span>
+              <span class="archive-post-categories">
+                  {{ with .Params.categories -}}
+                      {{ range . }}
+                      {{- $name := . -}}
+                      {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
+                        <a href="/categories/#{{ $name }}" >{{ $name }}</a>
+                      {{ end -}}
+                      {{ end }}
+                  {{- end }}
+                  </span>
+          <br>
+                  <span class="archive-post-tags">
+                  {{ with .Params.tags -}}
+                      {{ range . }}
+                      {{- $name := . -}}
+                      {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
+                      <a href="/tags/#{{ $name }}" >{{ $name }}</a>
+                      {{ end -}}
+                      {{ end }}
+                  {{- end }}
+                  </span>
+              </div>
+            {{- end -}}
+          </section>
+          <!-- pagination -->
+          {{ partial "pagination.html" . }}
+
         </div>
       </div>
     </main>
+    <footer id="footer" class="footer">
+      {{ partial "footer.html" . }}
+    </footer>
+    </div>
+    <div id="cc-myssl-id" style="position: fixed;right: 0;bottom: 0;width: 59px;height: 59px;z-index: 99;">
+    <a href="https://myssl.com/kqh.ac?from=mysslid" target="_blank"><img src="https://static.myssl.com/res/images/myssl-id.png" alt="" style="width:100%;height:100%"></a>
+</div>
   {{ partial "scripts.html" . }}
 </body>
 </html>
