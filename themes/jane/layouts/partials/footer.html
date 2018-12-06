@@ -24,9 +24,9 @@
     </span>
     {{- if or .Site.Copyright .Site.Author.name -}}
       <span class="author">
-        {{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}
+        <a href="https://keqh.me/" target="_blank">{{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}
         {{ else }}{{ .Site.Author.name | safeHTML }}
-        {{ end }}
+        {{ end }}</a>
       </span>
     {{- end -}}
   </span>
