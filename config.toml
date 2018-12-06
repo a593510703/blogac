@@ -61,7 +61,7 @@ parent = "外鏈"
     url = "https://keqh.me/"
     [[menu.main]]
 parent = "外鏈"
-      name = "柯棋瀚維基"
+      name = "箇人維基"
       weight = 80
       url = "https://kqh.wiki/"
       [[menu.main]]

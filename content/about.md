@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "緫序"
 date: 2017-10-04
-lastmod: 2018-11-30
+lastmod: 2018-12-06
 menu:
   main:
     weight: 50
@@ -55,14 +55,14 @@ url: /blog/2017/10/04/uomk.html
 
 # 四、曷所建之？
 
-- 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a> 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS、SSL，<a href="https://git-lfs.github.com/" target="_blank">Git LFS</a>、<a href="https://portal.qiniu.com/dora" target="_blank">~~七牛雲~~</a> [聚合圖牀](https://www.superbed.cn) 提供圖牀，<a href="http://busuanzi.ibruce.info/" target="_blank">不蒜子</a> 提供全站訪客量（UV）、點擊量（PV）統計（自 20171021 開始），[Valine](https://valine.js.org) 提供評論模塊，leancloud 提供文章點擊量（PV）統計（20181026 之歬爲 UV，之後開始累加 PV）~~，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~。
+- 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a> 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS、SSL，<a href="https://git-lfs.github.com/" target="_blank">Git LFS</a>、<a href="https://portal.qiniu.com/dora" target="_blank">~~七牛雲~~</a> [聚合圖牀](https://www.superbed.cn) 提供圖牀，~~<a href="http://busuanzi.ibruce.info/" target="_blank">不蒜子</a> 提供全站訪客量（UV）、點擊量（PV）統計（自 20171021 開始），~~[Valine](https://valine.js.org) 提供評論模塊，leancloud 提供文章點擊量（PV）統計（20181026 之歬爲 UV，之後開始累加 PV）~~，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~。
 - 【字體】字體是我㝡重視的。正文是宋體，引文是黑體。首選日文字體 Hiragino Mincho ProN，這箇字體應該所有系統都自帶，其次是 Yu Mincho。西文字體首選 AldusnovaW01，其次 Palatino Linotype。字號 20px。
 - 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kujihhoe.com" target="_blank">Google</a>（Google 收錄得又全又快）或 <a href="https://www.bing.com/search?q=site:kujihhoe.com" target="_blank">Bing</a>（Bing 是箇好同志，不用翻牆，歡迎大家用 Bing 取代百度）例子：`site:kujihhoe.com 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
-- 【大事記】2017-10-03 建站 kujihhoe.com。2017-10-27 弟二版。2018-11-21 弟三版。2018-12-04 域名變㪅爲 kqh.ac。詳見 [Hello world!](/blog/2017/10/04/shuoming.html)
+- 【大事記】2017-10-03 建站 kujihhoe.com。2017-10-27 弟二版。2018-11-21 弟三版。2018-12-04 域名變㪅爲 kqh.ac，12-06 啓用四個網站。詳見 [Hello world!](/blog/2017/10/04/shuoming.html)
 
 # 五、示
 
-- 本站所有文章授權方式采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a> （署名-非商業性使用-相同方式共享）國際條款，若需使用，請務必閱讀竝遵循條款內容。說簡單點，非商業性使用無須告知作者，只要標明作者、出處就好（當然，沒人會轉載我的文章的，想多了）。爲便於排版，直接取用 md [源文件](https://github.com/kujihhoe/kujihhoe.github.io/tree/master/_posts) 卽可。如果發現有錯別字，也可以在 Git 上幫我改正。
+- 本站所有文章授權方式采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a> （署名-非商業性使用-相同方式共享）國際條款，若需使用，請務必閱讀竝遵循條款內容。說簡單點，非商業性使用無須告知作者，只要標明作者、出處就好（當然，沒人會轉載我的文章的，想多了）。爲便於排版，直接取用 md [源文件](https://github.com/kujihhoe/blogac/tree/master/content) 卽可。如果發現有錯別字，也可以在 Git 上幫我改正。
 
 - 若發現文章中有不適冝的內容（如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等），請儘速 [郵件](mailto:1@kqh.ac) 或評論告知我，我將盡㝡快速度處理。
 
@@ -71,4 +71,5 @@ url: /blog/2017/10/04/uomk.html
 - 訂閱此博客，可通過 RSS，或在評論區告知我，僅需要塡上您的郵箱卽可，每次㪅新後我將發送郵件通知您。MailChimp 好象被牆了，難受死了。
 
 - 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益及讚賞表](/blog/2018/11/06/zjuh.html)。You can support me via [paypal](https://paypal.me/kujihhoe).
+
   <div style="text-align: center"><img src="https://api.superbed.cn/pic/5bf82416c4ff9e058246008d" width="100px"></div>
