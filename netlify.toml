@@ -28,7 +28,6 @@ HUGO_VERSION = "0.52"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
 [[redirects]]
 from = "https://kqh.life/*"
 to = "https://kqh.ac/:splat"

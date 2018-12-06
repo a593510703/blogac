@@ -116,9 +116,7 @@ url: /blog/2018/10/27/links.html
 
 # 四、師友們
 
-已下爲我的老師、朋友們的平臺（獨立博客優先）：
-
-<img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowl1ng](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。〔隔壁的多材多蓺的程序媛師姐的博客〕
+已下爲我的老師、朋友們的平臺：
 
 大動物的 [豆瓣](https://www.douban.com/people/178199972/)、[知乎](https://www.zhihu.com/people/hua-zhe-80/activities)。〔新書出版，走過路過不要錯過！〕
 
@@ -134,13 +132,15 @@ JBJ 的公眾號 **UnbelievableRadio**：親愛的聽眾朋友，我是伱的代
 
 <center><img src="https://www.superbed.cn/pic/5beed95c9dc6d61ad66ee7da"  width="86"/></center>
 
+南開流惜子的公眾號 **惜言落雨**：滿紙荒唐言。〔大佬啊大佬〕
+
+<center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
+
 LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。〔腦洞眞大呀〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9799dc6d61ad66ee7dc"  width="86"/></center>
 
-南開流惜子的公眾號 **惜言落雨**：滿紙荒唐言。〔大佬啊大佬〕
-
-<center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
+<img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowling](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。〔隔壁的多材多蓺的程序媛師姐的博客〕
 
 琴社一位妹子的公眾號 **時悅清歡**：悅享人生，時空有愛是清歡！〔新開，「我想一直做下去，希望成爲生活的一部分吧」，她如是說〕
 
