@@ -105,3 +105,54 @@ from = "https://master.kqhlife.netlify.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://kqh.ac/blog/2017/11/14/qizhong.html"
+to = "https://kqh.wiki/?file=002-攷試資料/001-遼金元史中國經濟史詩經期中"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/01/04/qimo.html"
+to = "https://kqh.wiki/?file=002-攷試資料/002-輔仁大學期末筆記、考題"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/06/22/zhongxiankao.html"
+to = "https://kqh.wiki/?file=002-攷試資料/003-中國現當代史"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/06/24/waishikao.html"
+to = "https://kqh.wiki/?file=002-攷試資料/004-外國史學史"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/06/29/bowukao.html"
+to = "https://kqh.wiki/?file=002-攷試資料/005-博物館學基礎"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/07/02/shixiankao.html"
+to = "https://kqh.wiki/?file=002-攷試資料/006-世界現代史"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/07/05/vsguddxx.html"
+to = "https://kqh.wiki/?file=002-攷試資料/010-中國古代史下"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/07/05/vsgudduh.html"
+to = "https://kqh.wiki/?file=002-攷試資料/009-中國古代史上"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/07/05/uivsgu.html"
+to = "https://kqh.wiki/?file=002-攷試資料/008-世界中古史"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/07/05/uiuhgu.html"
+to = "https://kqh.wiki/?file=002-攷試資料/007-世界上古史"
+status = 301
+force = true
