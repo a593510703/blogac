@@ -56,12 +56,12 @@ defaultContentLanguage = "en"           # Default language to use
   url = "/author/"
   [[menu.main]]
 parent = "外鏈"
-    name = "箇人主葉"
+    name = "主葉"
     weight = 70
     url = "https://keqh.me/"
     [[menu.main]]
 parent = "外鏈"
-      name = "箇人維基"
+      name = "維基"
       weight = 80
       url = "https://kqh.wiki/"
       [[menu.main]]
