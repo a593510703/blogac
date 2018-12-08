@@ -6,7 +6,8 @@
     <div class="archive-title">
       <p class="archive-post-counter">
         {{- $length := len .Data.Pages }}
-          {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
+          {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字<br>
+        外鏈：<a href="https://keqh.me" target="_blank">主葉</a>　<a href="https://kqh.wiki" target="_blank">維基</a>　<a href="https://qinpu.wiki" target="_blank">琴譜网</a>
       </p>
     </div>
       {{- end -}}
