@@ -52,11 +52,11 @@ url: /blog/2018/10/27/links.html
 
 已下爲互換了友鏈的小伙伴：
 
-[尚磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域，希望通過這箇博客積累和分享生活和工作中的點滴發現。<font size="2.4" color="#777">（20181028）</font>
+[尚磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域。<font size="2.4" color="#777">（20181028）</font>
 
 <img src="https://raw.githubusercontent.com/ruibaby/halo/master/src/main/resources/static/images/favicon.ico" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<font size="2.4" color="#777">（20181027）</font>
 
-![](https://cdn.2.uploads.cn/2018/09/LOGO(2017年7月28日改版)-1534892585-1-1535836601.png)　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<font size="2.4" color="#777">（20181027）</font>
+（logo 下不了）　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<font size="2.4" color="#777">（20181027）</font>
 
 <img src="https://tp.corli.cn/data/f_37774230.jpg" width="60" alt="Alt Text" />　[冰峰博客](http://www.ad-s.cn/)　站長暱稱：司馬鶴軒<font size="2.4" color="#777">（20181028）</font>
 
@@ -79,8 +79,6 @@ url: /blog/2018/10/27/links.html
 <img src="https://ws1.sinaimg.cn/large/007awE00ly1furmucjnlkj303k03kq35.jpg" width="60">　[清樓小築](https://www.hostm.cn)　緫有一天伱會感謝現在的疼<font size="2.4" color="#777">（20181110）</font>
 
 [生有夏花](http://www.xiatian.pro)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<font size="2.4" color="#777">（20181122）</font>
-
-[純潔的微笑](http://www.ityouknow.com/)　我是纯洁的微笑，一个仍然在路上，向往自由和梦想的人！
 
 # 三、推廣
 
@@ -134,13 +132,13 @@ JBJ 的公眾號 **UnbelievableRadio**：親愛的聽眾朋友，我是伱的代
 
 <center><img src="https://www.superbed.cn/pic/5beed95c9dc6d61ad66ee7da"  width="86"/></center>
 
-南開流惜子的公眾號 **惜言落雨**：滿紙荒唐言。〔大佬啊大佬〕
-
-<center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
-
 LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。〔腦洞眞大呀〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9799dc6d61ad66ee7dc"  width="86"/></center>
+
+南開流惜子的公眾號 **惜言落雨**：滿紙荒唐言。〔大佬啊大佬〕
+
+<center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
 
 琴社一位妹子的公眾號 **時悅清歡**：悅享人生，時空有愛是清歡！〔新開，「我想一直做下去，希望成爲生活的一部分吧」，她如是說〕
 
@@ -238,6 +236,6 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [KenjiEndo](http://kenjiendo.com)　〔見過的㝡有設計感的博客〕
 
-[JJ Ying](http://iconmoon.com)　
+[JJ Ying](http://iconmoon.com)　〔AnyWay.FM 也太好看！我的主葉受到他的啓發〕
 
 [You Byun](http://www.youbyun.com)　
