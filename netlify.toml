@@ -172,7 +172,7 @@ to = "https://kqh.wiki/?file=003-筆記/003-尚書/001-凡例"
 status = 301
 force = true
 [[redirects]]
-from = "https://kqh.ac//blog/2017/10/04/uomk.html"
+from = "https://kqh.ac/blog/2017/10/04/uomk.html"
 to = "https://kqh.ac/about"
 status = 301
 force = true
