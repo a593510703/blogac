@@ -6,7 +6,7 @@ lastmod: 2018-12-08
 menu:
   main:
     weight: 50
-url: /blog/2017/10/04/uomk.html
+url: /about
 ---
 <!--more-->
 

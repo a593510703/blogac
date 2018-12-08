@@ -2,11 +2,11 @@
 author: "柯棋瀚"
 title: "友鏈"
 date: 2018-10-27
-lastmod: 2018-11-24
+lastmod: 2018-12-08
 menu:
   main:
     weight: 60
-url: /blog/2018/10/27/links.html
+url: /links
 ---
 
 **域名已於 2018-12-03 從 kujihhoe.com 遷移到 kqh.ac，請大家及時更新**
