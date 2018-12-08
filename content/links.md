@@ -56,7 +56,7 @@ url: /blog/2018/10/27/links.html
 
 <img src="https://raw.githubusercontent.com/ruibaby/halo/master/src/main/resources/static/images/favicon.ico" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<font size="2.4" color="#777">（20181027）</font>
 
-![](https://github.com/kujihhoe/blog-files/raw/master/LOGO20170728.png)　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<font size="2.4" color="#777">（20181027）</font>
+![](https://cdn.2.uploads.cn/2018/09/LOGO(2017年7月28日改版)-1534892585-1-1535836601.png)　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<font size="2.4" color="#777">（20181027）</font>
 
 <img src="https://tp.corli.cn/data/f_37774230.jpg" width="60" alt="Alt Text" />　[冰峰博客](http://www.ad-s.cn/)　站長暱稱：司馬鶴軒<font size="2.4" color="#777">（20181028）</font>
 
@@ -64,7 +64,7 @@ url: /blog/2018/10/27/links.html
 
 <img src="https://secure.gravatar.com/avatar/432d8583e332c3c170e590c6dff16d7a?s=400&d=identicon&r=g"  width="60" alt="Alt Text" />　[@修己](https://ji.ci/msg)　修己安人<font size="2.4" color="#777">（20181029）</font>
 
-<a href='https://www.cnzknet.com' target='_blank'><img src='https://github.com/kujihhoe/blog-files/raw/master/fwid.png' alt='肥柴之家'></a>　[肥柴之家](https://www.cnzknet.com)<font size="2.4" color="#777">（20181029）</font>
+<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2018/11/17/ec617ae7b463c6a0d615ba7342427eee.png' alt='肥柴之家' width="130px"></a>　[肥柴之家](https://www.cnzknet.com)<font size="2.4" color="#777">（20181029）</font>
 
 [那束陽光](https://Eveaz.com)　寫寫自己的故事，想想自己的未來！<font size="2.4" color="#777">（20181030）</font>
 
