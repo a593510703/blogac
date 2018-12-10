@@ -55,58 +55,6 @@ status = 301
 force = true
 
 [[redirects]]
-from = "https://kujihhoe.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://kujihhoe1.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://kqh.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://kqhlife.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://master--kujihhoe.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://master--kqh.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://master--kqhlife.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://master.kujihhoe.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://master.kqh.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-[[redirects]]
-from = "https://master.kqhlife.netlify.com/*"
-to = "https://kqh.ac/:splat"
-status = 301
-force = true
-
-[[redirects]]
 from = "https://kqh.ac/blog/2017/11/14/qizhong.html"
 to = "https://kqh.wiki/?file=002-攷試資料/001-遼金元史中國經濟史詩經期中"
 status = 301
