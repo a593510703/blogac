@@ -1,7 +1,7 @@
 {{ if and .IsPage (ne .Params.comment false) }}
 <!--valine-->
   <div class="post bg-white">
-  <div id="vcomments"></div>
+  <div id="vcomments" style="font-family:Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,PingFangSC,Microsoft YaHei,Sans-serif "></div>
   <script>
       new Valine({
           el: '#vcomments',
@@ -9,7 +9,7 @@
           appKey: 'iooXBj18fhM6S4yonspGEspA',
           visitor: true,
           avatar:'' ,
-          placeholder: '快来评论吧！邮箱仅后台可见，请放心填写，也可匿名。暂未开启邮箱提醒，未开启！请记得査看回复'
+          placeholder: '快来评论吧！邮箱仅后台可见，请放心填写，也可匿名。暂未开启邮箱提醒！请记得査看回复'
       })
   </script>
   </div>
