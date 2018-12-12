@@ -48,11 +48,6 @@ from = "https://kujihhoe.com/*"
 to = "https://kqh.ac/:splat"
 status = 301
 force = true
-[[redirects]]
-from = "https://kqh.ac/post/"
-to = "https://kqh.ac/"
-status = 301
-force = true
 
 [[redirects]]
 from = "https://kqh.ac/blog/2017/11/14/qizhong.html"
