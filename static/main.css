@@ -13,12 +13,10 @@ background: #fffbe0;
 	text-align: justify;
 	text-justify: inter-ideograph;
 	max-width: 700px;
-	
 	padding:  80px 100px 50px 100px;
 	margin: 100px auto;
 	box-shadow:  0 0 0 2px #c41011, 0 0 0 8px #fffbe0,0 0 0 18px #c41011
-	
-}	
+}
 @media screen and (max-width:1000px){
   #a{
   	padding:  0 15px 30px 15px;
@@ -65,8 +63,8 @@ hr{
     color: #ee9dd8;
 	font-family: title;
 	border-bottom: #C41011 3px solid;
-	text-shadow: 
-    1px 0 2px #b5ede4, 0 1px 3px #b5ede4, 
+	text-shadow:
+    1px 0 2px #b5ede4, 0 1px 3px #b5ede4,
     0 -1px 3px #b5ede4, -1px 0 2px #b5ede4;
   }
   #intro .date{
@@ -103,7 +101,7 @@ background: #feb7b8;
 	padding: 25px 15px 0px 15px;
 	margin-top: 3px;
 	border: #C41011 1px dashed;
-	
+
   }
   #intro .email a {
     color: #c41011;
@@ -202,6 +200,9 @@ margin: 236px 0	-236px 0;
 	font-weight: 700;
 	letter-spacing: 5px;
 	font-size: 20px;
+	margin:0 auto;
+  text-align: center;
+  font-family:Hiragino Mincho ProN,HiraginoMinchoProN,Hiragino Mincho,HiraginoMincho,Yu Mincho,YuMincho,Hana Mincho,HanaMincho,HanaMin,Ms Mincho,MsMincho,serif
 }
 
 #note{
@@ -209,14 +210,15 @@ margin: 236px 0	-236px 0;
 color:grey;
 font-size: 15px;
 font-weight: 100;
-padding-left: 18px	
+padding-left: 18px
 }
 
 #valine
-{	
+{
 font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
 border: 1px #c41011 dashed;
 padding:0 20px;
+margin-bottom: 100px;
 line-height: 1.7;
 }
 
