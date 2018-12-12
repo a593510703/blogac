@@ -6,7 +6,7 @@ lastmod: 2018-12-08
 menu:
   main:
     weight: 50
-url: /about
+url: /about/
 ---
 <!--more-->
 

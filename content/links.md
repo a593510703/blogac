@@ -6,7 +6,7 @@ lastmod: 2018-12-11
 menu:
   main:
     weight: 60
-url: /links
+url: /links/
 ---
 
 **域名已於 2018-12-03 從 kujihhoe.com 遷移到 kqh.ac，請大家及時更新**

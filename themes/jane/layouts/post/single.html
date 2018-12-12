@@ -90,6 +90,7 @@
   {{ partial "author_info.html" (dict "author" (.Params.author | default .Site.Author.name) "context" $) }}
   {{ end }}
 
+
   <!-- Comments -->
   {{ partial "comments.html" . }}
 {{- end }}
