@@ -1,13 +1,22 @@
 {{ define "title" }}{{ i18n "archive" }} - {{ .Site.Title }}{{ end }}
 {{ define "content"}}
 {{- $paginator := .Paginate (where .Pages.ByLastmod.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
+<div class="tag-cloud"  style="margin: 0 90px 2em 90px;">
+  <div class="tag-cloud-title">
+    赫赫文王
+  </div><br>
+  導航欄爲索引葉面（域名已於 20181203 從 kujihhoe.com 遷移到 kqh.ac，請及時更新）
+</div>
 <section id="archive" class="archive">
 {{- if not $paginator.HasPrev }}
-    <div class="archive-title">
-      <p class="archive-post-counter">
-        {{- $length := len .Data.Pages }}
-          {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
-      </p>
+    <div class="archive-title tag">
+      <h2 class="archive-year">
+        歸檔
+      </h2>
+    </div>
+    <div class="archive-word">
+      {{- $length := len .Data.Pages }}
+        {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
     </div>
       {{- end -}}
     <div class="archive-post" >
