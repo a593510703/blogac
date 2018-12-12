@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2018-12-06
+lastmod: 2018-12-12
 categories: ["站務"]
 tags: ["站務"]
 url: /blog/2017/10/04/shuoming.html
@@ -512,10 +512,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-    
+
             args = arguments;
             thisArg = this;
-    
+
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -537,7 +537,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-    
+
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -546,16 +546,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-    
+
         setTocClass();
-    
+
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-    
+
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -601,7 +601,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-    
+
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -835,6 +835,6 @@ Google AdSense 被封了，原來是我自己點得太多。算了，不申訴�
 
 好迷啊，修改 section 竟然一點用都沒有。
 
-### 12 月 11 日
+### 12 月 12 日
 
-驚奇地發現評論竟肰有郵件提醒了。奇怪。
+！！！郵箱提醒完全可以用了！！！
