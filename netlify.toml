@@ -135,3 +135,35 @@ from = "https://kqh.ac/en/*"
 to = "https://kqh.ac/"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://kqhhome.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master.kqhhome.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master--kqhhome.netlify.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://keqihan.com/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://keqh.cc/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://keqh.me/*"
+to = "https://kqh.ac/:splat"
+status = 301
+force = true

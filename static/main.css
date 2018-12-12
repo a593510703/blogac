@@ -1,0 +1,238 @@
+@font-face {
+  font-family: 'title';
+  font-style: normal;
+  font-weight: normal;
+  src: local('title'), url('/title.woff') format('woff');
+}
+body {
+background: #fffbe0;
+	}
+#a{
+	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
+	word-wrap:break-word;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	max-width: 700px;
+	
+	padding:  80px 100px 50px 100px;
+	margin: 100px auto;
+	box-shadow:  0 0 0 2px #c41011, 0 0 0 8px #fffbe0,0 0 0 18px #c41011
+	
+}	
+@media screen and (max-width:1000px){
+  #a{
+  	padding:  0 15px 30px 15px;
+  	margin: 0 auto;
+	box-shadow: none}
+	}
+#b{
+	max-width: 740px;
+	margin: auto;
+}
+hr{
+	border: none;
+    height: 3px;
+	margin:80px 0;
+    background: #c41011;
+}
+/*     intro      */
+#intro {
+  text-align: center;
+  transition: 0.5s;
+}
+
+    #intro .end{
+	border-bottom: #C41011 1px solid;
+    padding: 0 0 3px 0;
+	margin: 50px 0 0 0;
+	}
+	#intro .end1{
+	border-bottom: #C41011 3px solid;
+	padding: 0 0 3px 0;
+	margin:0 0 100px 0;
+	}
+	#intro .end2{
+	border-top: #C41011 1px solid;
+	padding: 0 0 3px 0;
+	margin: -77px 0 75px 0;
+	}
+    #intro .title {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 56px;
+	padding: 0 0 30px 0;
+	margin: -20px 0 3px 0;
+    color: #ee9dd8;
+	font-family: title;
+	border-bottom: #C41011 3px solid;
+	text-shadow: 
+    1px 0 2px #b5ede4, 0 1px 3px #b5ede4, 
+    0 -1px 3px #b5ede4, -1px 0 2px #b5ede4;
+  }
+  #intro .date{
+	  letter-spacing: 2px;
+	  font-size: 13px;
+	  padding: 5px 0 5px 0;
+	  margin: 0px 0 0px 0;
+	  color: #747474;
+	  font-weight: 300;
+	  font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
+	  border-top: #C41011 1px solid;
+	  border-bottom: #C41011 1px solid;
+  }
+  #intro .date a {
+	  color: #747474;
+	  text-decoration: underline;
+	  }
+#intro .date a:hover{
+	color: #151515;
+text-decoration: none;
+background: #feb7b8;
+	  }
+  #intro .label {
+    font-size: 22px;
+      letter-spacing: 2px;
+	font-weight: 700;
+      padding: 30px 0 60px 0;
+	  margin: 30px 0 100px 0;
+	  border-bottom: #C41011 1px solid;
+  }
+  #intro .email {
+    font-size: 18px;
+	line-height: 1.5;
+	padding: 25px 15px 0px 15px;
+	margin-top: 3px;
+	border: #C41011 1px dashed;
+	
+  }
+  #intro .email a {
+    color: #c41011;
+		text-decoration: none;
+
+  }
+      #intro .email a:hover {
+        text-decoration: none;
+      color: #151515;
+	  background: #feb7b8;
+    }
+
+
+/*blog*/
+#blog {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 5px;
+  color: #c41011;
+  border: #C41011 1px dashed;
+  padding:7px 15px 0 15px;
+
+}
+#blog a{
+  color: #c41011;
+	text-decoration: none;
+
+}
+#blog  a:hover {
+  text-decoration: none;
+color: #151515;
+background: #feb7b8;
+}
+  #blog p {
+		letter-spacing: 0;color: #151515;font-weight: 200;
+     font-size: 18px; text-align: center;
+	 }
+
+
+
+
+/*guqin*/
+#guqin {
+line-height: 2;
+  text-align: center;
+}
+#guqin .title {
+  color: #151515;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 28px;
+  letter-spacing: 5px;
+  display: block;
+}
+#guqin .title a{
+  color: #c41011;
+	text-decoration: none;
+font-weight: 700;
+  font-size: 28px;
+        letter-spacing: 5px;
+}
+#guqin  .title a:hover {
+  text-decoration: none;
+color: #151515;
+background: #feb7b8;
+}
+#guqin a{
+  color: #c41011;
+	text-decoration: none;
+
+}
+#guqin  a:hover {
+  text-decoration: none;
+color: #151515;
+background: #feb7b8;
+}
+  #guqin p {
+    letter-spacing: 0;color: #151515;font-weight: 400;
+    font-size: 18px; text-align: left; }
+
+
+#no {
+margin: -97px 0	0 0;
+float: left;
+
+}
+
+#no1 {
+margin: 236px 0	-236px 0;
+}
+
+#title1{
+	border: 1px #c41011 solid;
+	padding:14px 20px 20px 25px;
+	font-weight: 700;
+	letter-spacing: 5px;
+	font-size: 20px;
+}
+
+#note{
+	font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
+color:grey;
+font-size: 15px;
+font-weight: 100;
+padding-left: 18px	
+}
+
+#valine
+{
+	
+font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
+border: 1px #c41011 dashed;
+padding:0 20px;
+line-height: 1.7;
+}
+
+#bottom{
+margin:96px 0 -96px 0
+}
+@media screen and (max-width:1000px){
+  #bottom{
+  	display:none}
+	}
+
+#top{
+margin:-122px 0 122px 0
+}
+@media screen and (max-width:1000px){
+  #top{
+  	display:none}
+	}

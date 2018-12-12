@@ -8,82 +8,161 @@
       {{ if .IsPage }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}
     {{- end -}}
   </title>
-  {{ partial "head.html" . }}
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+  {{ partial "head1.html" . }}
 </head>
 <body>
-  {{ if or .Site.Params.photoswipe .Site.Params.fancybox }}
-    {{ partial "photoswipe.html" . }}
-  {{ end }}
-  <header id="header" class="header container">
-    {{ partial "header.html" . }}
-  </header>
-  <div id="mobile-panel">
-    <main id="main" class="main bg-llight">
-      <div class="content-wrapper">
-        <div id="content" class="content container">
-          {{- $paginator := .Paginate (where .Pages.ByLastmod.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
-          <section id="archive" class="archive">
-          {{- if not $paginator.HasPrev }}
-              <div class="archive-title">
-                <p class="archive-post-counter">
-                  {{- $length := len .Data.Pages }}
-                    {{ i18n "counter_archives" $length }}　{{ $count := 0 }}{{ range $paginator.Pages }}{{ $count = add $count .WordCount  }}{{ end }}{{ $count }} 字
-                </p>
-              </div>
-                {{- end -}}
-              <div class="archive-post" >
-              <span class="archive-post-time" >發布旹閒
-                <br>攸改旹閒</span>
-                <span class="archive-post-title">作者｜標題（按修改時間倒敘）</span>
-          <a class="archive-post-categories">分類</a><br>
-            <a class="archive-post-tags">/ 系列</a>
-          </div>
-            {{- range $element := $paginator.Pages -}}
-              <div class="archive-post">
-                <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
-                  {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-                  {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-                </time>
-                <span class="archive-post-title">
-                {{ .Params.author }}｜<a href="{{ $element.URL }}" class="archive-post-link">{{ .Title }}</a>
-                  </span>
-              <span class="archive-post-categories">
-                  {{ with .Params.categories -}}
-                      {{ range . }}
-                      {{- $name := . -}}
-                      {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
-                        <a href="/categories/#{{ $name }}" >{{ $name }}</a>
-                      {{ end -}}
-                      {{ end }}
-                  {{- end }}
-                  </span>
-          <br>
-                  <span class="archive-post-tags">
-                  {{ with .Params.tags -}}
-                      {{ range . }}
-                      {{- $name := . -}}
-                      {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
-                      <a href="/tags/#{{ $name }}" >{{ $name }}</a>
-                      {{ end -}}
-                      {{ end }}
-                  {{- end }}
-                  </span>
-              </div>
-            {{- end -}}
-          </section>
-          <!-- pagination -->
-          {{ partial "pagination.html" . }}
 
+<div id="a">
+<center><div id="top"><img src="/11.jpg" width="50px"></div></center>
+<div id="intro" >
+<div class="title">
+<div style="font-size: 70px;padding-left: 40px;">咨爾<span style="letter-spacing: 0px">多</span><span style="font-size:80px">士</span>！</div>隹時柯棋瀚主葉</div>
+<div class="date"><i style="margin-right:15px"><img src="/logo.svg"width="16px"></i>
+㪅新於二〇一八秊十二月十一日</div>
+<p class="label">永嘉田家後　生於九七秊　長于錦官城　讀的歷史系</p>
+<center>
+<span style="border: 1px #c41011 solid;padding:2px 27px 32px 31px">
+<img src="https://api.superbed.cn/pic/5bf762a5c4ff9e05833a06bd" Width="140px">
+	</span>
+<br><span style="letter-spacing: 5px;font-weight: 700;font-size: 20px; ">我的近照</span>
+</center><br><br><br><br><br><br><br>
+
+<span id="title1">自述</span>
+     <div class="email">
+				<p>我當然不會告訴伱具體生日　因爲名字就有我的八字</p>
+            <p>我從小到大的外號依次爲　柯柯　主席　柯手　師傅　柯神　蓮蓮　柯柯</p>
+			<p>我是箇无聊的人　我每天的活動大槩都在這箇網葉裏</p>
+            <p>任何問題都可以發郵件</p>
+			<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>
+			<br>
+            </div><br><br><br><br><br>
+<span id="title1">聯絡</span>
+	  <div class="email">
+		  <p>PGP　<a href="/kujihhoe (EDE37172) .asc" target="_blank">公鑰</a><span id="note">懂的自然懂</span></p>
+            <p>郵箱　<a href="mailto:1@kqh.ac">1@kqh.ac</a><span id="note">可能會被歸爲垃圾郵件</span></p>
+			<p>GitHub　<a href="https://github.com/kujihhoe" target="_blank">kujihhoe</a><span id="note">網站源碼</span></p>
+		    <p>Facebook　<a href="https://www.facebook.com/kujihhoe" target="_blank">kujihhoe</a><span id="note">只看不發</span></p>
+            <p>知乎　<a href="https://www.zhihu.com/people/ke-qi-han/activities" target="_blank">止息</a><span id="note">只看不發</span></p>
+            <p>豆瓣　<a href="https://www.douban.com/people/kujihhoe/" target="_blank">kujihhoe</a><span id="note">基本不看</span></p>
+			<p style="color:grey;font-size: 16px;">本站其他域名　keqihan.com　keqh.cc</p>
+						<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>
+						<br>
+						</div>
         </div>
-      </div>
-    </main>
-    <footer id="footer" class="footer">
-      {{ partial "footer.html" . }}
-    </footer>
-    </div>
-    <div id="cc-myssl-id" style="position: fixed;right: 0;bottom: 0;width: 59px;height: 59px;z-index: 99;">
-    <a href="https://myssl.com/kqh.ac?from=mysslid" target="_blank"><img src="https://static.myssl.com/res/images/myssl-id.png" alt="" style="width:100%;height:100%"></a>
+     <hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/1.jpeg" width="32px"></div>
+        <div id="blog" >
+            <br><a href="/post" target="_blank">博客</a>
+            <p>偏重原創性的（其他域名：kujihhoe.com，kqh.life，keke.life）</p>
+<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>
+						<br>
 </div>
-  {{ partial "scripts.html" . }}
+	<br>
+				<br>
+				<br>
+        <br>
+				<br>
+
+				        <div id="blog" >
+				            <br><a href="https://kqh.wiki" target="_blank">維基</a>
+				<p>暫旹用來存放筆記</p>
+				<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>
+				<br>
+				</div>
+				<br>
+				<br><br>
+        <br>
+				<br>
+
+								<div id="blog" >
+										<br><a href="https://qinpu.wiki" target="_blank">琴譜网</a>
+	<p>傳世琴譜數字文本化工程（現徵募志願者。我這幾年沒功夫顧及這箇）</p>
+<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>
+						<br>
+				</div>
+        <hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/2.jpeg" width="32px"></div>
+        <div id="guqin" class="section">
+            <span class="title"><a href="https://music.163.com/#/artist?id=13612790" target="_blank">古琴</a></span>
+<img src="https://api.superbed.cn/pic/5c0c81f3c4ff9e697ed8fbff"width="350px">
+<p>在網易雲音樂開了音樂人：赫赫文王。現在的是今秊四月初錄的，不怎麼滿意，在錄音棚狀態跟平時彈不太一樣。計畫以後每秊元旦㪅新。</p>
+				<p><a href="/blog/2018/11/10/pu.html"  target="_blank">王華德琴譜稿及未出版歷史錄音</a></p>
+        <p>我的 <a href="/142" target="_blank">古琴表演記錄</a></p>
+
+        <hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/3.jpeg" width="32px"></div>
+ <div class="title"><a href="http://music.163.com/#/radio/527105637?userid=275990862"  target="_blank">田野録音</a></div>
+<img src="https://api.superbed.cn/pic/5c0c85a5c4ff9e697fbfd4b7"width="130px">
+<p>在網易雲音樂開了電臺：情形于声</p>
+
+        <hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/4.jpeg" width="32px"></div>
+						<div class="title"><a href="https://500px.me/kujihhoe" target="_blank">書法 × 平面</a></div>
+        <img src="https://api.superbed.cn/pic/5c0c86adc4ff9e697ed8fc03"width="350px">
+       <p><center>以及這箇完全自己設計的主葉</center></p>
+	   <p>厚顏无恥地用「平面設計」這箇詞，其實自己一點都不會，就是在社團的旹候做了一點毫无技術含量的海報、封面之類。</p>
+		<hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/5.jpeg" width="32px"></div>
+						<div class="title"><a href="https://space.bilibili.com/176570453/#/dynamic"  target="_blank">讀中古音</a></div>
+        <img src="https://api.superbed.cn/pic/5c0c8744c4ff9e697fbfd4b8"width="150px">
+      <p>B 站上放一些用切韻擬音來讀的文章。現在有《立部伎》《隻麟》兩篇，以後我計畫先把尚書讀完，可能的話一兩周㪅一篇。</p>
+				<hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/6.jpeg" width="32px"></div>
+					<div class="title">旁白配音</div>
+<h3 style="color:#2b2b2b">1、</h3>
+<p>優酷：<a href="https://v.youku.com/v_show/id_XMTczMjYwMDEzNg==.html?spm=a2h0k.11417342.soresults.dtitle" target="_blank">北師大政府管理學院四名學生深入彌勒市林區 探訪護林員</a>（2016 暑期實踐）</p>
+<p>是一位髙中同學叫我幫忙錄的。用的一箇類似採訪用的小蜜蜂那樣的拾音設備。㝡奇怪的是爲何做視頻的人要把我的旁白調快？？這樣很奇怪很彆扭。</p>
+<h3 style="color:#2b2b2b">2、</h3>
+<p>B 站：<a href="https://www.bilibili.com/video/av35467511/" target="_blank">阿昌刀鍛造工藝——2016暑期實踐紀實</a></p>
+<p>㪅多見 <a href="/post/134husa"  target="_blank">記二〇一六秊戶撒刀暑期實踐</a></p>
+	<hr><div id="intro" >
+<div class="end2"> </div></div>
+<div id="no"><img src="/7.jpeg" width="32px"></div>
+
+	<div class="title">文章發表</div>
+<p>我這發上來完全是貽笑大方，大方無視便是。竝非爲了誇耀，其實這些文章沒什麼水平，只是想鞭策自己努力。如果以後能走上學術道路，那這些也筭作一箇起點。（內部刊物指沒有公開發行刊號的刊物）</p>
+<h3 style="color:#2b2b2b">本科階段</h3>
+<p>1、<a href="/blog/2018/02/09/houzuowu.html"  target="_blank">蜀中琴人侯作吾先生</a>　《錦江琴刊》（川派古琴學會會刊，內部刊物）第二期丁酉刊</p>
+<p>2、<a href="/blog/2017/10/28/fuchou.html"  target="_blank">《公羊傳》齊襄復讎事詮釋史</a>　2017 秊「白壽彝史學論著獎·本科生獎」三等獎；《春秋學刊》（內部刊物）<a href="/blog/2018/03/25/xuekan5.html"  target="_blank">2017 秊秌季卷</a> ；《唐山師笵學院學報》<a href="https://pan.baidu.com/s/1CcePh-mJSJsaRm_uvQ98JA"  target="_blank">2018 秊第 5 期</a>（人生弟一篇公開發表的呢）</p>
+<p>3、<a href="/blog/2018/08/04/sangfu.html"  target="_blank">雷次宗的喪服學</a>　2018 秊「白壽彝史學論著獎·本科生獎」三等獎</p>
+</div>
+
+<center><div id="bottom"><img src="/12.jpg" width="50px"></div></center>
+</div>
+<br><br><br>
+<div id="b">
+
+<div id="intro" >
+<span id="title1" style="padding:13px 20px 17px 25px;font-family:Hiragino Mincho ProN,HiraginoMinchoProN,Hiragino Mincho,HiraginoMincho,Yu Mincho,YuMincho,Hana Mincho,HanaMincho,HanaMin,Ms Mincho,MsMincho,serif">留言</span>
+ <div id="valine">
+  <div id="vcomments" style="font-family:Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,PingFangSC,Microsoft YaHei,Sans-serif "></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: 'yp4nIF0OXyIMTEyjixb0p6w5-gzGzoHsz',
+          appKey: 'iooXBj18fhM6S4yonspGEspA',
+          avatar:'' ,
+          placeholder: '快来评论吧！邮箱仅后台可见，请放心填写，也可匿名。暂未开启邮箱提醒！请记得査看回复'
+      })
+  </script>
+  </div>
+  </div>
+  <br><br><br><br>
+<div id="intro" ><div class="date"style="letter-spacing: 0;">&copy 2017/10/03—2018<i style="margin: 0 5px"><img src="/logo.svg"width="16px"></i><a href="/" target="_blank">柯棋瀚</a>
+｜<a href="/141" target="_blank">㪅新日誌</a>
+
+</div></div>
+<div id="intro" >
+<div class="end1"> </div>
+
+</div>
+</div>
 </body>
 </html>

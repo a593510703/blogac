@@ -39,6 +39,11 @@ defaultContentLanguage = "en"           # Default language to use
   priority = 0.5
   filename = "sitemap.xml"
 
+  [[menu.main]]
+     name = "赫赫文王"
+     weight = 10
+     identifier = "archives"
+     url = "/post/"
  [[menu.main]]
     name = "分類"
     weight = 20
@@ -54,17 +59,13 @@ defaultContentLanguage = "en"           # Default language to use
     weight = 40
     identifier = "author"
   url = "/author/"
-  [[menu.main]]
-    name = "主葉"
-     weight = 70
-   url = "https://keqh.me/"
    [[menu.main]]
      name = "維基"
-      weight = 80
+      weight = 70
     url = "https://kqh.wiki/"
     [[menu.main]]
       name = "琴譜网"
-       weight = 90
+       weight = 80
      url = "https://qinpu.wiki/"
 
 [params]
@@ -74,7 +75,7 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "赫赫文王"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "主葉"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["古琴", "書法","錄音","經學","歷史"]
   description = "不務正業的歷史系學生一箇"
 
