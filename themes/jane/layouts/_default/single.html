@@ -12,6 +12,13 @@
         {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
         × 改於 {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
       </time>
+      <!-- Counter leancloud -->
+      {{ if .Site.Params.counter.leancloud.enable }}
+        <span id="{{ .URL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
+          <span class="post-meta-item-text"> × 點擊量 </span>
+          <span class="leancloud-visitors-count"></span>
+        </span>
+      {{ end }}
     </div>
   </header>
   <!-- Copyright -->
