@@ -1,5 +1,4 @@
 ---
-author: "柯棋瀚"
 title: "緫序"
 date: 2017-10-04
 lastmod: 2018-12-08
@@ -7,11 +6,10 @@ menu:
   main:
     weight: 50
 url: /about/
+contentcopyright: false
 ---
 <!--more-->
-
-**域名已於 2018-12-03 從 kujihhoe.com 遷移到 kqh.ac，請大家及時更新**
-
+<hr><br>
 此文爲本站緫序，包含介紹、說明書與聲明。
 
 # 一、我疇？
