@@ -40,7 +40,7 @@ status = 301
 force = true
 [[redirects]]
 from = "https://kujihhoe.com/blog/"
-to = "https://kqh.ac/"
+to = "https://kqh.ac/post/"
 status = 301
 force = true
 [[redirects]]
