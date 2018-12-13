@@ -220,7 +220,13 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [張列弛](https://www.liechi.org/)　〔現就讀於日本基礎生物研究所，PhD 第五年〕
 
-[[Matrix67: The Aha Moments](http://www.matrix67.com/blog/)](http://www.matrix67.com/blog/)　〔「如果他肯把博客的內容同步地發發知乎發發微信公眾號的話，中國喜歡數學的孩子們應該會比現在多很多吧」〕
+[Matrix67: The Aha Moments](http://www.matrix67.com/blog/)　〔「如果他肯把博客的內容同步地發發知乎發發微信公眾號的話，中國喜歡數學的孩子們應該會比現在多很多吧」〕
+
+[哲科文 Jerkwin](http://jerkwin.github.io/tags/)　〔雖然界面很古董，但內容，也太高產了吧〕
+
+[Tonis Foto Haus](http://www.tonichan.xyz)　Amateur Photographer. Novice Data Scientist.Zhejiang University, Chu Ko Chen Honors College.
+
+[Quanyin 說](https://www.quanyin.xyz/cross.html)　〔復旦物理硏究生〕
 
 ## 旅行類
 
