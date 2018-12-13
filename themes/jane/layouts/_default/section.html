@@ -1,7 +1,7 @@
 {{ define "title" }}{{ i18n "archive" }} - {{ .Site.Title }}{{ end }}
 {{ define "content"}}
 {{- $paginator := .Paginate (where .Pages.ByLastmod.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
-<div class="tag-cloud"  style="margin: 0 90px 2em 90px;">
+<div class="tag-cloud">
   <div class="tag-cloud-title">
     赫赫文王
   </div><div style="font-size:18px">
