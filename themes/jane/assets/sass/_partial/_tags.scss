@@ -17,7 +17,7 @@
 
   .tag-cloud-tags {
     margin: 10px 0;
-
+    background: $gray;
     a {
       display: inline-block;
       position: relative;
@@ -40,6 +40,23 @@
       &:focus,
       &:hover {
         color: $theme-color;
+        transform: scale(1.1);
+      }
+    }
+  }
+  .tag-cloud-tags1 {
+    padding: 7px 20px 7px 22px;
+    font-size:20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    border: 1px $theme-color solid;
+    border-radius: 30px;
+    a {
+        color: $theme-color;
+      &:active,
+      &:focus,
+      &:hover {
+        color: $black;
         transform: scale(1.1);
       }
     }
