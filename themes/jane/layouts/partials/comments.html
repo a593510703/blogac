@@ -1,16 +1,12 @@
 {{ if and .IsPage (ne .Params.comment false) }}
 <!--valine-->
-
 <div class="tag-cloud"  style="margin: -25px 90px 2em 90px;">
   <span class="tag-cloud-tags1">
     <a href="https://kujihhoe.us17.list-manage.com/subscribe/post?u=3fb7b2733301fbcf39ec69597&amp;id=6819d3d05d" target="_blank">郵件訂閱</a>
   </span>
   <p style="font-size:16px">mailchimp 提供，可能會被牆。如果打不開，可以在下面留言「博客訂閱」，我會把你的郵箱加入訂閱名單。</p>
 </div>
-
   <div class="post bg-white">
-    <div class="post-content">
-<br>
   <div id="vcomments" style="font-family:Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,PingFangSC,Microsoft YaHei,Sans-serif;line-height:1.7 "></div>
   <script>
       new Valine({
@@ -23,7 +19,4 @@
       })
   </script>
   </div>
-  </div>
-
-
 {{- end }}
