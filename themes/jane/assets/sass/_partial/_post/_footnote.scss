@@ -1,17 +1,20 @@
 .footnotes {
-  margin-top: 50px;
-  font-size: 0.9em;
+  margin-top: 60px;
+  font-size: 18px;
 
   hr {
-    border-style: solid;
-    color: rgb(221, 221, 221);
+    border: none;
+    background: #ffc7c7;
+    border-radius: 10px;
+    height: 7px;
+    margin-bottom: 40px
   }
 }
 
 .footnote-ref {
   display: inline;
   position: relative;
-  margin-left: 3px;
+  margin: 0 5px 0 0;
 
   &:hover .fn-content {
     opacity: 1;
@@ -37,45 +40,44 @@
   z-index: 14;
   left: 50%;
   bottom: 100%;
-  line-height: 1.3;
+  line-height: 1;
   border-radius: 0.5em;
   border: 1px solid rgba(0, 0, 0, 0.1);
   background: #f6f6f6;
   opacity: 0;
-  visibility: hidden;
+  visibility: visible;
   transform: translate3d(0, -10px, 0);
   transition: opacity 0.3s, transform 0.3s;
 //   transition-delay: 2s;
 
-//   &:hover {
-//     opacity: 1;
-//     pointer-events: auto;
-//   }
+  &:hover {
+     opacity: 1;
+     pointer-events: auto;
+      }
 
   /* Arrow */
-//   &:after {
-//     content: '';
-//     top: 100%;
-//     left: 50%;
-//     border: solid transparent;
-//     height: 0;
-//     width: 0;
-//     position: absolute;
-//     pointer-events: none;
-//     border-color: transparent;
-//     border-top-color: #f6f6f6;
-//     border-width: 10px;
-//     margin-left: -10px;
-//   }
+   &:after {
+     content: '';
+     top: 100%;
+     left: 50%;
+     border: solid transparent;
+     height: 0;
+     width: 0;
+     position: absolute;
+     pointer-events: none;
+     border-color: transparent;
+     border-top-color: #f6f6f6;
+     border-width: 10px;
+     margin-left: -10px;
+   }
   .fn-text {
-    // line-height: 1.35;
+   line-height: 1.35;
     display: inline-block;
     padding: 1em;
-    font-size: 1.2em;
+    font-size: 18px;
     z-index: 8;
     a {
       font-weight: bold;
     }
   }
 }
-

@@ -4,33 +4,48 @@
 
 .author-info {
   margin: 0 5em 3em 5em;
-  background-color: white;
+  background-color: $white;
   padding: 2em 5em 2em 5em;
   text-align: center;
 
   .author-box {
+    line-height: 1.7;
     .author-image img {
-      margin: 1em auto 1em auto;
       border-radius: 50%;
-      border: 1px solid #999;
+      border: 1px dashed #c41011;
       float: left;
     }
     .author-content {
-      padding-left: 200px;
+      padding-left: 160px;
       text-align: left;
 
       .author-title {
         color: #aaa;
-        margin-bottom: 0.1em;
         font-size: 18px;
+        margin-bottom: 0px;
+        font-family: $global-serif-font-family
       }
       .author-name {
-        font-weight: bold;
-        margin-top: 0em;
-        margin-bottom: 0.5em;
+        font-weight: 700;
+        padding-right: 20px
       }
       .author-desc {
         font-size: 16px;
+        font-family: $global-serif-font-family;
+        font-weight: 200
+      }
+      .author-mail {
+        padding-left: 2px;
+        display: inline;
+        font-size: 16px;
+        font-weight: 200;
+          a{
+            color: $theme-color;
+            text-decoration: none;
+          }
+          a:hover{
+            color: $black;
+          }
       }
     }
     .author-bottom {
