@@ -245,3 +245,5 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [You Byun](http://www.youbyun.com)　
 
 [水吧口記](https://blog.shuiba.co/domains)　〔這哥們沉迷于自己設計博客，看著還行〕
+
+[Leegorous](http://leegorous.net/)　〔網站好看。網葉設計師〕

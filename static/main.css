@@ -17,6 +17,16 @@ background: #fffbe0;
 	margin: 100px auto;
 	box-shadow:  0 0 0 2px #c41011, 0 0 0 8px #fffbe0,0 0 0 18px #c41011
 }
+#a  a{
+  color: #c41011;
+	text-decoration: none;
+  padding: 5px 0 3px 0
+}
+#a a:hover {
+color: #151515;
+background: #feb7b8;
+border-radius: 5px;
+}
 @media screen and (max-width:1000px){
   #a{
   	padding:  0 15px 30px 15px;
@@ -78,15 +88,7 @@ hr{
 	  border-top: #C41011 1px solid;
 	  border-bottom: #C41011 1px solid;
   }
-  #intro .date a {
-	  color: #747474;
-	  text-decoration: underline;
-	  }
-#intro .date a:hover{
-	color: #151515;
-text-decoration: none;
-background: #feb7b8;
-	  }
+
   #intro .label {
     font-size: 22px;
       letter-spacing: 2px;
@@ -103,16 +105,7 @@ background: #feb7b8;
 	border: #C41011 1px dashed;
 
   }
-  #intro .email a {
-    color: #c41011;
-		text-decoration: none;
 
-  }
-      #intro .email a:hover {
-        text-decoration: none;
-      color: #151515;
-	  background: #feb7b8;
-    }
 
 
 /*blog*/
@@ -126,16 +119,7 @@ background: #feb7b8;
   padding:7px 15px 0 15px;
 
 }
-#blog a{
-  color: #c41011;
-	text-decoration: none;
 
-}
-#blog  a:hover {
-  text-decoration: none;
-color: #151515;
-background: #feb7b8;
-}
   #blog p {
 		letter-spacing: 0;color: #151515;font-weight: 200;
      font-size: 18px; text-align: center;
@@ -157,28 +141,7 @@ line-height: 2;
   letter-spacing: 5px;
   display: block;
 }
-#guqin .title a{
-  color: #c41011;
-	text-decoration: none;
-font-weight: 700;
-  font-size: 28px;
-        letter-spacing: 5px;
-}
-#guqin  .title a:hover {
-  text-decoration: none;
-color: #151515;
-background: #feb7b8;
-}
-#guqin a{
-  color: #c41011;
-	text-decoration: none;
 
-}
-#guqin  a:hover {
-  text-decoration: none;
-color: #151515;
-background: #feb7b8;
-}
   #guqin p {
     letter-spacing: 0;color: #151515;font-weight: 400;
     font-size: 18px; text-align: left; }
