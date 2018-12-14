@@ -105,10 +105,7 @@ defaultContentLanguage = "en"           # Default language to use
   mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a>，非商業用途可自行轉載，但須遵守此協定'
 
-  # changyanAppid = ""        # Changyan app id             # 畅言
-  # changyanAppkey = ""       # Changyan app key
-  # tencent_analytics = ""    # Tencent Analytics
-  baidu_push = true        # baidu push                  # 百度
+  baidu_push = false        # baidu push                  # 百度
   baidu_analytics = "557733f5e13d0e8e483604d851d79134"      # Baidu Analytics
   baidu_verification = "8qCdaqkmZt"   # Baidu Verification
 google_verification = ""  # Google_Verification         # 谷歌
@@ -133,33 +130,10 @@ google_verification = ""  # Google_Verification         # 谷歌
     photoswipeCSS = '<link src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.2/dist/photoswipe.min.css" integrity="undefined" crossorigin="anonymous">'
     photoswipeSKIN = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.2/dist/default-skin/default-skin.css" integrity="sha256-c0uckgykQ9v5k+IqViZOZKc47Jn7KQil4/MP3ySA3F8=" crossorigin="anonymous">'
 
-#  [params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
-#    enable = false
-#    repo = "xianmin/comments-for-hugo-theme-jane"    # The repo to store comments
-#    issueTerm = "pathname"
-
-#  [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-#    owner = ""              # Your GitHub ID
-#    repo = ""               # The repo to store comments
-#    clientId = ""           # Your client ID
-#    clientSecret = ""       # Your client secret
-
-#  [params.livere]          	#LiveRe comment. see https://www.livere.com/
-#	  uid = ""
-
-#  [params.reward]                                         # 文章打赏
-#    enable = true
-#    wechat = "/static/ds.jpg"           # 微信二维码
-#    alipay = "/static/ds1.jpg"           # 支付宝二维码
-
-  [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
-    enable = false
-
   [params.counter.leancloud]  # Chinese leancloud visitor counter  # leancloud 计数器
     enable = true
     appId = "yp4nIF0OXyIMTEyjixb0p6w5-gzGzoHsz"
     appKey = "iooXBj18fhM6S4yonspGEspA"
-
 
   [params.social]
   a-email = "mailto:1@kqh.ac"
