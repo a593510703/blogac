@@ -70,30 +70,34 @@
     .archive-post-time {
        color: $dark-gray;
        font-size: 16px;
-line-height: 1.75;
-      display: table-cell;
-      width: 6em;
-      padding-right: 2em;
-      vertical-align: middle;
+       font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas,$global-serif-font-family;
+       line-height: 1.75;
+       display: table-cell;
+       width: 6em;
+       padding-right: 2em;
+       vertical-align: middle;
     }
+    .archive-post-ct{
+   vertical-align: middle;
+   padding-left: 20px;
+   line-height: 1.6;
+   font-size: 16px;
+   font-family: $global-serif-font-family;
+   font-weight: 200;
+   display: table-cell;
+   a:hover{
+     color:$theme-color;
+   }
     .archive-post-categories{
       float: right;
-      font-size: 16px;
-margin-bottom: -12px;
-     display: table-cell;
-     vertical-align: middle;
-
   }
   .archive-post-tags{
     float: right;
-    font-size: 16px;
-margin-top: -12px;
-   display: table-cell;
-   vertical-align: middle;
   a{ &::before {
      content: ' / ';
    }
  }
+}
 }
   .archive-post-categories1{
     float: right;
@@ -104,7 +108,7 @@ margin-top: -12px;
     content: '分類｜';}
   }
   }
-  
+
 .archive-post-tags1{
   float: right;
   display: table-cell;
@@ -119,19 +123,30 @@ margin-top: -12px;
     .archive-post-title {
       display: table-cell;
       vertical-align: middle;
+      max-width: 420px;
+      line-height: 1.6;
+      a:hover {
+        // border-left: $archive-post-hover-border-left;
+      //  transition: $archive-post-hover-transition;
+    //    transform: $archive-post-hover-transform;
+    color:$theme-color;}
+      .archive-post-title-author{
+        font-family: $global-serif-font-family;
+        padding-right: 20px;
+        color: $dark-gray;
+        font-size: 18px;
+        font-weight: 200;
+      }
       .archive-post-link {
         color: $black;
       }
     }
 
+
     &:first-child {
       margin-top: 10px;
     }
 
-    &:hover {
-      // border-left: $archive-post-hover-border-left;
-      transition: $archive-post-hover-transition;
-      transform: $archive-post-hover-transform;
 
       .archive-post-time {
         color: darken($black, 10%);
@@ -157,10 +172,9 @@ margin-top: -12px;
       &:hover {
         border-top: $post-readMore-border-bottom;
       }
-    }
+
   }
 }
-
 @media screen and (max-width: 799px) {
   .archive {
     margin: 0 auto 1em auto;
@@ -182,7 +196,8 @@ margin-top: -12px;
         font-size: $archive-post-mobile-time-font-size;
         display: block;
       }
-
+    .archive-post-ct{
+      display: none}
       .archive-post-title {
         display: block;
       }

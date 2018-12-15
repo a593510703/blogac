@@ -24,9 +24,9 @@
     <div class="archive-post" >
     <span class="archive-post-time" >發布旹閒
       <br>攸改旹閒</span>
-      <span class="archive-post-title">作者｜標題（按修改時間倒敘）</span>
-<a class="archive-post-categories">分類</a><br>
-  <a class="archive-post-tags">/ 系列</a>
+      <span class="archive-post-title"><span class="archive-post-title-author">作者</span><span class="archive-post-link">標題（按修改時間倒敘）</span></span>
+<span class="archive-post-ct"><span class="archive-post-categories">分類</span><br>
+  <span class="archive-post-tags">/ 系列</span></span>
 </div>
   {{- range $element := $paginator.Pages -}}
     <div class="archive-post">
@@ -35,8 +35,9 @@
         {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
       </time>
       <span class="archive-post-title">
-      {{ .Params.author }}｜<a href="{{ $element.URL }}" class="archive-post-link">{{ .Title }}</a>
+    <span class="archive-post-title-author">{{ .Params.author }}</span><a href="{{ $element.URL }}" class="archive-post-link">{{ .Title }}</a>
         </span>
+        <span class="archive-post-ct">
     <span class="archive-post-categories">
         {{ with .Params.categories -}}
             {{ range . }}
@@ -57,6 +58,7 @@
             {{ end -}}
             {{ end }}
         {{- end }}
+        </span>
         </span>
     </div>
   {{- end -}}
