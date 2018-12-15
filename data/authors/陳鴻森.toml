@@ -1,0 +1,16 @@
+description = "陳鴻森（1950—），著名學者、詩人，研究領域：經學史、清代學術史、臺灣現代詩。臺灣大學中文系畢業。蘇州大學文學講座教授、中硏院史語所兼任研究員。"
+url = "http://saturn.ihp.sinica.edu.tw/~hanchi/homepage/people/people1/1-20.htm"
+[name]
+display = "陳鴻森"
+
+[image]
+ url = "/chs.jpeg"
+ width = 110
+ height = 110
+
+
+# [en]
+# description = "haha"
+
+#[en.name]
+#display = "KE Qihan"
