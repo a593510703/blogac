@@ -15,10 +15,9 @@
       </span>
   </p>
   {{ if $.Site.Params.linkToMarkDown -}}
-    {{ with $.OutputFormats.Get "markdown" -}}
     <p class="copyright-item">
       <span class="item-title">{{ i18n "markdown" }}</span>
-      <span class="item-content"><a class="link-to-markdown" href="{{ .Permalink }}" rel="noopener" target="_blank">{{ i18n "seeMarkDown" }}</a></span>
+      <span class="item-content"><a class="link-to-markdown" href="{{ .Params.markdown | safeHTML }}" rel="noopener" target="_blank">{{ i18n "seeMarkDown" }}</a> 査看本文 markdown，您也可以進行編輯</span>
     </p>
     {{- end }}
   {{- end }}
@@ -33,4 +32,3 @@
     </span>
   </p>
 </div>
-{{- end }}

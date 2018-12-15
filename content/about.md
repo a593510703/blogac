@@ -6,7 +6,7 @@ menu:
   main:
     weight: 50
 url: /about/
-contentcopyright: false
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/about.md'
 ---
 <!--more-->
 <hr><br>

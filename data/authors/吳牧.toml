@@ -1,0 +1,16 @@
+description = "我是吳牧，以後想賺大錢。雖然現在很菜，但我會加油的。"
+mail="gameoverwm@qq.com"
+[name]
+display = "吳牧"
+
+[image]
+ url = "/wumu.png"
+ width = 110
+ height = 110
+
+
+# [en]
+# description = "haha"
+
+#[en.name]
+#display = "KE Qihan"

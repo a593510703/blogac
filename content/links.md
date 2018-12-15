@@ -6,7 +6,7 @@ menu:
   main:
     weight: 60
 url: /links/
-contentcopyright: false
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/links.md'
 ---
 <hr><br>
 想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kujihhoe.com) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。

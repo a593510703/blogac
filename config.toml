@@ -104,6 +104,7 @@ defaultContentLanguage = "en"           # Default language to use
   bootcdn = true           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
   mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a>，非商業用途可自行轉載，但須遵守此協定'
+  linkToMarkDown = true 
 
   baidu_push = false        # baidu push                  # 百度
   baidu_analytics = "557733f5e13d0e8e483604d851d79134"      # Baidu Analytics

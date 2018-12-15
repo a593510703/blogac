@@ -5,6 +5,7 @@ date: 2018-11-29
 lastmod: 2018-11-29
 categories: ["功課"]
 tags: ["課業"]
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/137jlhx.md'
 ---
 
 > 此三篇思想報告爲大二下寫的，我是堅決跟黨走的好公民。弟一篇爲公共必修課《形勢與政策》作業。弟二、三篇爲團日活動報告。繁簡自動轉換，可能有錯。

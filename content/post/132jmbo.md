@@ -5,7 +5,7 @@ date: 2018-11-24
 lastmod: 2018-11-24
 categories: ["功課"]
 tags: ["課業"]
-toc: true
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/132jmbo.md'
 ---
 > 大三下專選《漢唐出土文獻》期中展示。繁簡自動轉換，可能有錯。
 >

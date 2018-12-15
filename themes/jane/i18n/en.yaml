@@ -48,7 +48,10 @@
   translation: 微信
 
 - id: seeMarkDown
-  translation: 査看本文 md »
+  translation: 點此
+
+- id: link
+  translation: 原文鏈接
 
 - id: loadDisqus
   translation: 顯示 Disqus 評論
@@ -68,7 +71,7 @@
   translation: 㪅新
 
 - id: markdown
-  translation: 源件
+  translation: 源碼
 
 - id: license
   translation: 版權
