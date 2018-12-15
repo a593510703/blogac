@@ -32,17 +32,15 @@
         <time datetime="{{ .Date.Format "2006-01-02" }}" class="post-time">
           {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }} —— {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
 </time>
-
         {{ if .Site.Params.moreMeta -}}
           <span class="more-meta"> {{ i18n "wordCount" .WordCount }}
         {{- end }}
-
         <!-- Counter busuanzi -->
         {{ if .Site.Params.counter.busuanzi.enable }}
           <span id="busuanzi_container_page_pv">
             × 點擊量<span id="busuanzi_value_page_pv"></span>
           </span>
-          </span>
+
         {{ end }}
         <!-- Counter leancloud -->
         {{ if .Site.Params.counter.leancloud.enable }}
@@ -51,6 +49,7 @@
             <span class="leancloud-visitors-count"></span>
           </span>
         {{ end }}
+        </span>
       </div>
     </header>
 
