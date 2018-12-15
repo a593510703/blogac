@@ -70,7 +70,7 @@
     .archive-post-time {
        color: $dark-gray;
        font-size: 16px;
-       font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas,$global-serif-font-family;
+       font-family: $global-code-font-family;
        line-height: 1.75;
        display: table-cell;
        width: 8em;

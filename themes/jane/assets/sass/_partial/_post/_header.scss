@@ -14,26 +14,44 @@
   .post-link {
     @include underline-from-center;
   }
+  .post-category {
+    float: left;
+    font-family: $global-serif-font-family;
+    font-size: 16px;
+    display: inline;
+margin-right: 20px;
 
+  a{
+    padding: 2px 8px 2px 8px;
+  background:  #ffc7c7;
+}
+a:hover{
+background: none
+}
+  }
+  .post-tag {
+    float: right;
+    font-family: $global-serif-font-family;
+    font-size: 16px;
+    display: inline;
+padding: 0px;
+margin-left: 12px;
+a{
+  padding: 2px 8px 2px 8px;
+background:  #ffc7c7;
+border-radius: 13px
+}
+a:hover{
+background: none
+}
+  }
   .post-meta {
     font-size: 17px;
     color: black;
-
+    letter-spacing: 0;
     .post-time {
-      font-size: 17px;
-    }
-
-    .post-category {
-      display: inline;
-      &::before {
-        content: '｜分類';
-      }
-    }
-    .post-tag {
-      display: inline;
-      &::before {
-        content: '× 系列'
-      }
+      font-size: 16px;
+      font-family: $global-code-font-family;
     }
 
     a {
@@ -45,9 +63,8 @@
     }
 
     .more-meta {
-      &::before {
-        content: '｜';
-      }
+      font-family: $global-code-font-family;
+      padding-left: 16px
     }
 
   }
