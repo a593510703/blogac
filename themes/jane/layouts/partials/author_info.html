@@ -8,7 +8,7 @@
 <section class="author-info">
   <div class="author-box">
     <div class="author-image">
-      {{- with $author_url -}}<a href="{{ $author_url | relLangURL }}">{{- end -}}
+      {{- with $author_url -}}<a href="{{ $author_url | relLangURL }}" target="_blank">{{- end -}}
       <img src="{{ $author_image.url | relURL }}" alt="{{ $author_name }}" width="{{ $author_image.width | default 128 }}" height="{{ $author_image.height | default 128 }}"/>
       {{- with $author_url -}}</a>{{- end -}}
     </div>
