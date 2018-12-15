@@ -6,7 +6,7 @@ lastmod: 2018-11-28
 categories: ["生活"]
 tags: ["生活"]
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/136yutdwj.md'
-contentCopyright: "此篇爲站長約稿，禁止轉載"
+contentCopyright: "此篇爲站長約稿，轉載需經過原作者同意"
 ---
 
 # 一、
