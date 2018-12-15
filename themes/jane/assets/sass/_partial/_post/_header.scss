@@ -49,9 +49,9 @@ background: none
     font-size: 16px;
     color: black;
     letter-spacing: 0;
+    font-family: $global-code-font-family,$global-serif-font-family;
     .post-time {
       font-size: 16px;
-      font-family: $global-code-font-family;
     }
 
     a {
@@ -63,7 +63,7 @@ background: none
     }
 
     .more-meta {
-      font-family: $global-code-font-family;
+
       padding-left: 16px
     }
 
