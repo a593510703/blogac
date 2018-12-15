@@ -17,7 +17,7 @@
             {{ range . }}
             {{- $name := . -}}
             {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
-              <a href="/categories/#{{ $name }}"> {{ $name }} </a>
+              <a href="/categories/#{{ $name }}">[{{ $name }}]</a>
             {{ end -}}
             {{ end }}
           </div>
@@ -27,7 +27,7 @@
             {{ range . }}
             {{- $name := . -}}
             {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
-            <a href="/tags/#{{ $name }}">{{ $name }}</a>
+            <a href="/tags/#{{ $name }}">[{{ $name }}]</a>
             {{ end -}}
             {{ end }}
           </div>

@@ -6,8 +6,9 @@
   .post-title {
     margin: 0 0 10px 0;
     font-size: $post-title-font-size;
+    letter-spacing: 2px;
     font-weight: $post-title-font-weight;
-    font-family: $global-serif-font-family;
+    font-family: $global-font-family;
   }
 
   .post-link {
@@ -25,13 +26,13 @@
     .post-category {
       display: inline;
       &::before {
-        content: '｜分類:';
+        content: '｜分類';
       }
     }
     .post-tag {
       display: inline;
       &::before {
-        content: '× 系列:'
+        content: '× 系列'
       }
     }
 

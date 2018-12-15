@@ -61,7 +61,7 @@
   translation: 字數 {{.Count}}
 
 - id: readingTime
-  translation: 豫計旹長 {{.Count}} 分鐘
+  translation: 閱讀旹長 {{.Count}} 分鐘
 
 # copyright
 - id: author
