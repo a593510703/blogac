@@ -1,0 +1,16 @@
+description = "這箇人很懶，什麼都不想說。〔我說一句吧，比我小一級的學妹呀〕"
+mail="690664620@qq.com"
+[name]
+display = "楊鑒琪"
+
+[image]
+ url = "/yjq.jpg"
+ width = 110
+ height = 110
+
+
+# [en]
+# description = "haha"
+
+#[en.name]
+#display = "KE Qihan"
