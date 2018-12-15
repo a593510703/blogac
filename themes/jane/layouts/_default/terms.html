@@ -41,10 +41,10 @@
           {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
               </time>
               <span class="archive-post-title">
-{{ .Params.author }}｜<a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a>
+<span class="archive-post-title-author">{{ .Params.author }}</span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
               </span>
               <span class="archive-post-tags1">
-              {{ with .Params.tags -}}
+              系列｜{{ with .Params.tags -}}
                   {{ range . }}
                   {{- $name := . -}}
                   {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
@@ -93,14 +93,14 @@
           {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
               </time>
               <span class="archive-post-title">
-{{ .Params.author }}｜<a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a>
+<span class="archive-post-title-author">{{ .Params.author }}</span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
               </span>
               <span class="archive-post-categories1">
               {{ with .Params.categories -}}
                   {{ range . }}
                   {{- $name := . -}}
                   {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
-                  <a href="/categories/#{{ $name }}" >{{ $name }}</a>
+                  分類｜<a href="/categories/#{{ $name }}" >{{ $name }}</a>
                   {{ end -}}
                   {{ end }}
               {{- end }}
@@ -148,7 +148,7 @@
                       {{ .Title }}
                     </a>
                   </span>
-                  <span class="archive-post-categories">
+                  <span class="archive-post-ct"><span class="archive-post-categories">
                       {{ with .Params.categories -}}
                           {{ range . }}
                           {{- $name := . -}}
@@ -164,11 +164,11 @@
                       {{ range . }}
                       {{- $name := . -}}
                       {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
-                      <a href="/tags/#{{ $name }}" >{{ $name }}</a>
+                      / <a href="/tags/#{{ $name }}" >{{ $name }}</a>
                       {{ end -}}
                       {{ end }}
                   {{- end }}
-                  </span>
+                  </span></span>
             </div>
           {{ end }}
       </section>

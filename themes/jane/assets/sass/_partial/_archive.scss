@@ -62,7 +62,7 @@
 
   .archive-post {
     padding: $archive-post-padding;
-    border-top: $archive-post-top;
+    border-top: $archive-post-border;
     font-size: 1em;
     display: table;
     width: 100%;
@@ -92,30 +92,30 @@
   }
   .archive-post-tags{
     float: right;
-  a{ &::before {
-     content: ' / ';
-   }
- }
 }
 }
   .archive-post-categories1{
     float: right;
     display: table-cell;
+       font-family: $global-serif-font-family;
     margin-top: 13px;
     font-size: 16px;
-  a{  &::before {
-    content: '分類｜';}
+
+  a:hover{
+    color:$theme-color;
   }
   }
 
 .archive-post-tags1{
   float: right;
   display: table-cell;
+  font-family: $global-serif-font-family;
   margin-top: 13px;
   font-size: 16px;
-  a{&::before {
-  content: '系列｜';}
-}}
+a:hover{
+  color:$theme-color;
+}
+}
 
 
 
