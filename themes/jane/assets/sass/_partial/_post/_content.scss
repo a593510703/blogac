@@ -150,14 +150,15 @@
   line-height: 1.5;
   a{
     color: $black;
-  }
-  a:hover{
+
+  &:hover{
     border: none;
     background: $pink;
     border-radius: 5px;
-    padding: 2px 0;
-  color: $black;
+    padding: 0;
+    color: $black;
   }
+}
 }
 }
 .description{
@@ -182,8 +183,7 @@
   line-height: 1.7;
 a{
   color:$theme-color;
-}
-a:hover{
+&:hover{
   border: none;
   background: $pink;
   border-radius: 5px;
@@ -205,4 +205,5 @@ a:hover{
 
 .post-content-header:hover .header-link {
   visibility: visible;
+}
 }
