@@ -44,7 +44,7 @@
 <span class="archive-post-title-author">{{ .Params.author }}</span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
               </span>
               <span class="archive-post-tags1">
-              系列｜{{ with .Params.tags -}}
+              <span style="color:#7d7d7d">系列｜</span>{{ with .Params.tags -}}
                   {{ range . }}
                   {{- $name := . -}}
                   {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
@@ -100,7 +100,7 @@
                   {{ range . }}
                   {{- $name := . -}}
                   {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
-                  分類｜<a href="/categories/#{{ $name }}" >{{ $name }}</a>
+                  <span style="color:#7d7d7d">分類｜</span><a href="/categories/#{{ $name }}" >{{ $name }}</a>
                   {{ end -}}
                   {{ end }}
               {{- end }}

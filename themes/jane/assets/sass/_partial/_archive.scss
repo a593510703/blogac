@@ -84,8 +84,11 @@
    font-family: $global-serif-font-family;
    font-weight: 200;
    display: table-cell;
+
    a:hover{
-     color:$theme-color;
+     background: $pink;
+     border-radius: 5px;
+     padding: 2px 0;
    }
     .archive-post-categories{
       float: right;
@@ -102,7 +105,9 @@
     font-size: 16px;
 
   a:hover{
-    color:$theme-color;
+    background: $pink;
+    border-radius: 5px;
+    padding: 2px 0;
   }
   }
 
@@ -113,7 +118,9 @@
   margin-top: 13px;
   font-size: 16px;
 a:hover{
-  color:$theme-color;
+  background: $pink;
+  border-radius: 5px;
+  padding: 2px 0;
 }
 }
 
@@ -128,7 +135,10 @@ a:hover{
         // border-left: $archive-post-hover-border-left;
       //  transition: $archive-post-hover-transition;
     //    transform: $archive-post-hover-transform;
-    color:$theme-color;}
+  background: $pink;
+  padding: 3px 0 2px 0;
+  border-radius: 5px;
+}
       .archive-post-title-author{
         font-family: $global-serif-font-family;
         padding-right: 20px;
