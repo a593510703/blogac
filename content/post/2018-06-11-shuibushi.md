@@ -7,12 +7,8 @@ categories: ["功課"]
 tags: ["課業"]
 url: /blog/2018/06/11/shuibushi.html
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/2018-06-11-shuibushi.md'
+description: '大二下期《中國古代史下》作業。由於排版原因，這裡只放第四部分。'
 ---
-<!--more-->
-
-大二下期《中國古代史下》作業。由於排版原因，這裡只放第四部分。如需使用，請看 [說明](https://kujihhoe.com/blog/2018/06/05/minghua.html)。
-
-------
 
 # 四、對諸河渠的梳理
 

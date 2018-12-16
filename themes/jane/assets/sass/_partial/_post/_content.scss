@@ -8,8 +8,9 @@
   text-justify: inter-ideograph;
   hr {
     border: none;
-    background: $theme-color;
-    height: 3px;
+    background: $pink;
+    height: 6px;
+    border-radius: 5px;
     margin: 50px 0;
   }
   @for $i from 1 through 6 {
@@ -127,23 +128,71 @@
     overflow-x: auto;
     overflow-y: hidden;
   }
-.toc{
+  .toc{
+    margin: 0 0 50px 0;
+    &:before{
+      content:'目次';
+      background: $pink;
+      padding: 7px 5px 7px 10px;
+      color: #ec6767;
+      font-family: $global-serif-font-family;
+      letter-spacing: 5px;
+      font-weight: 700;
+      font-size: 20px
+    }
+.toc1{
+  font-size: 16px;
+  border: 5px $pink solid;
+  margin-top: -4px;
+  font-weight: 300;
   font-family: $global-serif-font-family;
-  color:$black;
-  font-size:16px;
-  line-height: 1.7;
-  border-bottom: 3px $theme-color solid;
-  margin: 1em 0 3em 0;
-  padding: 5px 0 1em 0;
+  padding: 16px 25px;
+  line-height: 1.5;
   a{
-    color:$black;
+    color: $black;
   }
   a:hover{
     border: none;
-    background: $pink;
+    background: $white;
     border-radius: 5px;
     padding: 2px 0;
+    color: $theme-color;
   }
+}
+}
+.description{
+  margin: 0 0 50px 0;
+  &:before{
+    content:'歬言';
+    background: $shallow-pink;
+    border-radius: 6px;
+    padding: 7px 5px 37px 10px;
+    color: #ec6767;
+    font-family: $global-serif-font-family;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 20px
+  }
+.description1{
+font-size: 18px;
+background: $shallow-pink;
+margin-top: -13px;
+font-weight: 300;
+font-family: $global-serif-font-family;
+border-radius: 10px;
+padding: 16px 25px;
+line-height: 1.8;
+a{
+  color:$theme-color;
+}
+a:hover{
+  border: none;
+  background: $white;
+  border-radius: 5px;
+  padding: 2px 0;
+  color: $black;
+}
+}
 }
   @import 'code';
   @import 'image';
