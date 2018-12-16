@@ -3,11 +3,10 @@
   font-size: 18px;
   &:before{
     content:'註腳';
-    background:#ffc7c7;
+    background: $theme-color;
     padding: 7px 5px 7px 10px;
-    color: #e65a5a;
+    color: $white;
     font-family: $global-serif-font-family;
-    border-radius: 3px;
     letter-spacing: 5px;
     font-weight: 700;
     font-size: 20px
@@ -28,8 +27,10 @@
     //   transition: opacity 0.3s transform 0.3s;
   }
   >a {
-    font-weight: 200;
-    padding: 0 4px;
+    font-weight: 400;
+    font-size:14px;
+    font-family: $global-code-font-family;
+    padding: 0 3px;
     border: 1px $theme-color solid;
     border-radius: 5px;
   }
