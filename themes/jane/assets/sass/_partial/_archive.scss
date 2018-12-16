@@ -141,6 +141,12 @@ a:hover{
       }
       .archive-post-link {
         color: $black;
+            .archive-post-note{
+              font-family: $global-serif-font-family;
+              padding-left: 20px;
+              font-weight: 200;
+              font-size: 15px
+            }
         a:hover {
           // border-left: $archive-post-hover-border-left;
         //  transition: $archive-post-hover-transition;

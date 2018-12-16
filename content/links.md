@@ -8,7 +8,7 @@ menu:
 url: /links/
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/links.md'
 ---
-<hr><br>
+
 想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kujihhoe.com) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
 
 要求：**非**技術類優先。維持運營一年以上，並將長期維護。友鏈上限爲 30—35 箇。本站信息如下，並可按此格式回復：

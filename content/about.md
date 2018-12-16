@@ -9,7 +9,6 @@ url: /about/
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/about.md'
 ---
 <!--more-->
-<hr><br>
 此文爲本站緫序，包含介紹、說明書與聲明。
 
 # 一、我疇？
