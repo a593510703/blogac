@@ -5,4 +5,5 @@ Disallow: /categories/*
 Disallow: /tags/*
 Disallow: /author/*
 Disallow: /page/*
+Disallow: /post/page/*
 Disallow: /en/*
