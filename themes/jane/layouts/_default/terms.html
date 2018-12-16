@@ -17,7 +17,7 @@
                     {{ $currentTagCount := len $taxonomy.Pages }}
                     {{ $count := len $taxonomy.Pages }}
                     {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $tagName) }}
-                <a href="#{{ $tagName }}"> {{ $tagName }} {{ len $taxonomy.Pages }}</a>　
+                <a href="#{{ $tagName }}">{{ $tagName }} {{ len $taxonomy.Pages }}</a>　
               {{end}}{{end}}
     </div>
     {{ range $terms }}
@@ -69,7 +69,7 @@
                     {{ $currentTagCount := len $taxonomy.Pages }}
                     {{ $count := len $taxonomy.Pages }}
                     {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $tagName) }}
-                <a href="#{{ $tagName }} ">  {{ $tagName }} {{ len $taxonomy.Pages }}</a>　
+                <a href="#{{ $tagName }} ">{{ $tagName }} {{ len $taxonomy.Pages }}</a>　
               {{end}}{{end}}
     </div>
     {{ range $terms }}
@@ -121,7 +121,7 @@
                     {{ $currentTagCount := len $taxonomy.Pages }}
                     {{ $count := len $taxonomy.Pages }}
                     {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $authorName) }}
-                <a href="#{{ $authorName }} ">  {{ $authorName }} {{ len $taxonomy.Pages }}</a>　
+                <a href="#{{ $authorName }}">{{ $authorName }} {{ len $taxonomy.Pages }}</a>　
               {{end}}{{end}}
     </div>
     {{ range $terms }}
@@ -144,9 +144,9 @@
               {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
                   </time>
                   <span class="archive-post-title">
-                    <a href="{{ .URL }}" class="archive-post-link">
-                      {{ .Title }}
-                    </a>
+                    <span class="archive-post-link">
+                      <a href="{{ .URL }}" >{{ .Title }}</a>
+                    </span>
                   </span>
                   <span class="archive-post-ct"><span class="archive-post-categories">
                       {{ with .Params.categories -}}

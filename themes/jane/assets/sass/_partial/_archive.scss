@@ -131,14 +131,7 @@ a:hover{
       vertical-align: middle;
       max-width: 420px;
       line-height: 1.6;
-      a:hover {
-        // border-left: $archive-post-hover-border-left;
-      //  transition: $archive-post-hover-transition;
-    //    transform: $archive-post-hover-transform;
-  background: $pink;
-  padding: 3px 0 2px 0;
-  border-radius: 5px;
-}
+
       .archive-post-title-author{
         font-family: $global-serif-font-family;
         padding-right: 20px;
@@ -148,6 +141,14 @@ a:hover{
       }
       .archive-post-link {
         color: $black;
+        a:hover {
+          // border-left: $archive-post-hover-border-left;
+        //  transition: $archive-post-hover-transition;
+      //    transform: $archive-post-hover-transform;
+    background: $pink;
+    padding: 7px 0 2px 0;
+    border-radius: 5px;
+  }
       }
     }
 
