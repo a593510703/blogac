@@ -164,9 +164,8 @@
   margin: 0 0 50px 0;
   &:before{
     content:'歬言';
-    background: $shallow-pink;
-    border-radius: 6px;
-    padding: 7px 5px 37px 10px;
+    background: $pink;
+    padding: 7px 5px 7px 10px;
     color: #ec6767;
     font-family: $global-serif-font-family;
     letter-spacing: 5px;
@@ -174,14 +173,13 @@
     font-size: 20px
   }
 .description1{
-font-size: 18px;
-background: $shallow-pink;
-margin-top: -13px;
-font-weight: 300;
-font-family: $global-serif-font-family;
-border-radius: 10px;
-padding: 16px 25px;
-line-height: 1.8;
+  font-size: 18px;
+  border: 5px $pink solid;
+  margin-top: -4px;
+  font-weight: 300;
+  font-family: $global-serif-font-family;
+  padding: 16px 25px;
+  line-height: 1.7;
 a{
   color:$theme-color;
 }

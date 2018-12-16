@@ -4,7 +4,6 @@
   &:before{
     content:'註腳';
     background: $pink;
-    border-radius: 6px;
     padding: 7px 5px 7px 10px;
     color: #ec6767;
     font-family: $global-serif-font-family;
@@ -13,7 +12,7 @@
     font-size: 20px
   }
 hr{
-  margin-top: -5px;
+  margin-top: -3px;
   margin-bottom: 30px;
 }
 }
