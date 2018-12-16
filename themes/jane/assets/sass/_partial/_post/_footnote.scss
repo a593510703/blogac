@@ -35,8 +35,9 @@
     border-radius: 5px;
   }
   a:hover{
-    color: $black;
-    border: 1px $black solid;
+      padding: 0 3px;
+    color: $white;
+    background: $theme-color;
   }
 }
 

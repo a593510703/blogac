@@ -52,11 +52,12 @@
         </span>
       </div>
     </header>
-
     <!-- Copyright -->
     {{ partial "post/copyright.html" . }}
+
     <!-- Content -->
     <div class="post-content">
+      <div class="toc">{{ .TableOfContents }}</div>
       {{ .Content }}
       <div class="heart" style="padding: 20px 0 66px 0"><i class="iconfont" style="float:right">{{ partial "svg/heart1.svg"}}&nbsp/</i></div>
     </div>
@@ -91,7 +92,6 @@
   {{ if and (.Params.author | default .Site.Author.name) (.Params.showAuthorInfo | default .Site.Params.showAuthorInfo) }}
   {{ partial "author_info.html" (dict "author" (.Params.author | default .Site.Author.name) "context" $) }}
   {{ end }}
-
 
   <!-- Comments -->
   {{ partial "comments.html" . }}

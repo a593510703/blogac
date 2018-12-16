@@ -1,21 +1,22 @@
 .post-copyright {
   padding: 10px 20px 10px 0;
-  margin: 13px 0 4em 0;
+  margin: 13px 0 1em 0;
   font-size: 18px;
   line-height: 1.7;
   display: block;
   border-bottom:  1px solid $theme-color;
   text-indent:-1.5em;
   padding-left: 1.5em;
+  a:hover{
+    background: $pink;
+    border-radius: 5px;
+    padding: 3px 0 2px 0;
+  }
   .copyright-item {
     margin: 9px 0 9px 46px;
     a {
       color: $theme-color;
       word-wrap: break-word;
-
-      &:hover {
-        border-bottom: $content-link-border;
-      }
     }
 
     .item-title {

@@ -51,7 +51,10 @@
     word-break: break-all;
 
     &:hover {
-      border-bottom: $content-link-border;
+    //  border-bottom: $content-link-border;
+    background: $pink;
+    border-radius: 5px;
+    padding: 3px 0 2px 0;
     }
   }
 
@@ -62,20 +65,19 @@
   }
 
   > table {
-      border: none;
+    margin: 40px 0;
+      border-bottom: 3px solid $pink;
       width: 100%;
 
     td {
-      background-color: #F0E4E4;
-      border: 3px solid #FFF;
+      border-bottom: 1px solid $pink;
       padding: 5px 15px;
     }
 
     th {
       text-align: left;
-      background-color: #A65B5B;
-      color: #FFF;
-      border: 3px solid #FFF;
+      border-top: 3px solid $pink;
+        border-bottom: 3px solid $pink;
       padding: 5px 15px;
     }
   }
@@ -125,7 +127,24 @@
     overflow-x: auto;
     overflow-y: hidden;
   }
-
+.toc{
+  font-family: $global-serif-font-family;
+  color:$black;
+  font-size:16px;
+  line-height: 1.7;
+  border-bottom: 3px $theme-color solid;
+  margin: 1em 0 3em 0;
+  padding: 5px 0 1em 0;
+  a{
+    color:$black;
+  }
+  a:hover{
+    border: none;
+    background: $pink;
+    border-radius: 5px;
+    padding: 2px 0;
+  }
+}
   @import 'code';
   @import 'image';
   @import 'blockquote';
