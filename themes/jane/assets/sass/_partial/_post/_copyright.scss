@@ -7,18 +7,17 @@
   border-bottom:  1px solid $theme-color;
   text-indent:-1.5em;
   padding-left: 1.5em;
-  a:hover{
+  a{
+    color: $theme-color;
+  &:hover{
+    color: $black;
     background: $pink;
     border-radius: 5px;
     padding: 6px 0 2px 0;
-    color: $black;
+    }
   }
   .copyright-item {
     margin: 9px 0 9px 46px;
-    a {
-      color: $theme-color;
-      word-wrap: break-word;
-    }
 
     .item-title {
       display: inline-block;
