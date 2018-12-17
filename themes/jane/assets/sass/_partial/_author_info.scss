@@ -3,9 +3,9 @@
 // ==============================
 
 .author-info {
-  margin: 0 5em 3em 5em;
+  margin: 3.5em 4em;
   background-color: $white;
-  padding: 44px 5em 10px 5em;
+  padding: 44px 2.5em 10px 2.5em;
   text-align: center;
 
   .author-box {
@@ -62,6 +62,7 @@
     .author-box {
       .author-image img {
         float: none;
+        margin-bottom: 40px;
       }
       .author-content {
         padding-left: 0;
