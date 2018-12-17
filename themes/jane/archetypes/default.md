@@ -18,6 +18,10 @@ autoCollapseToc: false
 contentCopyright: false
 reward: false
 mathjax: false
+menu:
+  main:
+    parent: "平臺"
+    weight: 1
 ---
 
 <!--more-->

@@ -24,7 +24,6 @@
 </span>
           {{ end -}}
           {{ end }}
-
       {{- end }}
       <h1 class="post-title">{{ .Title }}</h1>
       {{ partial "post/i18nlist.html" . }}
@@ -35,14 +34,12 @@
         {{ if .Site.Params.moreMeta -}}
           <span class="more-meta"> {{ i18n "wordCount" .WordCount }}
         {{- end }}
-        <!-- Counter busuanzi -->
+
         {{ if .Site.Params.counter.busuanzi.enable }}
           <span id="busuanzi_container_page_pv">
-            × 點擊量<span id="busuanzi_value_page_pv"></span>
+            點擊量 <span id="busuanzi_value_page_pv"></span>
           </span>
-
         {{ end }}
-        <!-- Counter leancloud -->
         {{ if .Site.Params.counter.leancloud.enable }}
           <span id="{{ .URL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
             <span class="post-meta-item-text">點擊量 </span>
@@ -52,10 +49,9 @@
         </span>
       </div>
     </header>
-    <!-- Copyright -->
+
     {{ partial "post/copyright.html" . }}
 
-    <!-- Content -->
     <div class="post-content">
 {{ if .TableOfContents }}
       <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
@@ -92,12 +88,10 @@
       </nav>
     </footer>
   </article>
-
   <!-- Author Info -->
   {{ if and (.Params.author | default .Site.Author.name) (.Params.showAuthorInfo | default .Site.Params.showAuthorInfo) }}
   {{ partial "author_info.html" (dict "author" (.Params.author | default .Site.Author.name) "context" $) }}
   {{ end }}
-
   <!-- Comments -->
   {{ partial "comments.html" . }}
 {{- end }}

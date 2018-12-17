@@ -5,10 +5,10 @@ enableEmoji = true
 theme = "jane"
 disablePathToLower = true
 
-hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 15              # Number of articles displayed on the homepage # 首页每页显示的文章数
-rssLimit = 5            # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+hasCJKLanguage = true     # has chinese/japanese/korean ?
+paginate = 15              # Number of articles displayed on the homepage
+rssLimit = 5            # Limit Entry Count to Rss file
+copyright = ""            # default: author.name ↓
 uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
 [blackfriday]
@@ -27,14 +27,14 @@ PygmentsOptions = "linenos=inline"
  tag = "tags"
  category = "categories"
 
-defaultContentLanguage = "en"           # Default language to use
+defaultContentLanguage = "en"
 [languages.en]
   languageCode = "en"
 
-[author]                  # essential                     # 必需
+[author]                  # essential
   name = "柯棋瀚"
 
-[sitemap]                 # essential                     # 必需
+[sitemap]                 # essential
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
@@ -70,20 +70,19 @@ defaultContentLanguage = "en"           # Default language to use
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
-  since = "2017/10/03"            # Site creation time          # 站点建立时间
+  since = "2017/10/03"            # Site creation time
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "主葉"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "主葉"        # default: the title value
   keywords = ["古琴", "書法","錄音","經學","歷史"]
   description = "不務正業的歷史系學生一箇"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archive-paginate = 100
 
-  # paginate style, default use numbered pagination links
-  # if true, use original "Previous" and "Next" links.
+  # paginate style, default use numbered pagination links. if true, use original "Previous" and "Next" links.
   # paginateOriginalStyle = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
@@ -93,9 +92,9 @@ defaultContentLanguage = "en"           # Default language to use
   moreMeta = true
 
   # show language chooser in menu
-  showMenuLanguageChooser = true
+  showMenuLanguageChooser = false
 
-  showAuthorInfo = true # show author info below the article
+  showAuthorInfo = true
 
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
@@ -106,11 +105,11 @@ defaultContentLanguage = "en"           # Default language to use
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a>，非商業用途可自行轉載，但須遵守此協定'
   linkToMarkDown = true
 
-  baidu_push = false        # baidu push                  # 百度
-  baidu_analytics = "557733f5e13d0e8e483604d851d79134"      # Baidu Analytics
+  baidu_push = false        # baidu push
+  baidu_analytics = "557733f5e13d0e8e483604d851d79134"
   baidu_verification = "8qCdaqkmZt"   # Baidu Verification
-google_verification = ""  # Google_Verification         # 谷歌
- googleAnalytics = ""      # UA-XXXXXXXX-X
+# google_verification = ""  # Google_Verification
+# googleAnalytics = ""      # UA-XXXXXXXX-X
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
