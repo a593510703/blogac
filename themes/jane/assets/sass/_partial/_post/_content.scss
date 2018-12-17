@@ -1,17 +1,23 @@
 // ==============================
 // Post content
 // ==============================
-
 .post-content {
   word-wrap: break-word;
   text-align: justify;
   text-justify: inter-ideograph;
+    writing-mode: vertical-rl;
+    overflow: scroll;
+    width: 100%;
+    height: 110%;
+    max-height: 860px;
+    border-top:  1px solid $theme-color;
+    padding: 60px 0 40px 0;
   hr {
-    border: none;
     background: $pink;
-    height: 5px;
-    border-radius: 5px;
-    margin: 50px 0;
+    border: none;
+    width: 5px;
+    height:  100%;
+    margin: 0 50px ;
   }
   @for $i from 1 through 6 {
     h#{$i} {
@@ -22,23 +28,28 @@
   }
 
   h1 {
-    border-bottom: 1px dashed $dark-gray;
-    margin: 2em 0 1.2em 0;
-    text-align: center;
-    font-weight: 700
+    border-left : 1px dashed $dark-gray;
+    margin: 0em 2em 0 1.2em ;
+    padding-top: 2.15em;
+    letter-spacing:10px;
+    font-weight: 700;
+    line-height: 1.55;
   }
 
   h2 {
-    margin-top: 0;
-    font-weight: 700
+    margin-right: 0;
+    font-weight: 700;
+    line-height: 1.6;
   }
 
   h3 {
-    margin-top: 1.5em;
-    font-weight: 600
+    margin-right: 1.5em;
+    font-weight: 600;
+    line-height: 1.6;
   }
   h4 {
-    font-weight: 700
+    font-weight: 700;
+    line-height: 1.6;
   }
   h5 {
     font-weight: 400
@@ -54,37 +65,39 @@
     //  border-bottom: $content-link-border;
     background: $pink;
     border-radius: 5px;
-    padding: 7px 0 2px 0;
+    padding: 0 7px 0 2px ;
     color: $black;
     }
   }
 
   iframe {
-    margin: 0 auto;
+    margin:  auto 0;
     display: block;
     width: 100%;
   }
 
   > table {
-    margin: 40px 0;
-      border-bottom: 3px solid $pink;
+    margin:0 40px ;
+      border-left: 3px solid $pink;
       width: 100%;
 
     td {
-      border-bottom: 1px solid $pink;
-      padding: 5px 15px;
+      border: 1px solid $pink;
+      padding:5px 0px  ;
     }
 
     th {
       text-align: left;
-      border-top: 3px solid $pink;
-        border-bottom: 3px solid $pink;
-      padding: 5px 15px;
+      border-right: 3px solid $pink;
+      border-top:  1px solid $pink;
+      border-bottom:  1px solid $pink;
+        border-left : 3px solid $pink;
+      padding: 5px 5px  ;
     }
   }
 
   .post-summary {
-    margin-bottom: -10px;
+    margin-left : -10px;
   }
 
   .read-more {
@@ -96,7 +109,7 @@
       font-family: $global-serif-font-family;
 
       &:hover {
-        border-bottom: $post-readMore-border-bottom;
+        border-left : $post-readMore-border-bottom;
       }
     }
   }
@@ -106,7 +119,7 @@
     padding: 0.25em;
     background-color: $white;
     border: 1px solid #dbdbdb;
-    border-bottom-color: #b5b5b5;
+    border-left-color: #b5b5b5;
     border-radius: 3px;
     box-shadow: inset 0 -1px 0 #b5b5b5;
     font-size: 0.8em;
@@ -121,7 +134,7 @@
 
   .task-list {
     list-style: none;
-    padding-left: 1.5rem;
+    padding-top: 1.5rem;
   }
 
   .MJXc-display {
@@ -129,11 +142,11 @@
     overflow-y: hidden;
   }
   .toc{
-    margin: 0 0 50px 0;
+    margin: 0 50px 0 50px ;
     &:before{
       content:'目次';
       background: $pink;
-      padding: 7px 5px 7px 10px;
+      padding: 10px 7px 5px 7px ;
       color: #ec6767;
       font-family: $global-serif-font-family;
       letter-spacing: 5px;
@@ -143,10 +156,10 @@
 .toc1{
   font-size: 16px;
   border: 5px $pink solid;
-  margin-top: -4px;
+  margin-right: -4px;
   font-weight: 300;
   font-family: $global-serif-font-family;
-  padding: 16px 25px;
+  padding:25px 16px ;
   line-height: 1.5;
   a{
     color: $black;
@@ -160,11 +173,11 @@
 }
 }
 .description{
-  margin: 0 0 50px 0;
+  margin: 0 50px 0 50px ;
   &:before{
     content:'歬言';
     background: $pink;
-    padding: 7px 5px 7px 10px;
+    padding: 10px 7px 5px 7px ;
     color: #ec6767;
     font-family: $global-serif-font-family;
     letter-spacing: 5px;
@@ -172,9 +185,9 @@
     font-size: 19px
   }
 .description1{
-  margin-top: -4px;
+  margin-right: -4px;
   border: 5px $pink solid;
-  padding: 16px 25px;
+  padding: 25px 16px;
   font-size: 18px;
   font-weight: 300;
   font-family: $global-serif-font-family;
@@ -203,4 +216,10 @@ a:hover{
 
 .post-content-header:hover .header-link {
   visibility: visible;
+}
+@media screen and (min-width: 900px) {
+.post-content {  height: 102%;}
+}
+@media screen and (min-width: 1080px) {
+.post-content {  height: 106%;}
 }

@@ -1,12 +1,12 @@
 .post-copyright {
   padding: 10px 20px 10px 0;
-  margin: 13px 0 50px 0;
+  margin: 13px auto 0px auto;
   font-size: 18px;
   line-height: 1.7;
   display: block;
-  border-bottom:  1px solid $theme-color;
   text-indent:-1.5em;
   padding-left: 1.5em;
+  max-width: 700px;
   a{
     color: $theme-color;
   &:hover{
