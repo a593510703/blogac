@@ -53,7 +53,7 @@
     {{ partial "post/copyright.html" . }}
 
     <div class="post-content">
-{{ if .TableOfContents }}
+      {{ if .TableOfContents }}
       <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
       {{ end }}
       {{ if .Description }}
