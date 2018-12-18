@@ -22,11 +22,12 @@
       </span>
     </div>
   </header>
-  <!-- Copyright -->
   {{ partial "post/copyright.html" . }}
-  <!-- TOC -->
-  {{ partial "post/toc.html" . }}
-  <!-- Content -->
+  <div class="post-content1">
+    {{ if .TableOfContents }}
+    <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
+    {{ end }}
+    </div>
   <div class="post-content">
     {{ if .Description }}
     <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
@@ -34,11 +35,6 @@
     {{ .Content }}
     <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
   </div>
-  <div class="post-content1">
-    {{ if .TableOfContents }}
-    <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
-    {{ end }}
-    </div>
 </article>
 <!-- Comments -->
 {{ partial "comments.html" . }}
