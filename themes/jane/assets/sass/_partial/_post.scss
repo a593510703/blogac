@@ -5,7 +5,7 @@
 .post {
   // padding: 3em 5em;
   padding: 1em 0em;
-  margin: 0 1em 2em;
+  margin: 0 .8em 2em;
   @import '_post/header';
   @import '_post/toc';
   @import '_post/content';
@@ -22,41 +22,6 @@
   @import '_post/disqus';
 }
 
-@media screen and (max-width: 504px) {
-  .post {
-    padding: 1em 0em;
-    margin: 0 1em 2em;
-  }
-  .disqus-comment {
-    margin: 0 1em 2em;
-  }
   .content-wrapper {
     padding: 1em 0 1px;
   }
-}
-@media screen and (min-width: 505px) and (max-width: 899px) {
-  .post {
-    padding: 1em 0em;
-    margin: 0 1em 2em;
-  }
-  .disqus-comment {
-    margin: 0 1em 2em;
-  }
-  .content-wrapper {
-    padding: 1em 0 1px;
-  }
-}
-@media screen and (min-width: 900px) and (max-width: 1080px) {
-  .post {
-    padding: 1em 0em;
-    margin: 0 1em 2em;
-  }
-
-  .disqus-comment {
-    margin: 0 2em 2em;
-  }
-
-  .content-wrapper {
-    padding: 1em 0 1px;
-  }
-}
