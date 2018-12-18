@@ -818,13 +818,13 @@ Google AdSense 被封了，原來是我自己點得太多。算了，不申訴�
 
 把配置文件裏的 CDN 打開，速度一下就飆升：
 
-![](https://api.superbed.cn/pic/5c064dffc4ff9e05833a147a)
+<img src="https://api.superbed.cn/pic/5c064dffc4ff9e05833a147a" width="800px">
 
 眞是意想不到。
 
-![](https://api.superbed.cn/pic/5c07f67dc4ff9e3acfc1ae76)
+<img src="https://api.superbed.cn/pic/5c07f67dc4ff9e3acfc1ae76" width="800px">
 
-![](https://ww1.sinaimg.cn/large/007iUjdily1fxvo6twi1fj313h0u0td8.jpg)
+<img src="https://ww1.sinaimg.cn/large/007iUjdily1fxvo6twi1fj313h0u0td8.jpg" width="600px">
 
 達到了 A+。看報告，竟然默認開啓了 HSTS，我一直㠯爲沒有。
 
@@ -858,3 +858,5 @@ Google AdSense 被封了，原來是我自己點得太多。算了，不申訴�
 - 修改超鏈接 hover 樣式
 - 統一了 `$pink` `$dark-gray` 的顏色
 - 統一分割線樣式
+
+### 12 月 18 日

@@ -3,6 +3,8 @@
 // ==============================
 
 .post-footer {
+  border-top: 3px $theme-color solid;
+  
   font-family: $global-code-font-family,$global-serif-font-family;
   .post-tags {
     margin-top: 1em;
@@ -38,7 +40,7 @@
 
     .prev {
       float: left;
-
+      margin-left: 2em;
       &:hover {
         color: $theme-color;
         transform: translateX(-4px);
@@ -47,7 +49,7 @@
 
     .next {
       float: right;
-
+      margin-right: 2.15em;
       &:hover {
         color: $theme-color;
         transform: translateX(4px);

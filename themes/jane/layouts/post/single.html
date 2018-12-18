@@ -53,15 +53,17 @@
     {{ partial "post/copyright.html" . }}
 
     <div class="post-content">
-      {{ if .TableOfContents }}
-      <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
-      {{ end }}
       {{ if .Description }}
       <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
       {{ end }}
       {{ .Content }}
       <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
     </div>
+    <div class="post-content1">
+      {{ if .TableOfContents }}
+      <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
+      {{ end }}
+      </div>
     <footer class="post-footer">
       <!-- Post Pagination -->
       <nav class="post-nav">
