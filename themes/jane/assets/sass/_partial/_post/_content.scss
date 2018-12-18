@@ -2,7 +2,7 @@
 // Post content
 // ==============================
 .post-content {
-  margin: 10px 0;
+  margin: 10px 0 3px 0;
   word-wrap: break-word;
   text-align: justify;
   text-justify: inter-ideograph;
@@ -213,7 +213,7 @@ a:hover{
   @import 'blockquote';
 }
 .post-content1 {
-  margin: 10px 0 3px 0;
+  margin: 0px 0 3px 0;
   word-wrap: break-word;
   text-align: justify;
   text-justify: inter-ideograph;
