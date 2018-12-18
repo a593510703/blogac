@@ -16,6 +16,7 @@ body {
   line-height: $global-lineheight;
   color: $global-font-color;
   background: $global-background;
+  overflow: scroll;
   scroll-behavior: smooth;
   -webkit-overflow-scrolling: touch;
   // border-top: 3px solid $theme-color;
