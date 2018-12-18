@@ -17,6 +17,7 @@ body {
   color: $global-font-color;
   background: $global-background;
   scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
   // border-top: 3px solid $theme-color;
 }
 
