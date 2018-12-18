@@ -55,11 +55,11 @@
       {{ if .TableOfContents }}
       <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
       {{ end }}
-      </div>
-    <div class="post-content">
       {{ if .Description }}
       <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
       {{ end }}
+      </div>
+    <div class="post-content">
       {{ .Content }}
       <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
     </div>
