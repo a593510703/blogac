@@ -860,3 +860,16 @@ Google AdSense 被封了，原來是我自己點得太多。算了，不申訴�
 - 統一分割線樣式
 
 ### 12 月 18 日
+
+！！！改版了！！！
+
+看到韻典網最近改版了，我突然想改！正文部分改成直排。
+
+```css
+writing-mode: vertical-rl;
+overflow: scroll;
+scroll-behavior: smooth;
+-webkit-overflow-scrolling: touch;
+```
+
+這樣就可以。再把原來的 padding 之類改一下就好，全部順時針轉一格，比如 `padding-right` 改成 `padding-bottom`，`padding: 1px 2px 3px 4px` 改成 `padding: 4px 1px 2px 3px`。這樣就差不多了。
