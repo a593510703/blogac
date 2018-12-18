@@ -3,8 +3,8 @@
 // ==============================
 
 .post-footer {
-  font-family: $global-serif-font-family;
-
+  font-family: $global-code-font-family,$global-serif-font-family;
+  letter-spacing: 0;
   .post-tags {
     margin-top: 1em;
 
@@ -42,7 +42,7 @@
 
       &:hover {
         color: $theme-color;
-        transform: translateX(-4px); 
+        transform: translateX(-4px);
       }
     }
 
@@ -51,7 +51,7 @@
 
       &:hover {
         color: $theme-color;
-        transform: translateX(4px); 
+        transform: translateX(4px);
       }
     }
 
