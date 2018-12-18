@@ -1,38 +1,16 @@
-// ==============================
-// Post blockquote
-// ==============================
-
 blockquote {
   margin: 0em 1em 0em 1em;
+  padding: 2.5em 0.2em 0 0.2em ;
   color: $global-font-color;
   position: relative;
-  line-height: 1.85;
+  line-height: 1.75;
   font-weight: 300;
   font-size: 19px;
   font-family: $global-serif-font-family;
-
-  @include min-screen() {
-    padding: 2.5em 0.2em 0 0.2em ;
-    &::before {
-      font-family: $global-font-family;
-      content: "﹁";
-      color: $gray;
-      font-size: 3.5em;
-      position: absolute;
-      right: 7px;
-      top: -43px;
-    }
-  }
-
-  @include max-screen() {
-    padding: 2em 0.2em 0 0.2em ;
-  }
-
   footer {
     color: #333333;
     margin-left: 1em;
   }
-
   cite:before {
     content: '\2014';
     padding-right: 0;
