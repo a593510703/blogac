@@ -7,11 +7,13 @@
   text-justify: inter-ideograph;
     writing-mode: vertical-rl;
     overflow: scroll;
+    scroll-behavior: smooth;
     width: 100%;
     height: 110%;
     max-height: 860px;
     border-top:  1px solid $theme-color;
-    padding: 60px 0 40px 0;
+    border-bottom: 1px solid $theme-color;
+    padding: 60px 0 60px 0;
   hr {
     background: $pink;
     border: none;
@@ -28,18 +30,19 @@
   }
 
   h1 {
-    border-left : 1px dashed $dark-gray;
     margin: 0em 2em 0 1.2em ;
     padding-top: 2.15em;
     letter-spacing:10px;
     font-weight: 700;
     line-height: 1.55;
+    font-family: $global-font-family;
   }
 
   h2 {
     margin-right: 0;
     font-weight: 700;
     line-height: 1.6;
+    font-family: $global-font-family;
   }
 
   h3 {
@@ -218,8 +221,8 @@ a:hover{
   visibility: visible;
 }
 @media screen and (min-width: 900px) {
-.post-content {  height: 102%;}
+.post-content {  height: 106%;}
 }
 @media screen and (min-width: 1080px) {
-.post-content {  height: 106%;}
+.post-content {  height: 110%;}
 }

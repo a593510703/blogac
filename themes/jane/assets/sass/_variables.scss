@@ -56,7 +56,13 @@ $global-container-padding: 0 10px !default;
 
 // Default line height for all type. `$global-lineheight` is 24px while `$global-font-size` is 16px.
 $global-lineheight: 1.85 !default;
-$global-font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif !default;
+@font-face {
+  font-family: '新书宋';
+  font-style: normal;
+  font-weight: normal;
+  src: local('新书宋'), url('/新书宋.woff') format('woff');
+}
+$global-font-family: '新书宋',AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif !default;
 $global-serif-font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif !default;
 $global-code-font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas !default;
 $global-background: $white !default;
@@ -64,7 +70,7 @@ $global-background: $white !default;
 // Headings font size of the site.
 $global-headings: (
   h1: 1.4em,
-  h2: 1.4em,
+  h2: 1.3em,
   h3: 1.2em,
   h4: 1em,
   h5: 1em,
