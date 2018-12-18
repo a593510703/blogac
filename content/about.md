@@ -26,7 +26,7 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 3、我崇尚自由開放的互聯网精神。微信公眾號太垃圾，㝡主要的是**太封閉**，只能在手機上用，只好建了博客。而且一次只能加載十條消息，想看一百條㠯歬的消息必須刷新十次，這是多麼難受的事情。而且，微信那麼爛的輭件爲何還能大行其衟？這種逆時代而行的東西，只能期待有一天衰落了。不開放的互聯網產品只能是死路一條。貼一張圖：
 
-   <center><img src="https://www.superbed.cn/pic/5becb5a19dc6d61ad66ee225" width="600"></center>
+   <center><img src="https://www.superbed.cn/pic/5becb5a19dc6d61ad66ee225" height="100%"></center>
 
 4、不想用社交平臺，想找箇東西替代。我發朋友圈的頻率，2014—2017 秊是〇條，2017 以後大槩是半秊一條，其他任何平臺（知乎豆瓣等）也都處於隱身狀態。
 
@@ -71,4 +71,4 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 - 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益及讚賞表](/blog/2018/11/06/zjuh.html)。You can support me via [paypal](https://paypal.me/kujihhoe).
 
-  <div style="text-align: center"><img src="https://api.superbed.cn/pic/5bf82416c4ff9e058246008d" width="100px"></div>
+<img src="https://api.superbed.cn/pic/5bf82416c4ff9e058246008d" width="150" >
