@@ -58,7 +58,10 @@ img {
   border: 8px $pink solid;
   margin: 0 30px;
 }
-
+v{
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
 a {
   color: $global-font-color;
   text-decoration: none;
