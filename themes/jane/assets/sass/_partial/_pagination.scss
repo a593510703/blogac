@@ -11,27 +11,32 @@
     display: inline-block;
 
     a {
-      background-color: $white;
-      margin-left: .1em;
-      margin-right: .1em;
-      border: 1px solid $black;
+      font-family: $global-code-font-family;
+      font-size: 16px;
+      background: $white;
+      margin: 0 .3em .2em .3em;
       color: $black;
       float: left;
       line-height: 1.42857143;
       padding: 6px 12px;
       position: relative;
+      border-radius: 12px;
       text-decoration: none;
-      margin-bottom: 0.2em;
+    }
+    a:hover{
+      background: none;
     }
   }
 
   .active {
     a {
-      background-color: #222;
-      border-color: #222;
-      color: #fff;
+      background: $pink;
+      color: $theme-color;
       cursor: default;
       z-index: 2;
+    }
+    a:hover{
+      background: $pink;
     }
   }
 
