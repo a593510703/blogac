@@ -6,6 +6,7 @@ border-bottom: 1px $theme-color solid;
   word-wrap: break-word;
   text-align: justify;
   text-justify: inter-ideograph;
+  hanging-punctuation:first;
   hr {
     border: none;
     background: $pink;
@@ -238,6 +239,7 @@ a:hover{
     overflow: scroll;
     scroll-behavior: smooth;
     -webkit-overflow-scrolling: touch;
+    hanging-punctuation: first;
     width: 100%;
     height: 110%;
     max-height: 860px;
@@ -377,6 +379,7 @@ a:hover{
     overflow: scroll;
     scroll-behavior: smooth;
     -webkit-overflow-scrolling: touch;
+    hanging-punctuation:first;
     width: 100%;
     height: 50%;
     max-height: 460px;
