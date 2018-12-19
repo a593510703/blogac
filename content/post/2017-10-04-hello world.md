@@ -879,6 +879,36 @@ scroll-behavior: smooth;
 
 ### 12 月 19 日
 
+増加配置項，可以指定是橫排還是直排。
+
+ ```html
+{{ if or .Params.verticle (and .Site.Params.verticle (ne .Params.verticle false)) }}
+<div class="post-content1">
+  {{ if .TableOfContents }}
+  <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
+  {{ end }}
+  {{ if .Description }}
+  <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
+  {{ end }}
+  </div>
+<div class="post-content">
+  {{ .Content }}
+  <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
+</div>
+  {{ else }}
+    <div class="post-content2">
+      {{ if .TableOfContents }}
+      <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
+      {{ end }}
+      {{ if .Description }}
+      <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
+      {{ end }}
+      {{ .Content }}
+      <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp/</i>
+</div>
+    {{ end }}
+```
+
 把書名號改成波浪線。増加注釋小字。
 
  ```css
