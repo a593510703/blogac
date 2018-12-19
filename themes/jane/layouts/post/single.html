@@ -35,11 +35,6 @@
           <span class="more-meta"> {{ i18n "wordCount" .WordCount }}
         {{- end }}
 
-        {{ if .Site.Params.counter.busuanzi.enable }}
-          <span id="busuanzi_container_page_pv">
-            點擊量 <span id="busuanzi_value_page_pv"></span>
-          </span>
-        {{ end }}
         {{ if .Site.Params.counter.leancloud.enable }}
           <span id="{{ .URL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
             <span class="post-meta-item-text">點擊量 </span>
@@ -51,18 +46,30 @@
     </header>
 
     {{ partial "post/copyright.html" . }}
-    <div class="post-content1">
+{{ if or .Params.verticle (and .Site.Params.verticle (ne .Params.verticle false)) }}
+<div class="post-content1">
+  {{ if .TableOfContents }}
+  <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
+  {{ end }}
+  {{ if .Description }}
+  <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
+  {{ end }}
+  </div>
+<div class="post-content">
+  {{ .Content }}
+  <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
+</div>
+  {{ else }}
+    <div class="post-content2">
       {{ if .TableOfContents }}
       <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
       {{ end }}
       {{ if .Description }}
       <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
       {{ end }}
-      </div>
-    <div class="post-content">
       {{ .Content }}
       <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
-    </div>
+    {{ end }}
     <footer class="post-footer">
       <!-- Post Pagination -->
       <nav class="post-nav">

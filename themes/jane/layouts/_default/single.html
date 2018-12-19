@@ -23,6 +23,7 @@
     </div>
   </header>
   {{ partial "post/copyright.html" . }}
+  {{ if or .Params.verticle (and .Site.Params.verticle (ne .Params.verticle false)) }}
   <div class="post-content1">
     {{ if .TableOfContents }}
     <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
@@ -35,6 +36,17 @@
     {{ .Content }}
     <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
   </div>
+    {{ else }}
+      <div class="post-content2">
+        {{ if .TableOfContents }}
+        <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>
+        {{ end }}
+        {{ if .Description }}
+        <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
+        {{ end }}
+        {{ .Content }}
+        <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
+      {{ end }}
 </article>
 <!-- Comments -->
 {{ partial "comments.html" . }}
