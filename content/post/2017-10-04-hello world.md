@@ -929,3 +929,19 @@ n{
 ```
 
 `v` 是波浪線， `n` 是小字。
+
+増加首字下沉：
+
+```css
+g{
+color: $theme-color;
+float: left;
+font-size: 2.8em;
+margin: 0 -.2em .2em -.5em;
+font-weight: 700;
+}
+```
+
+只能通過手動的方式來進行首字下沉。
+
+現在，實在是太美了，這世界上怎麼能有那麼好看的網頁？？
