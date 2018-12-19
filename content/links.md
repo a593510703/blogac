@@ -25,9 +25,9 @@ verticle: false
 
 ## 獨立博客
 
-[半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<font size="2.4" color="#777">（友鏈於 20181028）</font>
+[半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<n1>友鏈於 20181028</n1>
 
-<img src="https://yilanju.com/image/logo.png" width="90"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<font size="2.4" color="#777">（友鏈於 20181028）</font>
+<img src="https://yilanju.com/image/logo.png" width="90"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
 
 [臆站](http://lethetsou.com)　〔似乎比我小一級的中文系學生，自號臆客〕
 
@@ -51,33 +51,33 @@ verticle: false
 
 已下爲互換了友鏈的小伙伴：
 
-[尚磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域。<font size="2.4" color="#777">（20181028）</font>
+[尚磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域。<n1>20181028</n1>
 
-<img src="https://raw.githubusercontent.com/ruibaby/halo/master/src/main/resources/static/images/favicon.ico" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<font size="2.4" color="#777">（20181027）</font>
+<img src="https://raw.githubusercontent.com/ruibaby/halo/master/src/main/resources/static/images/favicon.ico" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>20181027</n1>
 
-（logo 下不了）　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<font size="2.4" color="#777">（20181027）</font>
+（logo 下不了）　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<n1>20181027</n1>
 
-<img src="https://tp.corli.cn/data/f_37774230.jpg" width="60" alt="Alt Text" />　[冰峰博客](http://www.ad-s.cn/)　站長暱稱：司馬鶴軒<font size="2.4" color="#777">（20181028）</font>
+<img src="https://tp.corli.cn/data/f_37774230.jpg" width="60" alt="Alt Text" />　[冰峰博客](http://www.ad-s.cn/)　站長暱稱：司馬鶴軒<n1>20181028</n1>
 
-<img src="https://taifua.com/wp-content/uploads/2018/02/staifu.jpg" width="60" alt="Alt Text" />　[太傅](https://taifua.com)　面朝大海，春暖花開<font size="2.4" color="#777">（20181028）</font>
+<img src="https://taifua.com/wp-content/uploads/2018/02/staifu.jpg" width="60" alt="Alt Text" />　[太傅](https://taifua.com)　面朝大海，春暖花開<n1>20181028</n1>
 
-<img src="https://secure.gravatar.com/avatar/432d8583e332c3c170e590c6dff16d7a?s=400&d=identicon&r=g"  width="60" alt="Alt Text" />　[@修己](https://ji.ci/msg)　修己安人<font size="2.4" color="#777">（20181029）</font>
+<img src="https://secure.gravatar.com/avatar/432d8583e332c3c170e590c6dff16d7a?s=400&d=identicon&r=g"  width="60" alt="Alt Text" />　[@修己](https://ji.ci/msg)　修己安人<n1>20181029</n1>
 
-<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2018/11/17/ec617ae7b463c6a0d615ba7342427eee.png' alt='肥柴之家' width="130px"></a>　[肥柴之家](https://www.cnzknet.com)<font size="2.4" color="#777">（20181029）</font>
+<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2018/11/17/ec617ae7b463c6a0d615ba7342427eee.png' alt='肥柴之家' width="130px"></a>　[肥柴之家](https://www.cnzknet.com)<n1>20181029</n1>
 
-[那束陽光](https://Eveaz.com)　寫寫自己的故事，想想自己的未來！<font size="2.4" color="#777">（20181030）</font>
+[那束陽光](https://Eveaz.com)　寫寫自己的故事，想想自己的未來！<n1>20181030</n1>
 
-<img src="https://dayday.plus/wp-content/uploads/2018/09/hp.jpg" width="60">　[夏和帆的博客](https://dayday.plus)　走走停停，寫寫看看〔西安交大，和我同齡〕<font size="2.4" color="#777">（20181031）</font>
+<img src="https://dayday.plus/wp-content/uploads/2018/09/hp.jpg" width="60">　[夏和帆的博客](https://dayday.plus)　走走停停，寫寫看看〔西安交大，和我同齡〕<n1>20181031</n1>
 
-<img src="https://www.moonster.top/usr/uploads/2018/08/2446272771.jpg" width="60">　[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<font size="2.4" color="#777">（20181031）</font>
+<img src="https://www.moonster.top/usr/uploads/2018/08/2446272771.jpg" width="60">　[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>20181031</n1>
 
-<img src="https://file.dxq520.cn/wp-content/uploads/2018/08/logo.png" width="200" alt="Alt Text" />　[兩个有意思的](https://dxq520.cn)　小小酥和小可愛的情侶博客。<font size="2.4" color="#777">（20181102）</font>
+<img src="https://file.dxq520.cn/wp-content/uploads/2018/08/logo.png" width="200" alt="Alt Text" />　[兩个有意思的](https://dxq520.cn)　小小酥和小可愛的情侶博客。<n1>20181102</n1>
 
-<img src="https://www.superbed.cn/pic/5bf0b56ac4ff9e24a0d68679" width="60" alt="Alt Text" />　[及時行樂](https://www.jsxlo.com)　冷涵，學生，信息安全專業。記錄生活的點點滴滴<font size="2.4" color="#777">（20181103）</font>
+<img src="https://www.superbed.cn/pic/5bf0b56ac4ff9e24a0d68679" width="60" alt="Alt Text" />　[及時行樂](https://www.jsxlo.com)　冷涵，學生，信息安全專業。記錄生活的點點滴滴<n1>20181103</n1>
 
-<img src="https://ws1.sinaimg.cn/large/007awE00ly1furmucjnlkj303k03kq35.jpg" width="60">　[清樓小築](https://www.hostm.cn)　緫有一天伱會感謝現在的疼<font size="2.4" color="#777">（20181110）</font>
+<img src="https://ws1.sinaimg.cn/large/007awE00ly1furmucjnlkj303k03kq35.jpg" width="60">　[清樓小築](https://www.hostm.cn)　緫有一天伱會感謝現在的疼<n1>20181110</n1>
 
-[生有夏花](http://www.xiatian.pro)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<font size="2.4" color="#777">（20181122）</font>
+[生有夏花](http://www.xiatian.pro)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<n1>20181122</n1>
 
 # 三、推廣
 
@@ -85,25 +85,25 @@ verticle: false
 
 本站收錄於已下博客衟杭：
 
-<img src="https://gravatar.loli.net/avatar/7347cb9f09cbc939b642052c9b5fb70d"  width="60" alt="Alt Text" />　[博客樹](http://blogs.org.cn)<font size="2.4" color="#777">（20181111）</font>
+<img src="https://gravatar.loli.net/avatar/7347cb9f09cbc939b642052c9b5fb70d"  width="60" alt="Alt Text" />　[博客樹](http://blogs.org.cn)<n1>20181111</n1>
 
-<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><font size="2.4" color="#777">（20181027，現爲榮譽博客，<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a>）</font>
+<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客，<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
 
-[个站商店](http://storeweb.cn)　<font size="2.4" color="#777">（20181030，<a href="http://storeweb.cn/site/info/661" target="_blank">收錄葉</a>）</font>
+[个站商店](http://storeweb.cn)　<n1>20181030，<a href="http://storeweb.cn/site/info/661" target="_blank">收錄葉</a></n1>
 
-[boke112导航](https://boke112.com)<font size="2.4" color="#777">（20181028，<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a>）</font>
+[boke112导航](https://boke112.com)<n1>20181028，<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a></n1>
 
-[博客之家](https://zgblog.net)<font size="2.4" color="#777">（20181027，<a href="https://eps.gs/ecC" target="_blank">收錄葉</a>）</font>
+[博客之家](https://zgblog.net)<n1>20181027，<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
 
-<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><font size="2.4" color="#777">（20181029，<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a>）</font>
+<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029，<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
-[博客大全](http://daohang.zbzmtbk.com)<font size="2.4" color="#777">（20181108，<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a>）</font>
+[博客大全](http://daohang.zbzmtbk.com)<n1>20181108，<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a></n1>
 
-[鹏仔网站导航](http://dh.iqzhan.cn)<font size="2.4" color="#777">（20181031，<a href="http://dh.iqzhan.cn/?id=130" target="\_blank">收錄葉</a>）</font>
+[鹏仔网站导航](http://dh.iqzhan.cn)<n1>20181031，<a href="http://dh.iqzhan.cn/?id=130" target="\_blank">收錄葉</a></n1>
 
-[网址免费提交](http://submit-url-free.com)<font size="2.4" color="#777">（20181027，<a href="http://submit-url-free.com/?mod=siteinfo&wid=5599" target="_blank">收錄葉</a>）</font>
+[网址免费提交](http://submit-url-free.com)<n1>20181027，<a href="http://submit-url-free.com/?mod=siteinfo&wid=5599" target="_blank">收錄葉</a></n1>
 
 [博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　〔這箇導航很不錯，等朙秊就去找佗們收錄〕
 
