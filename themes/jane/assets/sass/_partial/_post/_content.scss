@@ -8,7 +8,7 @@ border-bottom: 1px $theme-color solid;
   text-justify: inter-ideograph;
   hanging-punctuation:first;
   g{
-  color: $theme-color; float: left; font-size: 2.8em; margin: -.2em .1em 0 0 ;
+  color: $theme-color; float: left; font-size: 3em; margin: -.25em .15em -.5em 0 ;
   font-weight: 700;
   }
   hr {
@@ -250,7 +250,7 @@ a:hover{
     border-bottom: 1px solid $theme-color;
     padding: 25px 0 45px 0 ;
     g{
-    color: $theme-color; float: left; font-size: 2.6em; margin: 0 -.15em .1em 0em;
+    color: $theme-color; float: left; font-size: 2.8em; margin: 0 -.2em .2em -.5em;
     font-weight: 700;
     }
   hr {
