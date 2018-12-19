@@ -10,7 +10,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/links.md'
 verticle: false
 ---
 
-想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kujihhoe.com) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
+<g>想</g>自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kujihhoe.com) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
 
 要求：**非**技術類優先。維持運營一年以上，並將長期維護。友鏈上限爲 30—35 箇。本站信息如下，並可按此格式回復：
 
@@ -248,3 +248,5 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [水吧口記](https://blog.shuiba.co/domains)　〔這哥們沉迷于自己設計博客，看著還行〕
 
 [Leegorous](http://leegorous.net/)　〔網站好看。網葉設計師〕
+
+[reuixiy](https://reuixiy.github.io/)　〔喜歡排版的同道中人〕

@@ -7,6 +7,10 @@ border-bottom: 1px $theme-color solid;
   text-align: justify;
   text-justify: inter-ideograph;
   hanging-punctuation:first;
+  g{
+  color: $theme-color; float: left; font-size: 2.8em; margin: -.2em .1em 0 0 ;
+  font-weight: 700;
+  }
   hr {
     border: none;
     background: $pink;
@@ -245,6 +249,10 @@ a:hover{
     max-height: 860px;
     border-bottom: 1px solid $theme-color;
     padding: 25px 0 45px 0 ;
+    g{
+    color: $theme-color; float: left; font-size: 2.6em; margin: 0 -.15em .1em 0em;
+    font-weight: 700;
+    }
   hr {
     background: $pink;
     border: none;
