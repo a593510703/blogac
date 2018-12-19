@@ -61,7 +61,16 @@
     }
   }
 }
-
+@media screen and (max-width: 704px){
+.post-footer{
+.post-nav{
+  .prev{
+  margin-left: 0;
+}
+.next{
+    margin-right: 0;
+}
+}}}
 @include max-screen() {
   .post-footer {
     .post-nav {
