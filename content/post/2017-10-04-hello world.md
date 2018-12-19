@@ -945,3 +945,7 @@ font-weight: 700;
 只能通過手動的方式來進行首字下沉。
 
 現在，實在是太美了，這世界上怎麼能有那麼好看的網頁？？
+
+效果圖：
+
+<img src="https://api.superbed.cn/pic/5c1a36eec4ff9e2b4e04528c" width="800">
