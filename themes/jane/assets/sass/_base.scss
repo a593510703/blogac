@@ -64,6 +64,18 @@ background-size: 20%;
 background-position: left bottom;
 padding-left: 5px;
 }
+n{
+  font-family: $global-letter-font-family,$global-note-font-family;
+  font-size: 16px;
+  padding: 0 0 10px 0;
+  letter-spacing: 0;
+}
+n1{
+  font-family: $global-letter-font-family,$global-note-font-family;
+  font-size: 16px;
+  padding:  0 3px;
+  letter-spacing: 0;
+}
 a {
   color: $global-font-color;
   text-decoration: none;

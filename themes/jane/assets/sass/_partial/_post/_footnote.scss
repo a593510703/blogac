@@ -11,6 +11,7 @@ hr{
 .footnote-ref {
   display: inline;
   position: relative;
+  margin: 10px 0 0 0;
   word-break: keep-all;
   &:hover .fn-content {
     opacity: 1;
