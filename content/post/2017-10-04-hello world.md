@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2018-12-18
+lastmod: 2018-12-19
 categories: ["站務"]
 tags: ["站務"]
 url: /blog/2017/10/04/shuoming.html
@@ -876,3 +876,26 @@ scroll-behavior: smooth;
 這樣就可以。再把原來的 padding 之類改一下就好，全部順時針轉一格，比如 `padding-right` 改成 `padding-bottom`，`padding: 1px 2px 3px 4px` 改成 `padding: 4px 1px 2px 3px`。這樣就差不多了。容器的寬度從原來固定値變爲 99%，這樣能適應所有尺寸的屏幕。
 
 我發現直排是㝡適合當前絕大部分人的使用情況的，能鋪滿整個屏幕。如果豎排的話，只能顯示橫排的 3/5。
+
+### 12 月 19 日
+
+把書名號改成波浪線。増加注釋小字。
+
+ ```css
+v{
+background-image: url(/v.png);
+background-repeat: repeat-y;
+background-size: 5px;
+background-position: left bottom;
+padding-left: 5px;
+margin: 7px 0 ;
+}
+n{
+  font-family: $global-letter-font-family,$global-note-font-family;
+  font-size: 16px;
+  padding: 7px 0;
+  letter-spacing: 0;
+}
+```
+
+`v` 是波浪線， `n` 是小字。
