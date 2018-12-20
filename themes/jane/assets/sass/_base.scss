@@ -75,6 +75,23 @@ n1{
   padding:  0 5px;
   letter-spacing: 0;
 }
+strong{
+  font-family: $global-serif-font-family;
+  font-weight: 700;
+  color: #000
+}
+u{
+border-left: 1px solid $black;
+padding-left: 2px;
+text-decoration: none;
+margin: 2px 0 ;
+}
+u1{
+border-bottom: 1px solid $black;
+padding-bottom: 2px;
+text-decoration: none;
+margin: 0 2px;
+}
 a {
   color: $global-font-color;
   text-decoration: none;
