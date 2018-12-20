@@ -9,8 +9,9 @@ border-bottom: 1px $theme-color solid;
   hanging-punctuation:first;
   p:first-of-type::first-letter {
     color: $theme-color;
-    float: left;font-size: 3em;
-    margin: -.25em .15em -.7em 0 ;
+    float: left;
+    font-size: 2.2em;
+    margin: -.7em .15em -.7em 0 ;
     font-weight: 700;
    }
   hr {
@@ -261,8 +262,8 @@ a:hover{
     p:first-of-type::first-letter {
       color: $theme-color;
       float: left;
-      font-size: 2.8em;
-      margin: 0 -.2em .2em -.7em;
+      font-size: 2.2em;
+      margin: 0 -.7em .2em -.7em;
       font-weight: 700;
      }
   hr {
@@ -438,7 +439,7 @@ a:hover{
   margin-right: 0px;
   font-weight: 300;
   font-family: $global-serif-font-family;
-  padding: 0px 16px 15px 16px;
+  padding: 0px 16px 20px 16px;
   line-height: 1.5;
   a{
     color: $black;
