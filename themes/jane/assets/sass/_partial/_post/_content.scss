@@ -315,13 +315,15 @@ a:hover{
   a {
     color: $theme-color;
     word-break: break-all;
-    &:hover {
-    //  border-bottom: $content-link-border;
-    background: $pink;
     border-radius: 5px;
     padding: 0 5px 0 2px ;
-    color: $black;
-    }
+  }
+  a:hover {
+  //  border-bottom: $content-link-border;
+  background: $pink;
+  border-radius: 5px;
+  padding: 0 5px 0 2px ;
+  color: $black;
   }
   iframe {
     margin:  auto 0;
