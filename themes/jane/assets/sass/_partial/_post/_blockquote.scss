@@ -1,4 +1,11 @@
 blockquote {
+  p:first-child::first-letter {
+    color: inherit;
+    float: none;
+    font-size: inherit;
+    margin: 0;
+    font-weight: inherit;
+   }
   margin: 0em 1em 0em 1em;
   padding: 2.38em 0.2em 0 0.2em ;
   color: $global-font-color;

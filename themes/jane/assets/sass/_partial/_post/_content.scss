@@ -7,10 +7,12 @@ border-bottom: 1px $theme-color solid;
   text-align: justify;
   text-justify: inter-ideograph;
   hanging-punctuation:first;
-  g{
-  color: $theme-color; float: left; font-size: 3em; margin: -.25em .15em -.5em 0 ;
-  font-weight: 700;
-  }
+  p:first-of-type::first-letter {
+    color: $theme-color;
+    float: left;font-size: 3em;
+    margin: -.25em .15em -.7em 0 ;
+    font-weight: 700;
+   }
   hr {
     border: none;
     background: $pink;
@@ -206,7 +208,13 @@ a:hover{
     font-weight: 300;
     font-size: 19px;
     font-family: $global-serif-font-family;
-
+    p:first-child::first-letter {
+      color: inherit;
+      float: none;
+      font-size: inherit;
+      margin: 0;
+      font-weight: inherit;
+     }
     @include min-screen() {
       padding: 0.2em 0 0.2em 2.5em;
 
@@ -250,10 +258,13 @@ a:hover{
     max-height: 860px;
     border-bottom: 1px solid $theme-color;
     padding: 25px 0 45px 0 ;
-    g{
-    color: $theme-color; float: left; font-size: 2.8em; margin: 0 -.2em .2em -.5em;
-    font-weight: 700;
-    }
+    p:first-of-type::first-letter {
+      color: $theme-color;
+      float: left;
+      font-size: 2.8em;
+      margin: 0 -.2em .2em -.7em;
+      font-weight: 700;
+     }
   hr {
     background: $pink;
     border: none;
@@ -369,8 +380,8 @@ a:hover{
   .task-list {
     list-style: none;
     padding-top: 1.5rem;
-  }
 
+  }
   .MJXc-display {
     overflow-x: auto;
     overflow-y: hidden;
