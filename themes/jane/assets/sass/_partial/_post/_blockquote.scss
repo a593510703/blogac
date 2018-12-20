@@ -32,4 +32,28 @@ blockquote {
     padding-right: 0;
     padding-left: 0;
   }
+  .footnote-ref {
+    display: inline;
+    position: relative;
+    margin: 10px 0 0 0;
+    word-break: keep-all;
+    &:hover .fn-content {
+      opacity: 1;
+      visibility: visible;
+      transform: translate3d(0, 0, 0) rotate3d(0, 0, 0, 0);
+    }
+    >a {
+      font-weight: 400;
+      font-size:14px;
+      font-family: $global-code-font-family;
+      padding:  3px 0 3px 1px;
+      background: $pink;
+      border-radius: 5px;
+    }
+    a:hover{
+        padding:  3px 0 3px 1px;
+      color: $white;
+      background: $theme-color;
+    }
+  }
 }
