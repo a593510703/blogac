@@ -106,7 +106,7 @@ defaultContentLanguage = "en"
   linkToMarkDown = true
   verticle = true
 
-  baidu_push = false        # baidu push
+  baidu_push = true        # baidu push
   baidu_analytics = "557733f5e13d0e8e483604d851d79134"
   baidu_verification = "8qCdaqkmZt"   # Baidu Verification
 # google_verification = ""  # Google_Verification
