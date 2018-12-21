@@ -1,7 +1,7 @@
 ---
 title: "緫序"
 date: 2017-10-04
-lastmod: 2018-12-14
+lastmod: 2018-12-21
 menu:
   main:
     weight: 50
@@ -55,9 +55,8 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 # 五、曷所建之？
 
 1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS、SSL，<a href="https://git-lfs.github.com/" target="_blank">Git LFS</a>、<a href="https://portal.qiniu.com/dora" target="_blank">~~七牛雲~~</a> [聚合圖牀](https://www.superbed.cn) 提供圖牀，<a href="http://busuanzi.ibruce.info/" target="_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始</n>，[Valine](https://valine.js.org) 提供評論模塊，leancloud 提供文章點擊量<n>PV</n>統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>~~，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~。
-2. 【字體】字體是我㝡重視的。正文是宋體，引文是黑體。首選韓文字體 Source Han Serif K<n>思源宋體韓文版</n>，日文字體 Hiragino Mincho ProN，這箇字體是蘋果系統自帶的，其次是 Yu Mincho。西文字體依次爲 "Adobe Garamond Pro","Adobe Caslon Pro","Minion Pro","Adobe Gurmukhi",Baskerville。正文字號 20px，引文 18 px。行距㠯容納一箇字爲準。
-3. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kujihhoe.com" target="_blank">Google</a><n>Google 收錄得又全又快</n>或 <a href="https://www.bing.com/search?q=site:kujihhoe.com" target="_blank">Bing</a><n>Bing 是箇好同志，不用翻牆，歡迎大家用 Bing 取代百度</n>例子：`site:kujihhoe.com 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
-4. 【大事記】詳見 [Hello world!](/blog/2017/10/04/shuoming.html)
+2. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kqh.ac" target="_blank">Google</a><n>Google 收錄得又全又快</n>，例子：`site:kqh.ac 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
+3. 【大事記】詳見 [Hello world!](/blog/2017/10/04/shuoming.html)
 
 - 2017-10-03 建站：kujihhoe.com
 - 2017-10-27 弟二版
@@ -66,8 +65,23 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 - 12-06 啓用三箇網站
 - 12-18 正文改爲直排
 
+# 六、板式
 
-# 六、示
+1. 【字體】字體是我㝡重視的。正文是宋體，引文是仿宋。首選韓文字體 Source Han Serif K<n>思源宋體韓文版</n>，其次爲日文字體 Hiragino Mincho ProN，這箇字體是蘋果系統自帶的，其次是 Yu Mincho。不過一般 Windows 電腦只有默認的宋體？西文字體依次爲 "Adobe Garamond Pro","Adobe Caslon Pro","Minion Pro","Adobe Gurmukhi",Baskerville。正文、引文字號 20px，注釋 16px。
+2. 【行距】正文行距㠯容納一箇字爲準。標題行距爲 1.55。【段間距】默認爲兩倍行距，這樣一般沒啥問題，但如果有一段只有一行的話，區分不太明顯，因此在默認的基礎上加了 2px<n>別小看這 2px，還挺有用的</n>，段間距是行距的 2.25 倍。一級標題前後間距等於 2.25 倍其字寬。二至六級標題前後間距等於正文段間距。
+3. 【縮進】一級標題和引文都縮進 2 箇正文字的距離<n>卽一級標題、引文首字上方和正文弟三字上方是對齊的</n>。
+4. 【引文】仿宋體。爲保證可讀性，字號和行距沒有較正文縮小。由於同等字號下仿宋會比宋體小一些，因此引文的行間距、段間距是根據引文的大小來定的。引文與正文的間距等於正文之間的段間距，而不象橫排那樣空出更多的距離。
+5. 【注釋】楷體，16px，上下間距爲 5px。
+6. 【下畫線】下畫直線將默認的 `text-decoration: underline` 改成 `boder-left: 1px`，再調一下 `padding-left`，這樣就十分清爽了，默認的 `text-decoration` 大槩是 2px，有些粗了。波浪線用的 `backgroud-image`，經過反服修改，達到了最髙的可讀性。下畫線上下各加了 `margin: 1px`，這樣就能將兩箇相連的下畫線分割開來，單獨用時又能不顯痕跡。
+7. 【字距】正文加了 `letter-spacing: 1px`，引文、注釋沒有加。這樣淸朗一點。一級標題爲 10px，二——六級標題爲 2px。
+8. 【標題】各級標題字號依次爲 `h1: 1.4em, h2: 1.3em, h3: 1.2em, h4: 1em, h5: 1em, h6: 1em`。標題均用紅色，一、二級標題用宋體，三—六級標題用黑體。
+9. 【顏色】紅色爲 `#c41011`，粉色爲 `ffc7c7`，黑色爲 `#2b2b2b`，背㬌黃色爲 `#fffbe0`。超鏈接用紅色，懸浮時用粉色背㬌。
+10. 【標點】破折號 ——、間隔符 ·、省略號 …… 用的方正新書宋。
+11. 用直排可以將正文鋪滿整個屏幕，還有一箇好處是可以將正文板塊變成組合式的，象雜誌一般。
+
+㪅多見 [示例葉面](/149/)
+
+# 七、示
 
 - 本站所有文章授權方式采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a> <n>署名-非商業性使用-相同方式共享</n>國際條款，若需使用，請務必閱讀竝遵循條款內容。說簡單點，非商業性使用無須告知作者，只要標明作者、出處就好<n>當然，沒人會轉載我的文章的，想多了</n>。爲便於排版，直接取用 md 源文件卽可。如果發現有錯別字，也可以在 Git 上幫我改正。
 - 若發現文章中有不適冝的內容<n>如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等</n>，請儘速 [郵件](mailto:1@kqh.ac) 或評論告知我，我將盡㝡快速度處理。

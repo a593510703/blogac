@@ -65,7 +65,8 @@ $global-lineheight: 1.85 !default;
 $global-font-family: '新书宋',"Adobe Garamond Pro",AdobeGaramondPro,Garamond,"Adobe Caslon Pro",AdobeGaramondPro,Caslon,"Minion Pro",Minion,"Adobe Gurmukhi",AdobeGurmukhi,Baskerville,"Palatino Linotype",Palatino,"Noto Serif CJK KR",NotoSerifCJKKR,"Source Han Serif K",SourceHanSerifK,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif !default;
 $global-serif-font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif !default;
 $global-code-font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas !default;
-$global-note-font-family: '新书宋',"Adobe Garamond Pro",AdobeGaramondPro,Garamond,"Adobe Caslon Pro",AdobeGaramondPro,Caslon,"Minion Pro",Minion,"Adobe Gurmukhi",AdobeGurmukhi,Baskerville,"Times New Roman","方正新楷体_GB18030",FZNewKai_GB18030-Z03,STKaiti,Kai,"楷体",Kaiti,"Kaiti TC",FZFangSong-Z02,STFangsong,"仿宋",FangSong!default;
+$global-note-font-family: '新书宋',"Adobe Garamond Pro",AdobeGaramondPro,Garamond,"Adobe Caslon Pro",AdobeGaramondPro,Caslon,"Minion Pro",Minion,"Adobe Gurmukhi",AdobeGurmukhi,Baskerville,"Times New Roman","方正新楷体_GB18030",FZNewKai_GB18030-Z03,STKaiti,Kai,"楷体",Kaiti,"Kaiti TC"!default;
+$global-fang-font-family: "文悦古体仿宋 (非商业使用)","WenyueType GutiFangsong (Non-Commerce)",FZFangSong-Z02,STFangsong,"仿宋",FangSong !default;
 $global-background: $white !default;
 
 // Headings font size of the site.
