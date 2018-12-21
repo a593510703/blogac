@@ -63,6 +63,14 @@ background-position: left bottom;
 padding-left: 4px;
 margin: 2px 0 ;
 }
+v1{
+background-image: url(/v1.png);
+background-repeat: repeat-x;
+background-size: 13px;
+background-position: left bottom;
+padding-bottom: 4px;
+margin: 0 2px ;
+}
 n{
   font-family: $global-note-font-family;
   font-size: 16px;
@@ -90,7 +98,7 @@ u1{
 border-bottom: 1px solid $dark-gray;
 padding-bottom: 2px;
 text-decoration: none;
-margin: 0 2px;
+margin: 0 1px;
 }
 a {
   color: $global-font-color;
