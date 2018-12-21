@@ -189,6 +189,13 @@ border-bottom: 1px $theme-color solid;
   font-family: $global-note-font-family;
   line-height: 1.65;
   letter-spacing: 0;
+  p:first-child::first-letter {
+    color: inherit;
+    float: none;
+    font-size: inherit;
+    margin: 0;
+    font-weight: inherit;
+   }
 a{
   color:$theme-color;
   padding: 2px 0;
