@@ -1,11 +1,13 @@
 <div class="logo-wrapper">
-  <a href="{{ "/" | relLangURL }}" class="logo">
+  <span class="logo"><a href="{{ "/" | relLangURL }}" >
     {{ if .Site.Params.logoTitle }}
       {{ .Site.Params.logoTitle | safeHTML }}
     {{ else }}
       {{ .Site.Title }}
     {{ end }}
   </a>
+  </span>
+  &nbsp{{ partial "svg/heart1.svg" }}
 </div>
 
 <nav class="site-navbar">

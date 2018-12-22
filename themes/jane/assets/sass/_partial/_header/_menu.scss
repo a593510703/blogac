@@ -7,8 +7,18 @@
     float: right;
     font-family: $global-serif-font-family;
 margin-left: -1.3em;
+a{
+      padding-bottom: 3px;
+}
+a:hover{
+    border-bottom: 1px $theme-color solid;
+}
     .active {
       font-weight: 700;
+      a:hover{
+        color:$black;
+        border: none;
+      }
     }
 
     .menu-item {

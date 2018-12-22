@@ -5,11 +5,21 @@
 .logo-wrapper {
   float: left;
   padding: 20px 0 0 16px;
-
   .logo {
-    font-size: $logo-font-size;
-    font-family: $logo-font-family;
-    font-weight: 700;
+    a{
+      font-size: $logo-font-size;
+      font-family: $logo-font-family;
+      font-weight: 700;
+      color: $black;
+      padding-bottom: 3px;
+      letter-spacing: -3px;
+    }
+    a:hover{
+      color: $theme-color;
+      border-bottom: 1px $theme-color solid;
+
+    }
+
   }
 }
 
