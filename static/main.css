@@ -73,9 +73,6 @@ hr{
     color: #151515;
 	  font-family: title;
 	  border-bottom: #C41011 3px solid;
-	  text-shadow:
-    1px 0 2px #b5ede4, 0 1px 3px #b5ede4,
-    0 -1px 3px #b5ede4, -1px 0 2px #b5ede4;
   }
   #intro .date{
 	  letter-spacing: 2px;

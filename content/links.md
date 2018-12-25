@@ -55,7 +55,7 @@ verticle: false
 
 <img src="https://raw.githubusercontent.com/ruibaby/halo/master/src/main/resources/static/images/favicon.ico" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>20181027</n1>
 
-（logo 下不了）　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<n1>20181027</n1>
+![](https://api.superbed.cn/pic/5c221117c4ff9e2b4e04591f)　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<n1>20181027</n1>
 
 <img src="https://tp.corli.cn/data/f_37774230.jpg" width="60" alt="Alt Text" />　[冰峰博客](http://www.ad-s.cn/)　站長暱稱：司馬鶴軒<n1>20181028</n1>
 
