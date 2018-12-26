@@ -1,15 +1,15 @@
 ---
 author: "柯棋瀚"
-title: "中古音朗讀的拼音"
+title: "讀中古音"
 date: 2018-11-19
 lastmod: 2018-11-19
-categories: ["語言"]
-tags: ["音韻"]
-url: /blog/2018/11/19/pbyb.html
-markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/2018-11-19-pbyb.md'
-description: '下面把 B 站上中古音朗讀的拼音列在這。《堯典》之後的拼音跟《獲麟》之前的比有些變化。'
+url: /reading/
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/reading.md'
 verticle: false
+description: 'B 站上放一些用切韻擬音來讀的文章。現在有《立部伎》《隻麟》兩篇，以後我計畫先把尚書讀完，可能的話一兩周㪅一篇。'
 ---
+
+[我的 B 站](https://space.bilibili.com/176570453/#/dynamic)。
 
 # 立部伎
 

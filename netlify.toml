@@ -131,12 +131,22 @@ status = 301
 force = true
 [[redirects]]
 from = "https://kqh.ac/blog/2017/10/04/uomk.html"
-to = "https://kqh.ac/about"
+to = "https://kqh.ac/about/"
 status = 301
 force = true
 [[redirects]]
 from = "https://kqh.ac/blog/2018/10/27/links.html"
-to = "https://kqh.ac/links"
+to = "https://kqh.ac/links/"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/11/19/pbyb.html"
+to = "https://kqh.ac/reading/"
+status = 301
+force = true
+[[redirects]]
+from = "https://kqh.ac/blog/2018/05/29/xinfadi.html"
+to = "https://kqh.ac/recording/"
 status = 301
 force = true
 
