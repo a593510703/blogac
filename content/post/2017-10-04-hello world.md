@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2018-12-19
+lastmod: 2018-12-26
 categories: ["站務"]
 tags: ["站務"]
 url: /blog/2017/10/04/shuoming.html
@@ -955,3 +955,7 @@ font-weight: 700;
 下畫直線改成 border，而非原來的 text-decoration，㪅加清爽。
 
 記得橫排的注釋用 n1，下劃線用 u1。
+
+### 12 月 26 日
+
+增加了古琴、實地錄音、讀中古音的聚合葉面。想象 anyway.fm 那樣做成一個單獨的網站，想了想沒必要，只是個人的，也沒有商業化規範化，況且我不止一個錄音啊。
