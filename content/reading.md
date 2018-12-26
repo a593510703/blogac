@@ -6,12 +6,15 @@ lastmod: 2018-11-19
 url: /reading/
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/reading.md'
 verticle: false
-description: 'B 站上放一些用切韻擬音來讀的文章。現在有《立部伎》《隻麟》兩篇，以後我計畫先把尚書讀完，可能的話一兩周㪅一篇。'
+description: 'B 站上放一些用切韻擬音來讀的文章。我計畫先把尚書讀完，可能的話兩周一篇。'
 ---
 
-[我的 B 站](https://space.bilibili.com/176570453/#/dynamic)。
+我的 B 站：<listen1>[kujihhoe](https://space.bilibili.com/176570453/#/dynamic)</listen1>
 
-# 立部伎
+## No.1　立部伎
+
+<listen1>[立卽觀看](https://www.bilibili.com/video/av27778077)</listen1>
+<time2>2018-07-26</time2>
 
 ljp boux giex
 
@@ -69,145 +72,12 @@ kung srii ngioo zjenh qan ciook yuun，thad zqaong sam khiang njex gha nqjn。
 
 工師愚賤安足云，太常三卿爾何人。
 
-# 秋思
+## No.2　春秋獲麟
 
-本來想配箇洞庭秋思，不過沒弄成。
+<listen1>[立卽觀看](https://www.bilibili.com/video/av29500316)</listen1>
+<time2>2018-08-16</time2>
 
-## 1
-
-chiuu si
-
-秋思
-
-lix brak
-
-李白
-
-chqyjn jaong nqoe zak nqjt，pyet zqooh miang ghuang lje。
-
-春陽如昨日，碧樹鳴黃鸝。
-
-mioo nqjen ghueh chaux mooh，saup njex liaong piung chyje。
-
-蕪然蕙草暮，颯爾涼風吹。
-
-then chiuu muk jjep ghrax，ngyaot lrangx sua ke bii。
-
-天秋木葉下，月冷莎雞悲。
-
-zuax zriuu gyun phyaong hiaot，brak looh teu ghura ci。
-
-坐愁羣芳歇，白露凋華滋。
-
-## 2
-
-chiuu si
-
-秋思
-
-brak kioe jek
-
-白居易
-
-biangh men jah sqjeux miungh，kraen ljp chiuu ta si。
-
-病眠夜少夢，閒立秋多思。
-
-zek mak joe ioox zieng，seu deu caux ghan cqjh。
-
-寂寞餘雨晴，蕭條早寒至。
-
-qoo se ghung jjep zqooh，ngyaot cqjeux cheng daui djh。
-
-鳥棲紅葉樹，月照青苔地。
-
-gha hyaongh kiangh triung nen，iuuh kuah sam zqjp nqjh。
-
-何況鏡中年，又過三十二。
-
-## 3
-
-chiuu si
-
-秋思
-
-triaong ziek
-
-張籍
-
-lak jaong zqeng lix kenh chiuu piung，
-
-洛陽城裡見秋風，
-
-jook cak kra sqoe qih myaonh drioongh。
-
-欲作家書意萬重。
-
-biuuh khioongx chung chung sqyjet piuux zjnx，
-
-復恐匆匆說不盡，
-
-ghrang nqjn ljm pyaot iuuh khaui pioong。
-
-行人臨發又開封。
-
-## 出塞 其一
-
-王昌齡
-
-zjn zqi miang ngyaot hanh zqi kuran，
-
-秦時明月漢時關，
-
-myaonh lix driaong cqeng nqjn myeih ghuran。
-
-萬里長征人未還。
-
-danx srix lioong zqeng pyei ciangh zauix，
-
-但使龍城飛將在，
-
-piuux krauh ghoo mrax dooh qim sraen。
-
-不教胡馬度陰山。
-
-## 關山月
-
-kuran sraen ngyaot
-
-關山月
-
-lix brak
-
-李白
-
-miang ngyaot chqyjt then sraen，chang mang yuun hauix kraen。
-
-明月出天山，蒼茫雲海閒。
-
-driaong piung kiei myaonh lix，chqyje dooh ngiook muoon kuran。
-
-長風幾萬里，吹度玉門關。
-
-hanh ghrax brak taung daux，ghoo khyje cheng hauix quran。
-
-漢下白登道，胡窺青海灣。
-
-jiuu laui cqeng cqjen djh，piuux kenh iuux nqjn ghuran。
-
-由來征戰地，不見有人還。
-
-sqiooh khrak myaongh pen srik，si kyei ta khoox ngraen。
-
-戍客望邊色，思歸多苦顏。
-
-kau lou tang chjex jah，than
-
-高樓當此夜，嘆息未應閒。
-
-# 春秋獲麟
-
-## 1
+### 1
 
 chqyjn chiuu keng yaot：
 
@@ -217,7 +87,7 @@ chqyjn chiuu keng yaot：
 
 <n1>哀公</n1>十有四年，春，西狩獲麟。
 
-## 2
+### 2
 
 kung jaong dryenh yaot：
 
@@ -235,7 +105,7 @@ nqjen cauk zquk squuh cq？sjn chauix cqax jax。
 
 然則孰狩之？薪采者也。
 
-## 3
+### 3
 
 sjn chauix cqax，cauk myoei cqax jax。ghat ye jx squuh ngiaon cq？dad cq jax。
 
@@ -257,7 +127,7 @@ iuux jx kauh cqax yaot：「iuux kyn nq krauk cqax。」
 
 有以告者曰：「有麕而角者。」
 
-## 4
+### 4
 
 khungx cix yaot：「zquk yeh laui caui？zquk yeh laui caui？」
 
@@ -279,7 +149,7 @@ se squuh ghuraek ljn，khungx cix yaot：「ngoo daux giung ix！」
 
 西狩獲麟，孔子曰：「吾道窮矣！」
 
-## 5
+### 5
 
 《chqyjn chiuu》gha jx sqx ghoo qioenx？
 
@@ -301,7 +171,7 @@ kyun cix ghat yeh ye《chqyjn chiuu》？
 
 君子曷爲爲《春秋》？
 
-## 6
+### 6
 
 puat luanh sqjed，pyaonx cqoe cqengh，mak gioenh cqoe《chqyjn chiuu》。
 
@@ -327,7 +197,7 @@ jx kyun cix cq ye jek iuux ngrauh ghoo chjex jax。
 
 以君子之爲亦有樂乎此也。
 
-## 7
+### 7
 
 kuk liaong dryenh yaot：
 

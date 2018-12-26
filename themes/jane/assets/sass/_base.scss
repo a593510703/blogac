@@ -107,13 +107,32 @@ listen{
     font-family: $global-serif-font-family;
     letter-spacing: 5px;
     font-weight: 700;
-    font-size: 19px;
+    font-size: 17px;
+    color: #ec6767;
+}
+listen1{
+    background: $pink;
+    border: 3px $theme-color solid;
+    padding: 8px 6px;
+    font-family: $global-serif-font-family;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 17px;
     color: #ec6767;
 }
 time1{
   background: #e5e5e5;
   margin-top: 20px;
   padding: 10px 4px 10px 5px;
+  font-family: $global-code-font-family;
+    font-size: 16px;
+    color: $dark-gray;
+    border-radius: 15px;
+}
+time2{
+  background: #e5e5e5;
+  margin-left: 20px;
+  padding: 5px 10px 4px 10px ;
   font-family: $global-code-font-family;
     font-size: 16px;
     color: $dark-gray;
