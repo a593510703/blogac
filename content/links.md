@@ -53,7 +53,7 @@ verticle: false
 
 [尚磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域。<n1>20181028</n1>
 
-<img src="https://raw.githubusercontent.com/ruibaby/halo/master/src/main/resources/static/images/favicon.ico" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>20181027</n1>
+<img src="https://ryanc.cc/upload/2018/6/v2-ef180e77b63e636ad8e96f2f57897b71_hd2018062400420251.jpg" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>20181027</n1>
 
 ![](https://api.superbed.cn/pic/5c221117c4ff9e2b4e04591f)　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<n1>20181027</n1>
 
