@@ -6,7 +6,7 @@ lastmod: 2018-11-19
 url: /reading/
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/reading.md'
 verticle: false
-description: 'B 站上放一些用切韻擬音來讀的文章。我計畫先把尚書讀完，可能的話兩周一篇。'
+description: '<p>我又自詡對語言的敏感度比常人高一些。暑假突肰對古音感興趣，上古音難度太大，那就中古音吧，便用了半箇月來突擊，知道了一箇大槩。用古音讀書豈不是很美妙的事情？</p><p>計畫先把尚書讀完，可能的話兩周一篇。</p>'
 ---
 
 我的 B 站：<listen1>[kujihhoe](https://space.bilibili.com/176570453/#/dynamic)</listen1>
