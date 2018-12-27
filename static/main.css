@@ -111,9 +111,10 @@ hr{
   font-size: 28px;
   font-weight: 700;
   letter-spacing: 5px;
+  line-height: 1.5;
   color: #c41011;
   border: #C41011 1px dashed;
-  padding:7px 15px 0 15px;
+  padding:7px 15px 20px 15px;
 }
 
   #blog p {
@@ -123,7 +124,6 @@ hr{
 	 }
   #blog .time{
     text-align: center;
-    margin-top: 50px;
     background: #e5e5e5;
     padding: 4px 13px;
     font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas,"Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
