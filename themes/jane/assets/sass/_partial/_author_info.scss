@@ -40,13 +40,17 @@
         padding-left: 2px;
         display: inline;
         font-size: 16px;
-        font-weight: 200;
+        font-weight: 400;
           a{
-            color: $theme-color;
+            font-family: $global-code-font-family;
+            color: $black;
             text-decoration: none;
+            letter-spacing: 0;
           }
           a:hover{
-            color: $black;
+            background: $pink;
+            border-radius: 5px;
+            padding: 4px 0;
           }
       }
     }
