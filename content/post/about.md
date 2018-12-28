@@ -2,11 +2,13 @@
 title: "緫序"
 date: 2017-10-04
 lastmod: 2018-12-21
+categories: ["站務"]
+tags: ["公告"]
 menu:
   main:
     weight: 50
 url: /about/
-markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/about.md'
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/about.md'
 description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 ---
 

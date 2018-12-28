@@ -2,9 +2,9 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2018-12-26
+lastmod: 2018-12-28
 categories: ["站務"]
-tags: ["站務"]
+tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/2017-10-04-hello world.md'
 verticle: false
@@ -959,3 +959,7 @@ font-weight: 700;
 ### 12 月 26 日
 
 增加了古琴、實地錄音、讀中古音的聚合葉面。想象 anyway.fm 那樣做成一個單獨的網站，想了想沒必要，只是個人的，也沒有商業化規範化，況且我不止一個錄音啊。
+
+### 12 月 28 日
+
+把聚合頁面全部納入博文。雖說感覺怪了一些，但統一一些。

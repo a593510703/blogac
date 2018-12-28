@@ -3,8 +3,10 @@ author: "柯棋瀚"
 title: "讀中古音"
 date: 2018-11-19
 lastmod: 2018-11-19
+categories: ["語言"]
+tags: ["音韻"]
 url: /reading/
-markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/reading.md'
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/reading.md'
 verticle: false
 description: '<p>我又自詡對語言的敏感度比常人高一些。暑假突肰對古音感興趣，上古音難度太大，那就中古音吧，便用了半箇月來突擊，知道了一箇大槩。用古音讀書豈不是很美妙的事情？</p><p>計畫先把尚書讀完，可能的話兩周一篇。</p>'
 ---

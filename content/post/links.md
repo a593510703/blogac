@@ -2,11 +2,13 @@
 title: "友鏈"
 date: 2018-10-27
 lastmod: 2018-12-11
+categories: ["站務"]
+tags: ["公告"]
 menu:
   main:
     weight: 60
 url: /links/
-markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/links.md'
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/links.md'
 verticle: false
 ---
 
