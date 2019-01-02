@@ -135,9 +135,17 @@ a:hover{
       .archive-post-title-author{
         font-family: $global-serif-font-family;
         padding-right: 20px;
-        color: $dark-gray;
         font-size: 18px;
         font-weight: 200;
+        a{
+          color: $dark-gray;
+        }
+        a:hover{
+          background: $pink;
+          padding: 2px 0;
+          color: $black;
+          border-radius: 5px;
+        }
       }
       .archive-post-link {
         color: $black;
