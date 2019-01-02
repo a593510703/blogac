@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2018-12-28
+lastmod: 2019-01-02
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -963,3 +963,7 @@ font-weight: 700;
 ### 12 月 28 日
 
 把聚合頁面全部納入博文。雖說感覺怪了一些，但統一一些。
+
+### 2019 秊 1 月 2 日
+
+修改作者信息的鏈接。首葉作者増加超鏈接。
