@@ -341,12 +341,12 @@ a:hover{
     width: 100%;
   }
   > table {
-    margin:0 40px ;
+    margin:0 36px 0 40px;
       border-left: 3px solid $pink;
-      width: 100%;
     td {
       border: 1px solid $pink;
-      padding:5px 0px  ;
+        text-align: left;
+      padding: 5px 5px 5px 1px ;
     }
     th {
       text-align: left;
@@ -354,7 +354,7 @@ a:hover{
       border-top:  1px solid $pink;
       border-bottom:  1px solid $pink;
         border-left : 3px solid $pink;
-      padding: 5px 5px  ;
+      padding: 5px 5px 5px 1px ;
     }
   }
 //  .post-summary {
