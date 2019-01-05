@@ -41,7 +41,7 @@
           {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
               </time>
               <span class="archive-post-title">
-<span class="archive-post-title-author">{{ .Params.author }}</span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
+<span class="archive-post-title-author"><a href="/author/#{{ .Params.author }}">{{ .Params.author }}</a></span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
               </span>
               <span class="archive-post-tags1">
               <span style="color:#7d7d7d">系列｜</span>{{ with .Params.tags -}}
@@ -93,7 +93,7 @@
           {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
               </time>
               <span class="archive-post-title">
-<span class="archive-post-title-author">{{ .Params.author }}</span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
+<span class="archive-post-title-author"><a href="/author/#{{ .Params.author }}">{{ .Params.author }}</a></span><span class="archive-post-link"><a href="{{ .URL }}" class="archive-post-link">{{ .Title }}</a></span>
               </span>
               <span class="archive-post-categories1">
               {{ with .Params.categories -}}
