@@ -7,7 +7,7 @@ disablePathToLower = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ?
 paginate = 15              # Number of articles displayed on the homepage
-rssLimit = 5            # Limit Entry Count to Rss file
+rssLimit = 3            # Limit Entry Count to Rss file
 copyright = ""            # default: author.name ↓
 uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
