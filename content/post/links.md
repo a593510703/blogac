@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "友鏈"
 date: 2018-10-27
-lastmod: 2018-01-08
+lastmod: 2018-02-14
 categories: ["站務"]
 tags: ["公告"]
 menu:
@@ -81,6 +81,8 @@ verticle: false
 <img src="https://ws1.sinaimg.cn/large/007awE00ly1furmucjnlkj303k03kq35.jpg" width="60">　[清樓小築](https://www.hostm.cn)　緫有一天伱會感謝現在的疼<n1>20181110</n1>
 
 [生有夏花](http://www.xiatian.pro)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<n1>20181122</n1>
+
+<img src="https://love109.cn/images/love109.jpg" width="60" alt="Alt Text" />　[LOVE109❤️纪实小屋](https://love109.cn/)　記錄愛情❤️記錄生活〔今天正好情人節，祝長久〕<n1>20190214</n1>
 
 # 三、推廣
 
