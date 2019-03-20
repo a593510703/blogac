@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "讀中古音"
 date: 2018-11-19
-lastmod: 2018-11-19
+lastmod: 2019-03-20
 categories: ["語言"]
 tags: ["音韻"]
 url: /reading/
@@ -220,3 +220,259 @@ gi piuu ngiaon laui，piuu nguad ljn qioe triung kuauk jax。
 gi piuu ngiaon iuux，piuu srix ljn piuu ghaung qioe triung kuauk jax。
 
 其不言有，不使麟不恆於中國也。
+
+## No.3　尚書‧堯典
+
+### 1
+
+ngeu tenx
+
+堯典
+
+sjek zoix teh ngeu，chung mrjang myn si，kwang drak then ghrax。
+
+昔在帝堯，聰明文思，光宅天下。
+
+ciang soonh ioo rwjh，nqaongh ioo ngioo sqwjnh，cooh ngeu tenx。
+
+將遜于位，讓于虞舜，作《堯典》。
+
+### 2
+
+yoot nqaok ke koox teh ngeu，yoot pyaongh hyn khrjm mrjang myn si qan qan，
+
+曰若稽古帝堯，曰放勳欽明文思安安，
+
+jwjnx kioong khok nqaongh，kwang brjeh[^1] sjh prjeux，krak ioo zqaongx ghrax。
+
+允恭克讓，光被四表，格于上下。
+
+khok mrjang cwjnh tok，jx chjn kiux zuk。
+
+克明俊德，以親九族。
+
+kiux zuk kiih miuk，brjang cqaong prak sjengh。
+
+九族旣睦，平章百姓。
+
+prak sjengh cqjeu mrjang，ghep ghwa myoonh prong，
+
+百姓昭明，協和萬邦，
+
+### 3
+
+le mjn qioe prjenh zq qioong。
+
+黎民於變時雍。
+
+noix mrjangh hrje ghwa khrjm nqaok ghaux then，
+
+乃命羲、和欽若昊天，
+
+lek zsiaongx nqjt ngyoot seng zqjn，krjangh zquh nqjn zq。
+
+曆象日月星辰，敬授人時。
+
+pyn mrjangh hrje driungh drak jj yoot jaong kuk，
+
+分命羲仲宅嵎夷曰暘谷，
+
+jjn pjn chqwjt nqjt，brjang drjt tung cooh。
+
+寅賓出日，平秩東作。
+
+### 4
+
+nqjt triung seng teux，jx qin driungh chqwjn。
+
+日中星鳥，以殷仲春。
+
+kyt mjn sek，teux squh zih[^2] myix。
+
+厥民析，鳥獸孳尾。
+
+sqjn mrjangh hrje squk drak nom krau，
+
+申命羲叔宅南交，
+
+brjang drjt nom ngwa，krjangh trjh。
+
+平秩南訛，敬致。
+
+nqjt rwjangx seng hwax，jx cqjengh driungh ghrax。
+
+日永星火，以正仲夏。
+
+### 5
+
+kyt mjn qjn，teux squh hii kraek。
+
+厥民因，鳥獸希革。
+
+pyn mrjangh ghwa driungh drak se yoot mooih kuk。
+
+分命和仲宅西曰昧谷。
+
+jjn zjenx nop nqjt，brjang drjt se zqjeng。
+
+寅餞納日，平秩西成。
+
+sjeu triung seng hioe，jx qin driungh chiu。
+
+宵中星虛，以殷仲秋。
+
+kyt mjn jj，teux squh mau srein[^3]。
+
+厥民夷，鳥獸毛毨。
+
+### 6
+
+sqjn mrjangh ghwa squk drak srok pyaong yoot qju too，
+
+申命和叔宅朔方曰幽都，
+
+brjang zoix srok jjek。
+
+平在朔易。
+
+nqjt twanx seng mraux，jx cqjengh driungh toong。
+
+日短星昴，以正仲冬。
+
+kyt mjn qauh，teux squh nqoongx mau。
+
+厥民隩，鳥獸氄毛。
+
+teh yoot：「cj，nqoex hrje grjh ghwa！」
+
+帝曰：「咨，汝羲暨和！
+
+### 7
+
+gi sam prak iux liuk zswjn iux liuk nqjt，
+
+期三百有六旬有六日，
+
+jx nqwjnh ngyoot dengh sjh zq zqjeng swjed。
+
+以閏月定四時成歲。
+
+jwjnx li prak kung，sqoeh cek ghraem hi。」
+
+允釐百工，庶績咸熙。」
+
+teh yoot：「zqu cj nqaok zq？tong joong。」
+
+帝曰：「疇咨若時？登庸。」
+
+pyaongh ze yoot：「jjnh cix cqoo khex mrjang。」
+
+放齊曰：「胤子 朱啓明。」
+
+### 8
+
+teh yoot：「hioo！ngrjn zsioong，khax ghoo？」
+
+帝曰：「吁！嚚訟，可乎？」
+
+teh yoot：「zqu cj nqaok joex choix？」
+
+帝曰：「疇咨若予采？」
+
+hwan tu yoot：「too！gioongh kung pyaong kiu zraen kung。」
+
+驩兜曰：「都！共工方鳩僝功。」
+
+teh yoot：「hioo！zjengx ngiaon joong ui，zsiaongx kioong thau then。」
+
+帝曰：「吁！靜言庸違，象恭滔天。」
+
+teh yoot：「cj，sjh ngrok！sqaong sqaong ghung sqwjx pyaong kat，」
+
+帝曰：「咨，四岳！湯湯洪水方割，
+
+### 9
+
+dangx dangx ghrwaei sraen siaong ling，ghaux ghaux thau then。
+
+蕩蕩懷山襄陵，浩浩滔天。
+
+ghrax mjn gi cj，iux nong bex ngiaod？」
+
+下民其咨，有能俾乂？」
+
+chjem yoot：「qioe！koonx coi。」
+
+僉曰：「於！鯀哉。」
+
+teh yoot：「hioo！byt coi，pyaong mrjangh brjx zuk。」
+
+帝曰：「吁！咈哉，方命圮族。」
+
+ngrok yoot：「jh coi！sqh khax，noix jx。」
+
+岳曰：「异哉！試可，乃已。」
+
+### 10
+
+teh yoot：「yaongx，khrjm coi！kiux coix，cek joongh pyt zqjeng。」
+
+帝曰：「往，欽哉！」九載，績用弗成。
+
+teh yoot：「cj，sjh ngrok！drjmx zoix rwjh chjt zqjp coix，
+
+帝曰：「咨，四岳！朕在位七十載，
+
+nqoex nong joong mrjangh，soonh drjmx rwjh。
+
+汝能庸命，巽朕位。」
+
+ngrok yoot：「brjx tok themx teh rwjh。」
+
+岳曰：「否德忝帝位。」
+
+yoot：「mrjang mrjang jaong crik luh。」
+
+曰：「明明揚側陋。」
+
+### 11
+
+srj sjeh teh yoot：「iux krwaen zoix ghrax，yoot ngioo sqwjnh。」
+
+師錫帝曰：「有鰥在下，曰虞舜。」
+
+teh yoot：「joo，joex myn。nqoe gha？」
+
+帝曰：「俞，予聞。如何？」
+
+ngrok yoot：「koox cix。bioox ngrwan，mux ngrjn，zsiaongx ngauh。」
+
+岳曰：「瞽子。父頑，母嚚，象傲。
+
+khok ghraei jx hrauh，cqng cqng ngiaod，piu krak kran。」
+
+克諧以孝，烝烝乂，不格姦。」
+
+### 12
+
+teh yoot：「ngax gi sqh coi！nqoex ioo zq
+
+帝曰：「我其試哉！女于時，
+
+kwan kyt gheng ioo nqjh nrioex
+
+觀厥刑于二女。」
+
+li krongh nqjh nrioex ioo krwje nqwjed，bjn ioo ngioo
+
+釐降二女于嬀汭，嬪于虞。
+
+teh yoot：「khrjm coi
+
+帝曰：「欽哉！」
+
+------
+
+[^1]: 《經典釋文》本條：「被，皮寄反。徐扶義反。」
+[^2]: 《經典釋文》本條：「孳，音字。」
+[^3]: 《經典釋文》本條：「毨，先典反（senx）。」《康熙字典》：「《唐韻》《集韻》《韻會》《正韻》蘇典切（senx），音詵（srein）。」
