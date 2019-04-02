@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "旁白配音"
 date: 2018-11-19
-lastmod: 2018-12-27
+lastmod: 2019-04-01
 categories: ["錄音"]
 tags: ["配音"]
 url: /dubbing/
@@ -25,3 +25,10 @@ description: '<p>播音是初二變聲的時候誕生的一箇想法。那時模
 <time1>2018-11-07</time1><time1>製作於 2016-09</time1>
 
 㪅多見 [記二〇一六秊戶撒刀暑期實踐](/post/134husa)。
+
+## No.3　資訊縱橫
+
+<listen>[立卽收聽](http://xima.tv/JimeTt)</listen>
+<time1>2019-04-01</time1>
+
+在廣播臺的第一期節目。沒幾個人聽，就當自娛自樂了。
