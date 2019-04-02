@@ -1,6 +1,6 @@
 ---
 author: "柯棋瀚"
-title: "旁白配音"
+title: "旁白配音×播音"
 date: 2018-11-19
 lastmod: 2019-04-01
 categories: ["錄音"]
