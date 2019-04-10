@@ -84,9 +84,7 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 ## No.1　二〇一九
 
-<listen>[査看詳情](https://space.bilibili.com/176570453/channel/detail?cid=70632)</listen>
-
-<time1>2019-04-10</time1>
+<listen>[査看詳情](https://space.bilibili.com/176570453/channel/detail?cid=70632)</listen><time1>2019-04-10</time1>
 
 1<listen>[瀟湘水雲（神奇祕譜）](https://www.bilibili.com/video/av48817667)</listen>
 
@@ -96,5 +94,5 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 4<listen>[泛滄浪](https://www.bilibili.com/video/av48826542)</listen>
 
-5</listen>[髙山](https://www.bilibili.com/video/av48829517)</listen>
+5<listen>[髙山](https://www.bilibili.com/video/av48829517)</listen>
 
