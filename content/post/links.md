@@ -13,7 +13,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/links.md'
 verticle: false
 ---
 
-想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kujihhoe.com) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
+想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kqh.ac) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
 
 要求：**非**技術類優先。維持運營一年以上，並將長期維護。友鏈上限爲 30—35 箇。本站信息如下，並可按此格式回復：
 
@@ -70,7 +70,7 @@ verticle: false
 
 [那束陽光](https://Eveaz.com)　寫寫自己的故事，想想自己的未來！<n1>20181030</n1>
 
-<img src="https://dayday.plus/wp-content/uploads/2018/09/hp.jpg" width="60">　[夏和帆的博客](https://dayday.plus)　走走停停，寫寫看看〔西安交大，和我同齡〕<n1>20181031</n1>
+<img src="https://dayday.plus/wp-content/uploads/2018/09/hp.jpg" width="60">　[夏和帆的博客](https://dayday.plus)　走走停停，寫寫看看〔西安交大，和我同齡，研究生去蘇黎世高工的學霸〕<n1>20181031</n1>
 
 <img src="https://www.moonster.top/usr/uploads/2018/08/2446272771.jpg" width="60">　[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>20181031</n1>
 
@@ -178,18 +178,6 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [FAW.LIFE](https://faw.life)　追求極簡生活，對人，對事要求不高，一切以自然爲好
 
-## 小鮮肉
-
-以下列幾箇中學生的博客，大多是代碼動漫宅，有很多江蘇的，發達地區就是不一樣。很佩服佗們中學便能建博客、硏究代碼。佗們自己大槩有一箇博客圈子，全都是中學生。
-
-[小霖的夢花園](https://xiaolin.in)　〔2018 秊介紹寫的準高一〕
-
-[黎明餘光](https://blog.lim-light.com)　〔2018 秊應該高二了吧〕
-
-[徐天樂箇人博客](https://blog.xtlsoft.top)　就讀于南通市通州區實驗中學，創客工作室主幹成員〔2017 秊的介紹〕
-
-[I BCL.](https://ibcl.us)　〔喜歡無線電的〇〇後，十分淸奇〕
-
 ## 技術類
 
 [BYvoid](https://www.byvoid.com)　〔韻典網那清華大神，關鍵是還那麼帥！花癡臉〕
@@ -224,7 +212,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [李艦](http://jianl.org/)　〔人大統計的那幾位，都好厲害啊〕
 
-[張列弛](https://www.liechi.org/)　〔現就讀於日本基礎生物研究所，PhD 第五年〕
+[張列弛](https://www.liechi.org/)　〔現就讀於日本基礎生物研究所〕
 
 [Matrix67: The Aha Moments](http://www.matrix67.com/blog/)　〔「如果他肯把博客的內容同步地發發知乎發發微信公眾號的話，中國喜歡數學的孩子們應該會比現在多很多吧」〕
 
@@ -233,6 +221,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [Tonis Foto Haus](http://www.tonichan.xyz)　Amateur Photographer. Novice Data Scientist.Zhejiang University, Chu Ko Chen Honors College.
 
 [Quanyin 說](https://www.quanyin.xyz/cross.html)　〔復旦物理硏究生〕
+
+[印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工的 PhD〕
 
 ## 旅行類
 
@@ -257,3 +247,15 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [reuixiy](https://reuixiy.github.io/)　〔喜歡排版的同道中人〕
 
 [羡辙杂俎](http://zhangwenli.com/blog/)　〔這界面，太厲害啦！！！！〕
+
+## 小鮮肉
+
+以下列幾箇中學生的博客，大多是代碼動漫宅，有很多江蘇的，發達地區就是不一樣。很佩服佗們中學便能建博客、硏究代碼。佗們自己大槩有一箇博客圈子，全都是中學生。
+
+[小霖的夢花園](https://xiaolin.in)　〔2018 秊介紹寫的準高一〕
+
+[黎明餘光](https://blog.lim-light.com)　〔2018 秊應該高二了吧〕
+
+[徐天樂箇人博客](https://blog.xtlsoft.top)　就讀于南通市通州區實驗中學，創客工作室主幹成員〔2017 秊的介紹〕
+
+[I BCL.](https://ibcl.us)　〔喜歡無線電的〇〇後，十分淸奇〕
