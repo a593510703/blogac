@@ -59,7 +59,7 @@ background-image: url(/v.png);
 background-repeat: repeat-y;
 background-size: 3px;
 background-position: left bottom;
-padding-left: 4px;
+padding-left: 3px;
 margin: 1px 0 ;
 }
 v1{
@@ -67,7 +67,7 @@ background-image: url(/v1.png);
 background-repeat: repeat-x;
 background-size: 13px;
 background-position: left bottom;
-padding-bottom: 4px;
+padding-bottom: 3px;
 margin: 0 1px ;
 }
 n{
@@ -89,13 +89,13 @@ strong{
 }
 u{
 border-left: 1px solid $dark-gray;
-padding-left: 2px;
+padding-left: 1px;
 text-decoration: none;
 margin: 1px 0 ;
 }
 u1{
 border-bottom: 1px solid $dark-gray;
-padding-bottom: 2px;
+padding-bottom: 1px;
 text-decoration: none;
 margin: 0 1px;
 }
