@@ -84,6 +84,8 @@ verticle: false
 
 <img src="https://love109.cn/images/love109.jpg" width="60" alt="Alt Text" />　[LOVE109❤️纪实小屋](https://love109.cn/)　記錄愛情❤️記錄生活〔今天正好情人節，祝長久〕<n1>20190214</n1>
 
+<img src="https://pic.superbed.cn/item/5cd257c63a213b0417f916c0.gif" width="60" alt="Alt Text" />　[格子老師](https://manman.qian.lu/)　遇見每一箇孩子的成長〔感謝添加友鏈〕<n1>20190508</n1>
+
 # 三、推廣
 
 ## 導航
