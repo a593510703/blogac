@@ -57,18 +57,18 @@ img {
 v{
 background-image: url(/v.png);
 background-repeat: repeat-y;
-background-size: 3px;
+background-size: 2.6px;
 background-position: left bottom;
-padding-left: 3px;
-margin: 1px 0 ;
+padding-left: 2px;
+margin: 1.5px 0 ;
 }
 v1{
 background-image: url(/v1.png);
 background-repeat: repeat-x;
-background-size: 13px;
+background-size: 10px;
 background-position: left bottom;
 padding-bottom: 3px;
-margin: 0 1px ;
+margin: 0 1.5px ;
 }
 n{
   font-family: $global-note-font-family;
@@ -89,15 +89,15 @@ strong{
 }
 u{
 border-left: 1px solid $dark-gray;
-padding-left: 1px;
+padding-left: 0px;
 text-decoration: none;
-margin: 1px 0 ;
+margin: 1.5px 0 ;
 }
 u1{
 border-bottom: 1px solid $dark-gray;
 padding-bottom: 1px;
 text-decoration: none;
-margin: 0 1px;
+margin: 0 1.5px;
 }
 listen{
     background: $pink;
