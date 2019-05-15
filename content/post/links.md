@@ -52,7 +52,7 @@ verticle: false
 
 # 二、有鄰
 
-已下爲互換了友鏈的小伙伴：
+已下爲互換了友鏈的小伙伴<n1>按添加時閒排序</n1>：
 
 [尚磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域。<n1>20181028</n1>
 
@@ -85,6 +85,8 @@ verticle: false
 <img src="https://love109.cn/images/love109.jpg" width="60" alt="Alt Text" />　[LOVE109❤️纪实小屋](https://love109.cn/)　記錄愛情❤️記錄生活〔今天正好情人節，祝長久〕<n1>20190214</n1>
 
 <img src="https://pic.superbed.cn/item/5cd257c63a213b0417f916c0.gif" width="60" alt="Alt Text" />　[格子老師](https://manman.qian.lu/)　遇見每一箇孩子的成長〔感謝添加友鏈。一位小學老師，用博客布置作業，學到了，如果我以後當老師，也要這樣，堅決不用什麼微信群〕<n1>20190508</n1>
+
+<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/)〕<n1>20190515</n1>
 
 # 三、推廣
 
