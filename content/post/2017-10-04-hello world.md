@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-01-02
+lastmod: 2019-05-18
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -514,10 +514,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-
+    
             args = arguments;
             thisArg = this;
-
+    
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -539,7 +539,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-
+    
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -548,16 +548,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-
+    
         setTocClass();
-
+    
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-
+    
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -603,7 +603,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-
+    
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -907,7 +907,7 @@ scroll-behavior: smooth;
       <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp/</i>
 </div>
     {{ end }}
-```
+ ```
 
 把書名號改成波浪線。増加注釋小字。
 
@@ -926,7 +926,7 @@ n{
   padding: 7px 0;
   letter-spacing: 0;
 }
-```
+ ```
 
 `v` 是波浪線， `n` 是小字。
 
@@ -967,3 +967,14 @@ font-weight: 700;
 ### 2019 秊 1 月 2 日
 
 修改作者信息的鏈接。首葉作者増加超鏈接。
+
+### 5 月 18 日
+
+配置文件下面這行就可以解決斜體不能渲染的問題。
+
+```toml
+[blackfriday]
+hrefTargetBlank = true
+extensionsmask = ["noIntraEmphasis"]
+```
+
