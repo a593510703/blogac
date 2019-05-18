@@ -13,6 +13,7 @@ uglyURLs = false         # more info: https://gohugo.io/content-management/urls/
 
 [blackfriday]
 hrefTargetBlank = true
+extensionsmask = ["noIntraEmphasis"]
 
 # Highlight options.
 # See https://gohugo.io/content-management/syntax-highlighting/
