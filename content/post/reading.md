@@ -8,7 +8,7 @@ tags: ["主葉"]
 url: /reading/
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/reading.md'
 verticle: false
-description: '<p>我又自詡對語言的敏感度比常人畧高一些。暑假突肰對古音感興趣，上古音難度太大，那就中古音吧，便用了半箇月來突擊，知道了一箇大槩。用古音讀書豈不是很美妙的事情？</p><p>計畫先把尚書讀完，可能的話兩周一篇。</p>'
+description: '<p>我又自詡對語言的敏感度比常人畧高一些。暑假突肰對古音感興趣，上古音難度太大，那就中古音吧，便用了半箇月來突擊，知道了一箇大槩。用古音讀書豈不是很美妙的事情？</p><p>計畫先把尙書讀完，可能的話兩周一篇。</p>'
 ---
 
 我的 B 站頻道：<listen1>[讀切韻擬音](https://space.bilibili.com/176570453/channel/detail?cid=70633)</listen1>
@@ -221,7 +221,7 @@ gi piuu ngiaon iuux，piuu srix ljn piuu ghaung qioe triung kuauk jax。
 
 其不言有，不使麟不恆於中國也。
 
-## No.3　尚書‧堯典
+## No.3　尙書‧堯典
 
 ### 1
 
