@@ -950,7 +950,7 @@ font-weight: 700;
 
 <img src="https://api.superbed.cn/pic/5c1a36eec4ff9e2b4e04528c" width="800">
 
-加粗的 <strong> 用黑體，這樣更加醒目。
+**加粗的**用黑體，這樣更加醒目。
 
 下畫直線改成 border，而非原來的 text-decoration，㪅加清爽。
 
