@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "古琴錄音錄象"
 date: 2018-11-19
-lastmod: 2019-04-10
+lastmod: 2019-06-12
 categories: ["古琴"]
 tags: ["主葉"]
 url: /guqin/
@@ -95,3 +95,7 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 4<listen>[泛滄浪](https://www.bilibili.com/video/av48826542)</listen>
 
 5<listen>[髙山](https://www.bilibili.com/video/av48829517)</listen>
+
+## No.2　第十一屆全國大學生古琴音樂會
+
+<listen>[玄默（神奇祕譜）](https://www.bilibili.com/video/av55325078)</listen>
