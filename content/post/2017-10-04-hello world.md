@@ -978,3 +978,6 @@ hrefTargetBlank = true
 extensionsmask = ["noIntraEmphasis"]
 ```
 
+### 6 月 14 日
+
+突然發現樣式有問題，safari 下仿宋和楷體都顯示成宋體，Chrome 下正文太髙，超出了一屏，看著很難受。
