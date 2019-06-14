@@ -78,7 +78,7 @@ verticle: false
 
 <img src="https://www.superbed.cn/pic/5bf0b56ac4ff9e24a0d68679" width="60" alt="Alt Text" />　[及時行樂](https://www.jsxlo.com)　冷涵，學生，信息安全專業。記錄生活的點點滴滴<n1>20181103</n1>
 
-<img src="https://ws1.sinaimg.cn/large/007awE00ly1furmucjnlkj303k03kq35.jpg" width="60">　[清樓小築](https://www.hostm.cn)　緫有一天伱會感謝現在的疼<n1>20181110</n1>
+<img src="https://www.gravatar.com/avatar/c7f7153efd11d2404bd7e6ea7e327e74?s=240&d=mp" width="60">　[他與她的夢](https://cncyu.cn/)　與其臨淵羨魚，不如退而結網<n1>20181110</n1>
 
 [生有夏花](http://www.xiatian.pro)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<n1>20181122</n1>
 
