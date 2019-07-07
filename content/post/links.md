@@ -30,13 +30,15 @@ verticle: false
 
 [半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<n1>友鏈於 20181028</n1>
 
-<img src="https://yilanju.com/image/logo.png" width="90"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
+<img src="https://cdn.yilanju.com/wp-content/uploads/2019/03/logo.png" width="120"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
 
 [臆站](http://lethetsou.com)　〔似乎比我小一級的中文系學生，自號臆客〕
 
 [逗號的文字電臺](https://chenfm.com)
 
 [寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
+
+<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一個友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
 
 ## 非獨立博客
 
@@ -56,8 +58,6 @@ verticle: false
 
 [尙磊的博客](http://shanglei.net/about)　曾在在濟南從事出版編輯工作，現在在北京從事公職類培訓，關注出版、歷史、文化、博客、互聯網等領域。<n1>20181028</n1>
 
-<img src="https://ryanc.cc/upload/2018/6/v2-ef180e77b63e636ad8e96f2f57897b71_hd2018062400420251.jpg" width="60" alt="Alt Text" />　[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>20181027</n1>
-
 ![](https://api.superbed.cn/pic/5c221117c4ff9e2b4e04591f)　[HELLOHOME!](https://hellohome.cn)，零碎生活二三事！<n1>20181027</n1>
 
 <img src="https://tp.corli.cn/data/f_37774230.jpg" width="60" alt="Alt Text" />　[冰峰博客](http://www.ad-s.cn/)　站長暱稱：司馬鶴軒<n1>20181028</n1>
@@ -72,8 +72,6 @@ verticle: false
 
 <img src="https://dayday.plus/wp-content/uploads/2018/09/hp.jpg" width="60">　[夏和帆的博客](https://dayday.plus)　走走停停，寫寫看看〔西安交大，和我同齡，研究生去蘇黎世高工的學霸〕<n1>20181031</n1>
 
-<img src="https://www.moonster.top/usr/uploads/2018/08/2446272771.jpg" width="60">　[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>20181031</n1>
-
 <img src="https://file.dxq520.cn/wp-content/uploads/2018/08/logo.png" width="200" alt="Alt Text" />　[兩个有意思的](https://dxq520.cn)　小小酥和小可愛的情侶博客。<n1>20181102</n1>
 
 <img src="https://www.superbed.cn/pic/5bf0b56ac4ff9e24a0d68679" width="60" alt="Alt Text" />　[及時行樂](https://www.jsxlo.com)　冷涵，學生，信息安全專業。記錄生活的點點滴滴<n1>20181103</n1>
@@ -86,8 +84,6 @@ verticle: false
 
 <img src="https://pic.superbed.cn/item/5cd257c63a213b0417f916c0.gif" width="60" alt="Alt Text" />　[格子老師](https://manman.qian.lu/)　遇見每一箇孩子的成長〔感謝添加友鏈。一位小學老師，用博客布置作業，學到了，如果我以後當老師，也要這樣，堅決不用什麼微信群〕<n1>20190508</n1>
 
-<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/)〕<n1>20190515</n1>
-
 # 三、推廣
 
 ## 導航
@@ -99,7 +95,6 @@ verticle: false
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客，<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-
 [个站商店](http://storeweb.cn)　<n1>20181030，<a href="http://storeweb.cn/site/info/661" target="_blank">收錄葉</a></n1>
 
 [boke112导航](https://boke112.com)<n1>20181028，<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a></n1>
@@ -131,27 +126,21 @@ verticle: false
 我家思爲的微信公眾號 **維克李**：有關影相，和一丟丟講故事的野心。〔我家的，嗯〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9419dc6d61ad66ee7d6"  width="86"/></center>
-
 JBJ 的公眾號 **UnbelievableRadio**：親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。〔⬆︎王力宏的忠實粉絲〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9509dc6d61ad66ee7d9"  width="86"/></center>
-
 神人暢的公眾號 **似魚與神人暢**：努力做一股淸流。喜馬拉雅電臺：[神人暢的音樂現場](https://www.ximalaya.com/yinyue/19475626/)〔學神，只能膜拜〕
 
 <center><img src="https://www.superbed.cn/pic/5beed95c9dc6d61ad66ee7da"  width="86"/></center>
-
 LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。〔腦洞眞大呀〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9799dc6d61ad66ee7dc"  width="86"/></center>
-
 南開流惜子的公眾號 **惜言落雨**：滿紙荒唐言。〔大佬啊大佬〕
 
 <center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
-
 琴社一位妹子的公眾號 **時悅清歡**：悅享人生，時空有愛是清歡！〔新開，「我想一直做下去，希望成爲生活的一部分吧」，她如是說〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9a79dc6d61ad66ee7de"  width="86"/></center>
-
 # 五、收藏夾
 
 㠯下爲一些比較有意思的博客：
@@ -227,6 +216,10 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [Quanyin 說](https://www.quanyin.xyz/cross.html)　〔復旦物理硏究生〕
 
 [印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工的 PhD〕
+
+[Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
+
+[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>友鏈於 20181031，2019 年 6 月再看，登不了網站了？</n1>
 
 ## 旅行類
 
