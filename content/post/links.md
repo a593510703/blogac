@@ -66,7 +66,7 @@ verticle: false
 
 <img src="https://secure.gravatar.com/avatar/432d8583e332c3c170e590c6dff16d7a?s=400&d=identicon&r=g"  width="60" alt="Alt Text" />　[@修己](https://ji.ci/msg)　修己安人<n1>20181029</n1>
 
-<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2018/11/17/ec617ae7b463c6a0d615ba7342427eee.png' alt='肥柴之家' width="130px"></a>　[肥柴之家](https://www.cnzknet.com)<n1>20181029</n1>
+<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2019/07/06/99c41f94adb8441c9532ab1c577cdb67.png' alt='肥柴之家' width="100px"></a>　[肥柴之家](https://www.cnzknet.com)<n1>20181029</n1>
 
 [那束陽光](https://Eveaz.com)　寫寫自己的故事，想想自己的未來！<n1>20181030</n1>
 
