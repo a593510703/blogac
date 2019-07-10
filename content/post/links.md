@@ -126,7 +126,7 @@ verticle: false
 我家思爲的微信公眾號 **維克李**：有關影相，和一丟丟講故事的野心。〔我家的，嗯〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9419dc6d61ad66ee7d6"  width="86"/></center>
-JBJ 的公眾號 **UnbelievableRadio**：親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。〔⬆︎王力宏的忠實粉絲〕
+JBJ 的公眾號 **UnbelievableRadio**：親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。〔王力宏的忠實粉絲〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9509dc6d61ad66ee7d9"  width="86"/></center>
 神人暢的公眾號 **似魚與神人暢**：努力做一股淸流。喜馬拉雅電臺：[神人暢的音樂現場](https://www.ximalaya.com/yinyue/19475626/)〔學神，只能膜拜〕
