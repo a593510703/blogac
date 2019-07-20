@@ -13,12 +13,12 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/links.md'
 verticle: false
 ---
 
-想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:1@kqh.ac) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
+想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:ke@kqh.me) 給我呀，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
 
 要求：**非**技術類優先。維持運營一年以上，並將長期維護。友鏈上限爲 30—35 箇。本站信息如下，並可按此格式回復：
 
 - **名称**：赫赫文王   
-- **地址**：https://kqh.ac       
+- **地址**：https://kqh.me       
 - **描述**：不务正业的历史系学生一个    
 - **Logo**：https://www.superbed.cn/pic/5beed8ed9dc6d61ad66ee7d5
 

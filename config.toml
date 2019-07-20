@@ -1,4 +1,4 @@
-baseURL = "https://kqh.ac/"
+baseURL = "https://kqh.me/"
 title = "赫赫文王"
 enableRobotsTXT = true
 enableEmoji = true
@@ -138,7 +138,7 @@ defaultContentLanguage = "en"
     appKey = "iooXBj18fhM6S4yonspGEspA"
 
   [params.social]
-  a-email = "mailto:1@kqh.ac"
+  a-email = "mailto:ke@kqh.me"
   d-facebook = "https://www.facebook.com/kujihhoe"
   g-github = "https://github.com/kujihhoe"
   i-zhihu = "https://www.zhihu.com/people/ke-qi-han/activities"

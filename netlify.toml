@@ -30,37 +30,37 @@ HUGO_VERSION = "0.55.6"
 HUGO_ENABLEGITINFO = "true"
 [[redirects]]
 from = "https://kqh.life/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://keke.life/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://kujihhoe.com/blog/"
-to = "https://kqh.ac/post/"
+to = "https://kqh.me/post/"
 status = 301
 force = true
 [[redirects]]
 from = "https://kujihhoe.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://master--kqh.netlify.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://master.kqh.netlify.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://kqh.netlify.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 
@@ -131,59 +131,59 @@ status = 301
 force = true
 [[redirects]]
 from = "https://kqh.ac/blog/2017/10/04/uomk.html"
-to = "https://kqh.ac/about/"
+to = "https://kqh.me/about/"
 status = 301
 force = true
 [[redirects]]
 from = "https://kqh.ac/blog/2018/10/27/links.html"
-to = "https://kqh.ac/links/"
+to = "https://kqh.me/links/"
 status = 301
 force = true
 [[redirects]]
 from = "https://kqh.ac/blog/2018/11/19/pbyb.html"
-to = "https://kqh.ac/reading/"
+to = "https://kqh.me/reading/"
 status = 301
 force = true
 [[redirects]]
 from = "https://kqh.ac/blog/2018/05/29/xinfadi.html"
-to = "https://kqh.ac/recording/"
+to = "https://kqh.me/recording/"
 status = 301
 force = true
 
 [[redirects]]
 from = "https://kqh.ac/en/*"
-to = "https://kqh.ac/"
+to = "https://kqh.me/"
 status = 301
 force = true
 
 [[redirects]]
 from = "https://kqhhome.netlify.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://master.kqhhome.netlify.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://master--kqhhome.netlify.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 
 [[redirects]]
 from = "https://keqihan.com/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://keqh.cc/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://keqh.me/*"
-to = "https://kqh.ac/:splat"
+to = "https://kqh.me/:splat"
 status = 301
 force = true
