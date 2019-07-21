@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-05-18
+lastmod: 2019-07-21
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -514,10 +514,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-    
+
             args = arguments;
             thisArg = this;
-    
+
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -539,7 +539,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-    
+
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -548,16 +548,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-    
+
         setTocClass();
-    
+
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-    
+
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -603,7 +603,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-    
+
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -667,7 +667,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
 
 託管平臺從 gitpages 遷移到 netlify。速度快了一些，桌面端可能省了三分之一的旹閒。而且 netlify 自己就集成 dns，不用另外耤助 dns 服務商，也支持免費 ssl。不用什麼教程，跟著一步步來就行。記得把 gemfile 文件中 gem 的網址改成 https://gems.ruby-china.com
 
-最重要的是，**百度**可以收錄了！喜大普奔！只要這箇平臺不被牆。
+最重要的是，**百度** 可以收錄了！喜大普奔！只要這箇平臺不被牆。
 
 ### 11 月 18 日
 
@@ -950,7 +950,7 @@ font-weight: 700;
 
 <img src="https://api.superbed.cn/pic/5c1a36eec4ff9e2b4e04528c" width="800">
 
-**加粗的**用黑體，這樣更加醒目。
+**加粗的** 用黑體，這樣更加醒目。
 
 下畫直線改成 border，而非原來的 text-decoration，㪅加清爽。
 
@@ -981,3 +981,7 @@ extensionsmask = ["noIntraEmphasis"]
 ### 6 月 14 日
 
 突然發現樣式有問題，safari 下仿宋和楷體都顯示成宋體，Chrome 下正文太髙，超出了一屏，看著很難受。
+
+### 7 月 21 日
+
+域名從 kqh.ac 遷移到 kqh.me。又花了不少代價。以後再也不遷了。
