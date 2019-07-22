@@ -514,10 +514,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-
+    
             args = arguments;
             thisArg = this;
-
+    
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -539,7 +539,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-
+    
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -548,16 +548,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-
+    
         setTocClass();
-
+    
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-
+    
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -603,7 +603,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-
+    
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -984,9 +984,16 @@ extensionsmask = ["noIntraEmphasis"]
 
 ### 7 月 21 日
 
-域名從 kqh.ac 遷移到 kqh.me。又花了不少代價。以後再也不遷了。遷域名幾個步驟：
+**域名從 kqh.ac 遷移到 kqh.me。**又花了不少代價。以後再也不遷了。遷域名幾個步驟：
 
 - 在 Google search console 右上角的設置，有「變更網址」。bing 的「站點移動」。百度「網站改版」
 - 301 重定向
-- 郵箱重新設置一下
+- 域名郵箱重新設置一下
+- valine 的郵件提箱。mailchimp 重新設置。
 - 給各個友鏈小伙伴通知一下。
+
+### 7 月 22 日
+
+終於解決了 rss 的問題：配置文件裏面（當然僅限我的主題）`rssFullContent = false` 就可以了。
+
+嘗試了半天 netlify 的 sub-domain，還是不行。
