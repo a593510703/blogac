@@ -5,7 +5,7 @@
   src: local('title'), url('/title.woff') format('woff');
 }
 body {
-background: #fffbe0;
+background: #fffae8;
 	}
 #a{
 	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
