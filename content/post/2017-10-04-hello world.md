@@ -997,3 +997,5 @@ extensionsmask = ["noIntraEmphasis"]
 終於解決了 rss 的問題：配置文件裏面（當然僅限我的主題）`rssFullContent = false` 就可以了。
 
 嘗試了半天 netlify 的 sub-domain，還是不行。
+
+把琴譜網合并到我的維基。域名費也是錢啊。
