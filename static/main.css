@@ -13,7 +13,7 @@ background: #fffae8;
 	text-align: justify;
 	text-justify: inter-ideograph;
 	max-width: 700px;
-	padding:  80px 100px 50px 100px;
+	padding:  60px 100px 50px 100px;
 	margin: 100px auto;
 	box-shadow:  0 0 0 2px #c41011, 0 0 0 8px #fffbe0,0 0 0 18px #c41011
 }
@@ -74,6 +74,18 @@ hr{
 	  font-family: title;
 	  border-bottom: #C41011 3px solid;
   }
+  @media screen and (max-width:1000px){
+    #intro .title {
+    	font-size: 36px;}
+  	}
+    #intro .title1{
+      margin-top: 40px;
+  font-size: 70px;padding-left: 30px;
+}
+@media screen and (max-width:1000px){
+  #intro .title1 {
+    font-size: 46px;}
+  }
   #intro .date{
 	  letter-spacing: 2px;
 	  font-size: 13px;
@@ -87,7 +99,7 @@ hr{
   }
 
   #intro .label {
-    font-size: 22px;
+    font-size: 21px;
       letter-spacing: 2px;
 	font-weight: 700;
       padding: 30px 0 60px 0;
@@ -108,7 +120,7 @@ hr{
 /*blog*/
 #blog {
   text-align: center;
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 700;
   line-height: 1.5;
   color: #c41011;
@@ -145,7 +157,7 @@ line-height: 2;
   color: #151515;
   text-decoration: none;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 25px;
   letter-spacing: 5px;
   display: block;
 }
@@ -196,7 +208,7 @@ margin:96px 0 -96px 0
 	}
 
 #top{
-margin:-122px 0 122px 0
+margin:-102px 0 102px 0
 }
 @media screen and (max-width:1000px){
   #top{
