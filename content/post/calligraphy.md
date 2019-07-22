@@ -1,8 +1,8 @@
 ---
 author: "柯棋瀚"
 title: "書法"
-date: 2018-11-20
-lastmod: 2018-11-20
+date: 2019-07-22
+lastmod: 2019-07-22
 categories: ["書法"]
 tags: ["主葉"]
 url: /calligraphy/
@@ -23,4 +23,3 @@ description: '<p>放一些寫的字，一點沒有也不行。</p>'
 臨王羲之<v>初月帖</v>
 
 <img src="https://pic3.superbed.cn/item/5d359db2451253d178943147.jpg" height="400">
-
