@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-07-21
+lastmod: 2019-07-22
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
