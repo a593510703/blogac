@@ -21,23 +21,15 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 自己打譜<v>神奇秘譜</v>。一部分是錄音棚錄的，一部分自己用錄音筆錄的。
 
-1<listen>[玄默](https://music.163.com/#/song?id=549495148)</listen>
-
-2<listen>[流水](https://music.163.com/#/song?id=549493436)</listen>
-
-3<listen>[髙山神奇祕譜](https://music.163.com/#/song?id=549494458)</listen><v>神奇秘譜</v>版<v>高山</v>現在網上沒有任何錄音。
-
-4<listen>[陽春](https://music.163.com/song?id=549494546)</listen>
-
-5<listen>[招隱](https://music.163.com/song?id=549496361)</listen>
-
-6<listen>[瀟湘水雲](https://music.163.com/song?id=549494679)</listen>
-
-7<listen>[酒狂](https://music.163.com/song?id=549497955)</listen>
-
-8<listen>[廣陵散](https://music.163.com/song?id=549497992)</listen>
-
-9<listen>[汎滄浪](https://music.163.com/song?id=549501329)</listen>
+1. 玄默
+2. 流水
+3. 髙山神奇祕譜<n><v>神奇秘譜</v>版<v>高山</v>現在網上沒有任何錄音</n>
+4. 陽春
+5. 招隱
+6. 瀟湘水雲
+7. 酒狂
+8. 廣陵散
+9. 汎滄浪
 
 ## No.2　芝仙曰
 
@@ -46,9 +38,8 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 自己打譜西麓堂琴統。
 
-1<listen>[洞庭秋思](https://music.163.com/song?id=549476878)</listen>
-
-2<listen>[神人暢](https://music.163.com/song?id=549479255)</listen>
+1. 洞庭秋思
+2. 神人暢
 
 ## No.3　古風
 
@@ -57,9 +48,8 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 包括<v>幽蘭</v>，以及自己根據<v>神奇秘譜</v>改編的一些曲子。
 
-1<listen>[碣石調·幽蘭](https://music.163.com/song?id=549487437)</listen>
-
-2<listen>[梅花三弄刪宋](https://music.163.com/song?id=549484767)</listen>
+1. 碣石調·幽蘭
+2. 梅花三弄刪宋
 
 ## No.4　王門紹灮
 
@@ -68,15 +58,11 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 隨老師學的一些曲子。很多版本較爲獨特，外人不能得而聞之。
 
-1<listen>[佩蘭](https://music.163.com/song?id=549482838)</listen>
-
-2<listen>[髙山](https://music.163.com/song?id=549483936)</listen>
-
-3<listen>[梅花三弄](https://music.163.com/song?id=549486221)</listen>
-
-4<listen>[猿鶴雙清](https://music.163.com/song?id=549489133)</listen>
-
-5<listen>[醉漁唱晚](https://music.163.com/song?id=549484472)</listen>
+1. 佩蘭
+2. 髙山
+3. 梅花三弄
+4. 猿鶴雙清
+5. 醉漁唱晚
 
 # 視頻
 
@@ -86,15 +72,11 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 <listen>[査看詳情](https://space.bilibili.com/176570453/channel/detail?cid=70632)</listen><time1>2019-04-10</time1>
 
-1<listen>[瀟湘水雲（神奇祕譜）](https://www.bilibili.com/video/av48817667)</listen>
-
-2<listen>[大雅（神奇祕譜）](https://www.bilibili.com/video/av48821494)</listen>
-
-3<listen>[玄默（神奇秘譜）](https://www.bilibili.com/video/av48824880)</listen>
-
-4<listen>[泛滄浪](https://www.bilibili.com/video/av48826542)</listen>
-
-5<listen>[髙山](https://www.bilibili.com/video/av48829517)</listen>
+1. 瀟湘水雲（神奇祕譜）
+2. 大雅（神奇祕譜）
+3. 玄默（神奇秘譜）
+4. 泛滄浪
+5. 髙山
 
 ## No.2　第十一屆全國大學生古琴音樂會
 
