@@ -64,10 +64,6 @@ defaultContentLanguage = "en"
      name = "維基"
       weight = 70
     url = "https://kqh.wiki/"
-    [[menu.main]]
-      name = "琴譜网"
-       weight = 80
-     url = "https://qinpu.wiki/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
