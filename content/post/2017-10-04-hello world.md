@@ -986,7 +986,7 @@ extensionsmask = ["noIntraEmphasis"]
 
 域名從 kqh.ac 遷移到 kqh.me。又花了不少代價。以後再也不遷了。遷域名幾個步驟：
 
-- 在 Google search console 右上角的設置，有「變更網址」。bing 的站長工具左欄。百度「網站改版」
+- 在 Google search console 右上角的設置，有「變更網址」。bing 的「站點移動」。百度「網站改版」
 - 301 重定向
 - 郵箱重新設置一下
 - 給各個友鏈小伙伴通知一下。
