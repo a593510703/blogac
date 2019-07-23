@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-07-22
+lastmod: 2019-07-23
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -14,7 +14,7 @@ verticle: false
 
 # 我與電腦
 
-似乎說博客鼎盛的時代是十多年前？不知道。
+似乎博客鼎盛的時代是十多年前？不知道。
 
 我對電腦的第一印象是三四歲的時候，幼兒園有間機房，裏面有檯檯黃色的方方的又有點弧度的機器，我看著別的小朋友在玩，卻不知那是什麼東西。
 
@@ -23,7 +23,6 @@ verticle: false
 初中換了箇筆記本，至於原來那箇是怎麼死的？是被我用磁鐵吸的……那塊磁鐵老爸給我的，一直當做寶，吸力大得可以吸起學校的座椅，三米之外都能帶動指南針。有一天突發奇想，把磁鐵靠近電腦，然後就永遠的黑屏了。初中時候沉迷殺毒軟件，360 金山騰訊小紅傘小 A 卡巴斯基諾頓 nod32 大蜘蛛全都折騰過一遍，還上官方論壇跟進，還加過 360 內測小組。那時候腦子壞掉了吧，簡直沉迷其中不能自拔，每次周末回到家，就開始搗鼓這些。
 
 高中出了殺軟的坑入了鋼筆的坑。高一學過兩節課的編程，然而完全跟不上老師的節奏，就放棄了。大學以來摸了一點 ps，摸索了一點 word 排版，還認識了一位程序猿師兄，近期有空想看看 indesign。這大概就是我和電腦的故事了，雖說是一箇高數一點沒學過的純文科生，但對於電腦卻是極喜歡鼓搗的。
-
 
 # 更新日誌
 
@@ -514,10 +513,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-    
+
             args = arguments;
             thisArg = this;
-    
+
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -539,7 +538,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-    
+
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -548,16 +547,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-    
+
         setTocClass();
-    
+
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-    
+
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -603,7 +602,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-    
+
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -791,8 +790,6 @@ If lastmod is not set, and .GitInfo feature is enabled, .GitInfo.AuthorDate will
 
 Google AdSense 被封了，原來是我自己點得太多。算了，不申訴了，反正廣告費也基本沒有。
 
-## 換域名
-
 ### 12 月 3 日
 
 ！！！換域名了！！！
@@ -807,9 +804,7 @@ Google AdSense 被封了，原來是我自己點得太多。算了，不申訴�
 
 不知什麼神仙操作，BNU-mobile 就連得上，BNU-student 就不行。本來㠯爲是網站 IPv6 的原因，後來還是不行。把本機 DNS kill，再重新添加了一個，就好了，原來是本機的問題。
 
-## 換域名
-
-### 12 月 4 日
+### 12 月 4 日，換域名
 
 ！！！換域名了！！！
 
@@ -982,9 +977,9 @@ extensionsmask = ["noIntraEmphasis"]
 
 突然發現樣式有問題，safari 下仿宋和楷體都顯示成宋體，Chrome 下正文太髙，超出了一屏，看著很難受。7 月又恢復正常了。
 
-### 7 月 21 日
+### 7 月 21、22 日，換域名
 
-**域名從 kqh.ac 遷移到 kqh.me。**又花了不少代價。以後再也不遷了。遷域名幾個步驟：
+**域名從 kqh.ac 遷移到 kqh.me。** 又花了不少代價。以後再也不遷了。遷域名幾個步驟：
 
 - 在 Google search console 右上角的設置，有「變更網址」。bing 的「站點移動」。百度「網站改版」
 - 301 重定向
@@ -992,10 +987,12 @@ extensionsmask = ["noIntraEmphasis"]
 - valine 的郵件提箱。mailchimp 重新設置。
 - 給各個友鏈小伙伴通知一下。
 
-### 7 月 22 日
-
 終於解決了 rss 的問題：配置文件裏面（當然僅限我的主題）`rssFullContent = false` 就可以了。
 
 嘗試了半天 netlify 的 sub-domain，還是不行。
 
 把琴譜網合并到我的維基。域名費也是錢啊。
+
+### 7 月 23 日
+
+刪掉百度統計，留個谷歌分析就夠了。百度產品能抵制多少是多少。
