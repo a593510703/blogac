@@ -513,10 +513,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-
+    
             args = arguments;
             thisArg = this;
-
+    
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -538,7 +538,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-
+    
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -547,16 +547,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-
+    
         setTocClass();
-
+    
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-
+    
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -602,7 +602,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-
+    
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -996,3 +996,7 @@ extensionsmask = ["noIntraEmphasis"]
 ### 7 月 23 日
 
 刪掉百度統計，留個谷歌分析就夠了。百度產品能抵制多少是多少。
+
+主葉更加適配移動端。主要兩點：開頭的大標題，小屏幕下字號變小；聯絡方式刪掉了後面的說明。
+
+把書法、平面索性用圖床來㞡示，不用圖片分享社區了，找了半天沒找到合適的，緫是被牆。
