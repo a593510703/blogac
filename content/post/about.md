@@ -1,8 +1,8 @@
 ---
 author: "柯棋瀚"
-title: "緫序"
+title: "緫敘"
 date: 2017-10-04
-lastmod: 2018-12-21
+lastmod: 2019-07-23
 categories: ["站務"]
 tags: ["公告"]
 menu:
@@ -15,7 +15,7 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 # 一、我疇？
 
-見我的主葉。投稿、交換友鏈及其他任何問題都可以發郵件或在文末評論。
+見 [我的主葉](/)。投稿、交換友鏈及其他任何問題都可以發郵件或在文末評論。
 
 # 二、此博客者曷也？
 
@@ -33,7 +33,7 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 <img src="https://www.superbed.cn/pic/5becb5a19dc6d61ad66ee225" height="100%">
 
-4、不想用社交平臺，想找箇東西替代。我發朋友圈的頻率，2014—2017 秊是〇條，2017 以後大槩是半秊一條，其他任何平臺<n>知乎豆瓣等</n>也都處於隱身狀態。
+4、不想用社交平臺，想找箇東西替代。
 
 5、很多長篇大論的東西，實在想不出其他平臺可以發布，似乎只有知乎專欄吧？
 
@@ -59,16 +59,17 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 # 五、曷所建之？
 
-1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a>、<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a> [聚合圖牀](https://www.superbed.cn) 提供圖牀，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始</n>，[Valine](https://valine.js.org) 提供評論模塊，leancloud 提供文章點擊量<n>PV</n>統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>~~，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~。
+1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a> [聚合圖牀](https://www.superbed.cn) 提供圖牀，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始</n>，[Valine](https://valine.js.org) 提供評論模塊，leancloud 提供文章點擊量統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>~~，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~，流量分析採用 Google Analytics。
 2. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kqh.me" target="\_blank">Google</a><n>Google 收錄得又全又快</n>，例子：`site:kqh.me 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
 3. 【大事記】詳見 [Hello world!](/blog/2017/10/04/hello world.html)
 
 - 2017-10-03 建站：kujihhoe.com
 - 2017-10-27 弟二版
 - 2018-11-21 弟三版
-- 2018-12-04 域名變㪅爲 kqh.me
-- 12-06 啓用三箇網站
+- 2018-12-04 域名變㪅爲 kqh.ac
+- ~~12-06 啓用四箇網站~~
 - 12-18 正文改爲直排
+- 2019-07-22 域名變更爲 kqh.me
 
 # 六、板式
 
@@ -80,7 +81,7 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 6. 【下畫線】下畫直線將默認的 `text-decoration: underline` 改成 `boder-left: 1px`，再調一下 `padding-left`，這樣就十分清爽了，默認的 `text-decoration` 大槩是 2px，有些粗了。波浪線用的 `backgroud-image`，經過反服修改，達到了最髙的可讀性。下畫線上下各加了 `margin: 1px`，這樣就能將兩箇相連的下畫線分割開來，單獨用時又能不顯痕跡。
 7. 【字距】正文加了 `letter-spacing: 1px`，引文、注釋沒有加。這樣淸朗一點。一級標題爲 10px，二——六級標題爲 2px。
 8. 【標題】各級標題字號依次爲 `h1: 1.4em, h2: 1.3em, h3: 1.2em, h4: 1em, h5: 1em, h6: 1em`。標題均用紅色，一、二級標題用宋體，三—六級標題用黑體。
-9. 【顏色】紅色爲 `#c41011`，粉色爲 `ffc7c7`，黑色爲 `#2b2b2b`，背㬌黃色爲 `#fffbe0`。超鏈接用紅色，懸浮時用粉色背㬌。
+9. 【顏色】紅色爲 `#c41011`，粉色爲 `ffc7c7`，黑色爲 `#2b2b2b`，背㬌黃色爲 ~~#fffbe0~~ `#ff fae3`。超鏈接用紅色，懸浮時用粉色背㬌。
 10. 【標點】破折號 ——、間隔符 ·、省略號 …… 用的方正新書宋。
 11. 用直排可以將正文鋪滿整個屏幕，還有一箇好處是可以將正文板塊變成組合式的，象雜誌一般。
 
@@ -89,7 +90,7 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 # 七、示
 
 - 本站所有文章授權方式采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="\_blank">CC BY-NC-SA 4.0</a> <n>署名-非商業性使用-相同方式共享</n>國際條款，若需使用，請務必閱讀竝遵循條款內容。說簡單點，非商業性使用無須告知作者，只要標明作者、出處就好<n>當然，沒人會轉載我的文章的，想多了</n>。爲便於排版，直接取用 md 源文件卽可。如果發現有錯別字，也可以在 Git 上幫我改正。
-- 若發現文章中有不適冝的內容<n>如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等</n>，請儘速 [郵件](mailto:1@kqh.me) 或評論告知我，我將盡㝡快速度處理。
+- 若發現文章中有不適冝的內容<n>如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等</n>，請儘速 [郵件](mailto:1@kqh.me) 或評論告知我，我將盡速處理。
 - 我用䋣體字，還有一些奇怪的寫法，一來爲了滿足自己的一些癖好；二來爲了過濾一些不想看的來訪者；三來照顧牆外能用 Google 的華人們；還有一箇原因是系統自帶的簡體宋體无一箇能看的。
 - 訂閱此博客，可通過 RSS，或 MailChimp 郵件訂閱，點擊文末「郵件訂閱」卽可。
 - 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益及讚賞表](/blog/2018/11/06/zjuh.html)。You can support me via [paypal](https://paypal.me/kujihhoe).

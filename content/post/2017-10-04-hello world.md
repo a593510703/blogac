@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-07-23
+lastmod: 2019-08-06
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -1004,3 +1004,7 @@ extensionsmask = ["noIntraEmphasis"]
 ### 7 月 30 日
 
 關掉百度推送。
+
+### 8 月 6 日
+
+文件存儲從百度雲盤轉移到 Git LFS。
