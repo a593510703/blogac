@@ -93,6 +93,6 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 - 若發現文章中有不適冝的內容<n>如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等</n>，請儘速 [郵件](mailto:1@kqh.me) 或評論告知我，我將盡速處理。
 - 我用䋣體字，還有一些奇怪的寫法，一來爲了滿足自己的一些癖好；二來爲了過濾一些不想看的來訪者；三來照顧牆外能用 Google 的華人們；還有一箇原因是系統自帶的簡體宋體无一箇能看的。
 - 訂閱此博客，可通過 RSS，或 MailChimp 郵件訂閱，點擊文末「郵件訂閱」卽可。
-- 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益及讚賞表](/blog/2018/11/06/zjuh.html)。You can support me via [paypal](https://paypal.me/kujihhoe).
+- 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益及讚賞表](/blog/2018/11/06/zjuh.html)。可通過支付寶、[paypal](https://paypal.me/kujihhoe) 或 bitcoin `1GWQhWVpFGxKqwp7R6C7ayb2jyPrdPgCYr` 向我捐助。
 
 <img src="https://api.superbed.cn/pic/5bf82416c4ff9e058246008d" width="150" >
