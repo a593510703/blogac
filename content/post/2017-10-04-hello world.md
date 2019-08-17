@@ -1008,3 +1008,7 @@ extensionsmask = ["noIntraEmphasis"]
 ### 8 月 6 日
 
 文件存儲從百度雲盤轉移到 Git LFS。
+
+### 8 月 17 日
+
+leancloud 國內版必須要綁定域名，就遷移到了國際版。
