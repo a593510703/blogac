@@ -217,6 +217,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工的 PhD〕
 
+[海岛心hey](https://fehey.com)　Every 🐦 has an 🦅's dream.〔Gridea 一个简单、开源、强大的静态博客写作客户端〕
+
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
 
 [一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>友鏈於 20181031，2019 年 6 月再看，登不了網站了？</n1>
