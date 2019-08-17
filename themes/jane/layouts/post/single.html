@@ -34,13 +34,13 @@
         {{ if .Site.Params.moreMeta -}}
           <span class="more-meta"> {{ i18n "wordCount" .WordCount }}
         {{- end }}
-
-        {{ if .Site.Params.counter.leancloud.enable }}
-          <span id="{{ .URL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
+  <!--         {{ if .Site.Params.counter.leancloud.enable }}
+       <span id="{{ .URL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
             <span class="post-meta-item-text">點擊量 </span>
             <span class="leancloud-visitors-count"></span>
           </span>
         {{ end }}
+      -->
         </span>
       </div>
     </header>

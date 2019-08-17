@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-08-06
+lastmod: 2019-08-17
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -1011,4 +1011,4 @@ extensionsmask = ["noIntraEmphasis"]
 
 ### 8 月 17 日
 
-leancloud 國內版必須要綁定域名，就遷移到了國際版。
+leancloud 國內版必須要綁定域名，把評論和閱讀量統計都刪了。
