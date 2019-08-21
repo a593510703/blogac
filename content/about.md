@@ -9,7 +9,7 @@ menu:
   main:
     weight: 50
 url: /about/
-markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/about.md'
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/about.md'
 description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 ---
 
@@ -59,7 +59,7 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 # 五、曷所建之？
 
-1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a> [聚合圖牀](https://www.superbed.cn) 提供圖牀，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始</n>，[Valine](https://valine.js.org) 提供評論模塊，leancloud 提供文章點擊量統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>~~，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~，流量分析採用 Google Analytics。
+1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始</n>，評論模塊爲 ~~[Valine](https://valine.js.org)~~ [Gitalk](https://gitalk.github.io/)，~~leancloud 提供文章點擊量統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告，~~流量分析採用 Google Analytics。
 2. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kqh.me" target="\_blank">Google</a><n>Google 收錄得又全又快</n>，例子：`site:kqh.me 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
 3. 【大事記】詳見 [Hello world!](/blog/2017/10/04/hello world.html)
 

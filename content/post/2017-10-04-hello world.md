@@ -1011,7 +1011,7 @@ extensionsmask = ["noIntraEmphasis"]
 
 ### 8 月 17 日
 
-leancloud 國內版必須要綁定域名，把評論和閱讀量統計都刪了。
+由於政策原因，leancloud 國內版必須要綁定域名，把評論和閱讀量統計都刪了。
 
 ### 8 月 20 日
 

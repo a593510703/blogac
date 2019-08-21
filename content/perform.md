@@ -5,8 +5,8 @@ date: 2018-12-07
 lastmod: 2019-07-04
 categories: ["古琴"]
 tags: ["主葉"]
-url: /142/
-markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/142演出记录.md'
+url: /perform/
+markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/perform.md'
 ---
 
 # 表演記錄
