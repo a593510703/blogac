@@ -1012,3 +1012,7 @@ extensionsmask = ["noIntraEmphasis"]
 ### 8 月 17 日
 
 leancloud 國內版必須要綁定域名，把評論和閱讀量統計都刪了。
+
+### 8 月 20 日
+
+把評論遷移到了 gitalk，還要一個一個點開初始化，心累。valine 實在是最理想的評論系統了。不知道國外有沒有類似 leancloud 的平臺。
