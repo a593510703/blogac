@@ -1,0 +1,17 @@
+description = "歡迎打賞 bitcoin: 1GWQhWVpFGxKqwp7R6C7ayb2jyPrdPgCYr <a href="https://paypal.me/kujihhoe" target="_blank" >PayPal</a>"
+mail="me (at) kqh.me"
+url = "https://kqh.me/author/#柯棋瀚"
+[name]
+display = "柯棋瀚"
+
+[image]
+ url = "/head.jpg"
+ width = 110
+ height = 110
+
+
+# [en]
+# description = "haha"
+
+#[en.name]
+#display = "KE Qihan"
