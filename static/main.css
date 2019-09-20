@@ -48,7 +48,9 @@ hr{
   text-align: center;
   transition: 0.5s;
 }
-
+.pic{
+  overflow:scroll;
+}
     #intro .end{
 	border-bottom: #C41011 1px solid;
     padding: 0 0 3px 0;
