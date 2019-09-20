@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "古琴表演記錄"
 date: 2018-12-07
-lastmod: 2019-07-04
+lastmod: 2019-09-06
 categories: ["古琴"]
 tags: ["主葉"]
 url: /perform/
@@ -229,7 +229,9 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/perform.md'
 
 這次彈琴終於是有錢的了。
 
+#### （28）2019 秊 9 月 6 日，文院社團宣講
 
+彈了半分鐘《洞庭》。
 
 # 學琴順序
 
