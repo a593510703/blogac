@@ -171,6 +171,10 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [FAW.LIFE](https://faw.life)　追求極簡生活，對人，對事要求不高，一切以自然爲好
 
+[僞醫生律師的博客](https://chidd.net)　〔看關於葉面，挺有意思〕
+
+[Verkey's blog](https://blog.verkey.org/)　北方大汉在成都，某公司pre-sales
+
 ## 技術類
 
 [BYvoid](https://www.byvoid.com)　〔韻典網那清華大神，關鍵是還那麼帥！花癡臉〕
@@ -230,6 +234,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [旅行漫記](https://travel.synyan.net/54391)　〔老虎哥〕
 
 [Wayfarer Z](https://aboutmy.name)
+
+[无文字 | 三无计划](https://blog.imalan.cn/about/)　在首都念书的大学生。是个好人
 
 ## 設計類
 
