@@ -92,24 +92,26 @@ verticle: false
 
 <img src="https://gravatar.loli.net/avatar/7347cb9f09cbc939b642052c9b5fb70d"  width="60" alt="Alt Text" />　[博客樹](http://blogs.org.cn)<n1>20181111</n1>
 
-<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客，<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
+<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-[个站商店](http://storeweb.cn)　<n1>20181030，<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
+[个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
 
-[博客之家](https://zgblog.net)<n1>20181027，<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
+[博客之家](https://zgblog.net)<n1>20181027　<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
 
-<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029，<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
+<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
-[鹏仔网站导航](http://dh.iqzhan.cn)<n1>20181031，<a href="http://dh.iqzhan.cn/?id=130" target="\_blank">收錄葉</a></n1>
+[鹏仔网站导航](http://dh.iqzhan.cn)<n1>20181031　<a href="http://dh.iqzhan.cn/?id=130" target="\_blank">收錄葉</a></n1>
 
-[网址免费提交](http://submit-url-free.com)<n1>20181027，<a href="http://submit-url-free.com/?mod=siteinfo&wid=5599" target="_blank">收錄葉</a></n1>
+[网址免费提交](http://submit-url-free.com)<n1>20181027　<a href="http://submit-url-free.com/?mod=siteinfo&wid=5599" target="_blank">收錄葉</a></n1>
+
+[Blog We](https://blogwe.com/allblogs.html)<n1>20190309—20190929　感謝收錄我的博客　<a href="https://blogwe.com/kqh-ac.html" target="_blank">收錄葉</a></n1>
 
 [博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　〔這箇導航很不錯，等朙秊就去找佗們收錄〕
 
-~~[boke112导航](https://boke112.com)<n1>20181028，<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a>。201909 再看，沒了</n1>~~
+~~[boke112导航](https://boke112.com)<n1>20181028　<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a>　201909 再看，沒了</n1>~~
 
-~~[博客大全](http://daohang.zbzmtbk.com)<n1>20181108，<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a>。201909 再看，網站掛了</n1>~~
+~~[博客大全](http://daohang.zbzmtbk.com)<n1>20181108　<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a>　201909 再看，網站掛了</n1>~~
 
 ## 十秊之約
 
@@ -175,6 +177,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [Verkey's blog](https://blog.verkey.org/)　北方大汉在成都，某公司pre-sales
 
+[水八口](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
+
 ## 技術類
 
 [BYvoid](https://www.byvoid.com)　〔韻典網那清華大神，關鍵是還那麼帥！花癡臉〕
@@ -222,6 +226,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工的 PhD〕
 
 [海岛心hey](https://fehey.com)　Every 🐦 has an 🦅's dream.〔Gridea 一个简单、开源、强大的静态博客写作客户端〕
+
+[友人C](https://www.ihewro.com/)　〔一箇好看的 typecho 主題〕
 
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
 
