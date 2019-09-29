@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-08-17
+lastmod: 2019-09-20
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -963,6 +963,22 @@ font-weight: 700;
 
 修改作者信息的鏈接。首葉作者増加超鏈接。
 
+### 1 月 5 日
+
+Hugo 0.53
+
+### 2 月 2 日
+
+Hugo 0.54.0
+
+### 4 月 10 日
+
+Hugo 0.55.0
+
+### 5 月 4 日
+
+Hugo 0.55.5
+
 ### 5 月 18 日
 
 配置文件下面這行就可以解決斜體不能渲染的問題。
@@ -972,6 +988,10 @@ font-weight: 700;
 hrefTargetBlank = true
 extensionsmask = ["noIntraEmphasis"]
 ```
+
+### 6 月 5 日
+
+Hugo 0.55.6
 
 ### 6 月 14 日
 
@@ -1005,14 +1025,40 @@ extensionsmask = ["noIntraEmphasis"]
 
 關掉百度推送。
 
+### 8 月 2 日
+
+Hugo 0.56.3
+
 ### 8 月 6 日
 
 文件存儲從百度雲盤轉移到 Git LFS。
 
+### 8 月 15 日
+
+Hugo 0.57
+
 ### 8 月 17 日
+
+Hugo 0.57.1
 
 由於政策原因，leancloud 國內版必須要綁定域名，把評論和閱讀量統計都刪了。
 
 ### 8 月 20 日
 
 把評論遷移到了 gitalk，還要一個一個點開初始化，心累。valine 實在是最理想的評論系統了。不知道國外有沒有類似 leancloud 的平臺。
+
+### 8 月 30 日
+
+Hugo 0.57.2
+
+### 9 月 9 日
+
+Hugo 0.58.1
+
+### 9 月 19 日
+
+Hugo 0.58.2
+
+### 9 月 20 日
+
+Hugo 0.58.3
