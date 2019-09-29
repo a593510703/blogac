@@ -22,37 +22,7 @@ verticle: false
 - **描述**：不务正业的历史系学生一个    
 - **Logo**：https://www.superbed.cn/pic/5beed8ed9dc6d61ad66ee7d5
 
-# 一、推薦
-
-已下爲我找到的文學類博客。如有小伙伴知衟其佗的，歡迎告知。
-
-## 獨立博客
-
-[半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<n1>友鏈於 20181028</n1>
-
-<img src="https://yilanju.com/wp-content/uploads/2019/03/logo.png" width="120"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
-
-[臆站](http://lethetsou.com)　〔似乎比我小一級的中文系學生，自號臆客〕
-
-[逗號的文字電臺](https://chenfm.com)
-
-[寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
-
-<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一個友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
-
-## 非獨立博客
-
-[君子之學 惟求其是](https://zuluchang.wordpress.com)　Zulu est là〔旣西哲又中哲又古琴又調學，必須推薦。只是 2012 秊之後沒㪅新了，感覺象是大學敎授？〕
-
-[天祿閣曲談](https://linoluu.wordpress.com)　這是一個研究中國的文學、音樂、戲曲的園地〔稍有點民科〕
-
-[黃安年](http://blog.sciencenet.cn/home.php?mod=space&uid=415)　〔我院退休的黃老師〕
-
-[書-會-兒的博客](http://blog.sina.com.cn/pengyong)　〔中央民族大學歷史文化學院院長彭勇敎授〕
-
-[詹衛東箇人主葉](http://ccl.pku.edu.cn/doubtfire/)　〔北大一位語言學敎授〕
-
-# 二、有鄰
+# 一、有鄰
 
 已下爲互換了友鏈的小伙伴<n1>按添加時閒排序</n1>：
 
@@ -84,30 +54,67 @@ verticle: false
 
 <img src="https://pic.superbed.cn/item/5cd257c63a213b0417f916c0.gif" width="60" alt="Alt Text" />　[格子老師](https://manman.qian.lu/)　遇見每一箇孩子的成長〔感謝添加友鏈。一位小學老師，用博客布置作業，學到了，如果我以後當老師，也要這樣，堅決不用什麼微信群〕<n1>20190508</n1>
 
-# 三、推廣
+# 二、推薦
 
-## 導航
+已下爲我找到的文史類博客。如有小伙伴知衟其佗的，歡迎告知。
+
+## 獨立博客
+
+[半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<n1>友鏈於 20181028</n1>
+
+<img src="https://yilanju.com/wp-content/uploads/2019/03/logo.png" width="120"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
+
+[臆站](http://lethetsou.com)　〔似乎比我小一級的中文系學生，自號臆客〕
+
+[逗號的文字電臺](https://chenfm.com)
+
+[寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
+
+<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一個友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
+
+## 非獨立博客
+
+[君子之學 惟求其是](https://zuluchang.wordpress.com)　Zulu est là〔旣西哲又中哲又古琴又調學，必須推薦。只是 2012 秊之後沒㪅新了，感覺象是大學敎授？〕
+
+[天祿閣曲談](https://linoluu.wordpress.com)　這是一個研究中國的文學、音樂、戲曲的園地〔稍有點民科〕
+
+[黃安年](http://blog.sciencenet.cn/home.php?mod=space&uid=415)　〔我院退休的黃老師〕
+
+[書-會-兒的博客](http://blog.sina.com.cn/pengyong)　〔中央民族大學歷史文化學院院長彭勇敎授〕
+
+[詹衛東箇人主葉](http://ccl.pku.edu.cn/doubtfire/)　〔北大一位語言學敎授〕
+
+# 三、導航推廣
 
 本站收錄於已下博客衟杭：
 
+## A 類
+
+[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　〔這箇導航很不錯，等朙秊就去找佗們收錄〕
+
+[个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
+
+[Blog We](https://blogwe.com/allblogs.html)<n1>20190309—20190929　感謝收錄我的博客　<a href="https://blogwe.com/kqh-ac.html" target="_blank">收錄葉</a></n1>
+
 <img src="https://gravatar.loli.net/avatar/7347cb9f09cbc939b642052c9b5fb70d"  width="60" alt="Alt Text" />　[博客樹](http://blogs.org.cn)<n1>20181111</n1>
+
+[奇草導航](https://www.qicao.cn/?keyword=%E8%B5%AB%E8%B5%AB%E6%96%87%E7%8E%8B)
+
+## B 類
 
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-[个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
-
-[博客之家](https://zgblog.net)<n1>20181027　<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
 
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
+
+[博客之家](https://zgblog.net)<n1>20181027　<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
 
 [鹏仔网站导航](http://dh.iqzhan.cn)<n1>20181031　<a href="http://dh.iqzhan.cn/?id=130" target="\_blank">收錄葉</a></n1>
 
 [网址免费提交](http://submit-url-free.com)<n1>20181027　<a href="http://submit-url-free.com/?mod=siteinfo&wid=5599" target="_blank">收錄葉</a></n1>
 
-[Blog We](https://blogwe.com/allblogs.html)<n1>20190309—20190929　感謝收錄我的博客　<a href="https://blogwe.com/kqh-ac.html" target="_blank">收錄葉</a></n1>
-
-[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　〔這箇導航很不錯，等朙秊就去找佗們收錄〕
+[博客啦](https://www.boke.la/tijiao)<n1>待收錄</n1>
 
 ~~[boke112导航](https://boke112.com)<n1>20181028　<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a>　201909 再看，沒了</n1>~~
 
@@ -115,7 +122,7 @@ verticle: false
 
 ## 十秊之約
 
-我於 2018 秊 10 月 28 日簽約 [十秊之約](https://www.foreverblog.cn)，11 月 14 日審核通過。希望這箇博客能堅持一輩子（如果那旹還有网站這箇東西的話）。這天數了一下，成員二百一十多箇。如果願意的話，我們可以把數字擴大十倍，中國目前活躍的各類箇人獨立博客可能有兩千箇。
+我於 2018 秊 10 月 28 日簽約 [十秊之約](https://www.foreverblog.cn)，11 月 14 日審核通過。希望這箇博客能堅持一輩子（如果那旹還有网站這箇東西的話）。這天數了一下，成員二百一十多箇。如果願意的話，我們可以把數字擴大兩倍，中國目前活躍的各類箇人獨立博客可能有六百箇。
 
 # 四、師友們
 
@@ -232,6 +239,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
 
 [一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>友鏈於 20181031，2019 年 6 月再看，登不了網站了？</n1>
+
+[燴餅](https://zhb.xyz/)　本科在读，计算机科学与技术专业，家乡山西太原，现居北京。现状：读书、练字、健身、学习乐器、算法训练、不听课。
 
 ## 旅行類
 
