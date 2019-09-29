@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-09-20
+lastmod: 2019-09-29
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -1062,3 +1062,7 @@ Hugo 0.58.2
 ### 9 月 20 日
 
 Hugo 0.58.3
+
+### 9 月 29 日
+
+高度從 105%調到了 93%

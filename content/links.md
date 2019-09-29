@@ -30,7 +30,7 @@ verticle: false
 
 [半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<n1>友鏈於 20181028</n1>
 
-<img src="https://cdn.yilanju.com/wp-content/uploads/2019/03/logo.png" width="120"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
+<img src="https://yilanju.com/wp-content/uploads/2019/03/logo.png" width="120"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
 
 [臆站](http://lethetsou.com)　〔似乎比我小一級的中文系學生，自號臆客〕
 
