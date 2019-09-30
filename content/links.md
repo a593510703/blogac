@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "友鏈"
 date: 2018-10-27
-lastmod: 2019-09-29
+lastmod: 2019-09-30
 categories: ["站務"]
 tags: ["公告"]
 menu:
@@ -53,6 +53,8 @@ verticle: false
 <img src="https://love109.cn/images/love109.jpg" width="60" alt="Alt Text" />　[LOVE109❤️纪实小屋](https://love109.cn/)　記錄愛情❤️記錄生活〔今天正好情人節，祝長久〕<n1>20190214</n1>
 
 <img src="https://pic.superbed.cn/item/5cd257c63a213b0417f916c0.gif" width="60" alt="Alt Text" />　[格子老師](https://manman.qian.lu/)　遇見每一箇孩子的成長〔感謝添加友鏈。一位小學老師，用博客布置作業，學到了，如果我以後當老師，也要這樣，堅決不用什麼微信群〕<n1>20190508</n1>
+
+[孤鬪](http://d-d.design/)　按個人喜好分享自己的一些東西，但也不拒絕合作或是業務咨詢。如以個人計，孤鬪側重於平面廣告設計、網站 埶 設計和前端開發。若以團隊合作和朋友圈資源計，則各種網站、系統或軟件，手機 APP，微信小程序之類的程序開發，咱也是相當專業。
 
 # 二、推薦
 
@@ -105,7 +107,6 @@ verticle: false
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
 [博客之家](https://zgblog.net)<n1>20181027　<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
@@ -182,7 +183,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [僞醫生律師的博客](https://chidd.net)　〔看關於葉面，挺有意思〕
 
-[Verkey's blog](https://blog.verkey.org/)　北方大汉在成都，某公司pre-sales
+[Verkey's blog](https://blog.verkey.org/)　北方大漢在成都，某公司pre-sales
 
 [水八口](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
 
