@@ -3,7 +3,7 @@ author: "柯棋瀚"
 title: "毛中特下"
 date: 2018-11-23
 lastmod: 2018-11-23
-categories: ["功課"]
+categories: ["歷史"]
 tags: ["課業"]
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/131mcgd.md'
 description: '大三下公共必修課<v>毛中特下</v>的作業。繁簡自動轉換，可能有錯。沒有任何水平，全是抄的教材。第三篇是小組展示，我負責第三部分，費了點匘子把材料組合在一起<n>好歹也是一天旹閒呢</n>。期末我也沒背，感謝老師不挂之恩。'
