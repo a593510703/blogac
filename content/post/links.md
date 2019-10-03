@@ -54,7 +54,7 @@ verticle: false
 
 <img src="https://pic.superbed.cn/item/5cd257c63a213b0417f916c0.gif" width="60" alt="Alt Text" />　[格子老師](https://manman.qian.lu/)　遇見每一箇孩子的成長〔感謝添加友鏈。一位小學老師，用博客布置作業，學到了，如果我以後當老師，也要這樣，堅決不用什麼微信群〕<n1>20190508</n1>
 
-[孤鬪](http://d-d.design/)　按個人喜好分享自己的一些東西，但也不拒絕合作或是業務咨詢。如以個人計，孤鬪側重於平面廣告設計、網站設計和前端開發。若以團隊合作和朋友圈資源計，則各種網站、系統或軟件，手機 APP，微信小程序之類的程序開發，咱也是相當專業。
+<img src="https://pic.superbed.cn/item/5d961175451253d178682e7f.jpg" width="120">　[孤鬪](http://d-d.design/)　做自己，不隨波逐流，不妥協。<n1>20190930</n1>
 
 # 二、推薦
 
