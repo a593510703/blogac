@@ -1085,3 +1085,9 @@ Hugo 0.58.3
 `{{ with .OutputFormats.Get "RSS" }}`
 `<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />`
 `{{ end }}`
+
+但 RSS 依然有問題，似乎是 Hugo 某次升級之後出現的。
+
+葉腳的不蒜子統計有問題，暫時撤掉。
+
+更換 logo。

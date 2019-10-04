@@ -20,7 +20,7 @@ verticle: false
 - **名称**　赫赫文王   
 - **地址**　https://kqh.me       
 - **描述**　不务正业的历史系学生一个    
-- **Logo**　https://www.superbed.cn/pic/5beed8ed9dc6d61ad66ee7d5
+- **Logo**　https://pic.superbed.cn/item/5d974e50451253d178cf241e.png
 
 # 一、有鄰
 
