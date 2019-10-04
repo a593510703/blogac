@@ -888,7 +888,7 @@ scroll-behavior: smooth;
   </div>
 <div class="post-content">
   {{ .Content }}
-  <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp\</i>
+  <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart.svg"}}&nbsp\</i>
 </div>
   {{ else }}
     <div class="post-content2">
@@ -899,7 +899,7 @@ scroll-behavior: smooth;
       <div class="description"><div class="description1">{{ .Params.Description | safeHTML }}</div></div>
       {{ end }}
       {{ .Content }}
-      <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart1.svg"}}&nbsp/</i>
+      <i class="heart" style="padding: 0 60px 0 60px;float:right">{{ partial "svg/heart.svg"}}&nbsp/</i>
 </div>
     {{ end }}
  ```
