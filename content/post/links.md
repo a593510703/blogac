@@ -17,10 +17,10 @@ verticle: false
 
 要求：**非**技術類優先。維持運營一年以上，並將長期維護。友鏈上限爲 30—35 箇。本站信息如下，並可按此格式回復：
 
-- **名称**：赫赫文王   
-- **地址**：https://kqh.me       
-- **描述**：不务正业的历史系学生一个    
-- **Logo**：https://www.superbed.cn/pic/5beed8ed9dc6d61ad66ee7d5
+- **名称**　赫赫文王   
+- **地址**　https://kqh.me       
+- **描述**　不务正业的历史系学生一个    
+- **Logo**　https://www.superbed.cn/pic/5beed8ed9dc6d61ad66ee7d5
 
 # 一、有鄰
 

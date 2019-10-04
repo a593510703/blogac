@@ -384,7 +384,7 @@ Full SSL (strict): Your origin has a valid certificate (not expired and signed b
 
 ### 11 月 21 日
 
-略調主業佈局
+略調主葉佈局
 
 ### 11 月 22 日
 
@@ -513,10 +513,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-
+    
             args = arguments;
             thisArg = this;
-
+    
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -538,7 +538,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-
+    
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -547,16 +547,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-
+    
         setTocClass();
-
+    
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-
+    
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -602,7 +602,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-
+    
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -1067,6 +1067,21 @@ Hugo 0.58.3
 
 高度從 105%調到了 98%。Firefox、Brave 和 Chrome、Safari 高度不一樣，前者多，後者少，98 剛好能兼容兩者。
 
-### 10 月 2 日
+### 10 月 2、3 日
 
 調整目錄
+
+### 10 月 4 日
+
+把
+
+`{{ if .RSSLink -}}`
+
+`<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />`
+`{{ end -}}`
+
+改成了
+
+`{{ with .OutputFormats.Get "RSS" }}`
+`<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />`
+`{{ end }}`
