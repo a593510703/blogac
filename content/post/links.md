@@ -56,6 +56,8 @@ verticle: false
 
 <img src="https://pic.superbed.cn/item/5d961175451253d178682e7f.jpg" width="120">　[孤鬪](http://d-d.design/)　做自己，不隨波逐流，不妥協。<n1>20190930</n1>
 
+[瓠樽](http://blog.dylanwu.space/)　〔直排網葉的同道中人〕
+
 # 二、推薦
 
 已下爲我找到的文史類博客。如有小伙伴知衟其佗的，歡迎告知。
@@ -268,6 +270,8 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [reuixiy](https://reuixiy.github.io/)　〔喜歡排版的同道中人〕
 
 [羡辙杂俎](http://zhangwenli.com/blog/)　〔這界面，太厲害啦！！！！〕
+
+[九十九封信](https://blog.99xin.me/)　〔顏值高〕
 
 ## 小鮮肉
 
