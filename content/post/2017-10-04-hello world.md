@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-09-29
+lastmod: 2019-10-05
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -27,6 +27,10 @@ verticle: false
 # 更新日誌
 
 ## 第一版
+
+<img src="https://pic.superbed.cn/item/5d980fb8451253d1782b0f51.png" width="600">
+
+<img src="https://pic.superbed.cn/item/5d980fb8451253d1782b0f53.png" width="600">
 
 ### 10 月 3 日
 
@@ -208,6 +212,8 @@ paginate_path: "page:num"
 現在再看頭幾天進行的修改，簡直太小兒科了。
 
 ## 第二版
+
+<img src="https://pic.superbed.cn/item/5d980d70451253d1782ab855.png" width="800">
 
 ### 10 月 27 日
 
@@ -675,6 +681,12 @@ netlify 有「pretty urls」功能，打開後就沒有後綴 .html，肰而這�
 竟然在桌面網頁看到了谷歌廣告，開心！
 
 ## 第三版
+
+<img src="https://pic.superbed.cn/item/5d980ef7451253d1782af750.jpg" width="300">
+
+<img src="https://pic.superbed.cn/item/5d980ef8451253d1782af754.jpg" width="300">
+
+<img src="https://pic.superbed.cn/item/5d980ef8451253d1782af756.jpg" width="300">
 
 ### 11 月 21、22 日
 
