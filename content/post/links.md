@@ -72,13 +72,13 @@ verticle: false
 
 [寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
 
-<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一個友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
+<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一箇友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
 
 ## 非獨立博客
 
 [君子之學 惟求其是](https://zuluchang.wordpress.com)　Zulu est là〔旣西哲又中哲又古琴又調學，必須推薦。只是 2012 秊之後沒㪅新了，感覺象是大學敎授？〕
 
-[天祿閣曲談](https://linoluu.wordpress.com)　這是一個研究中國的文學、音樂、戲曲的園地〔稍有點民科〕
+[天祿閣曲談](https://linoluu.wordpress.com)　這是一箇研究中國的文學、音樂、戲曲的園地〔稍有點民科〕
 
 [黃安年](http://blog.sciencenet.cn/home.php?mod=space&uid=415)　〔我院退休的黃老師〕
 
