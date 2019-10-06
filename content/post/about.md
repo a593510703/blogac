@@ -13,7 +13,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/about.md'
 description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 ---
 
-# 一、我疇？
+# 一、我<ruby><rb>疇</rb><rt>chóu</rt></ruby>？
 
 見 [我的主葉](/)。投稿、交換友鏈及其他任何問題都可以發郵件或在文末評論。
 
