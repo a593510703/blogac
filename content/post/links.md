@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "友鏈"
 date: 2018-10-27
-lastmod: 2019-09-30
+lastmod: 2019-10-06
 categories: ["站務"]
 tags: ["公告"]
 menu:
@@ -57,6 +57,10 @@ verticle: false
 <img src="https://pic.superbed.cn/item/5d961175451253d178682e7f.jpg" width="120">　[孤鬪](http://d-d.design/)　做自己，不隨波逐流，不妥協。<n1>20190930</n1>
 
 [瓠樽](http://blog.dylanwu.space/)　〔直排網葉的同道中人〕
+
+<img src="https://fengz.me/Avatar.jpg" width="60">　[風過不留痕](https://fengz.me)　望尽天涯路<n1>20191006</n1>
+
+
 
 # 二、推薦
 
