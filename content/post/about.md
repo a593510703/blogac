@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "緫敘"
 date: 2017-10-04
-lastmod: 2019-10-02
+lastmod: 2019-10-07
 categories: ["站務"]
 tags: ["公告"]
 menu:
@@ -21,9 +21,8 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 一箇小朋友的小天地，爲所欲爲的自畱地，自己想怎麼排版就怎麼排，想改就改想刪就刪。這博客太无聊了，而且都是沒什麼價値的口水話，相信絕大多數讀者點進來就會馬上關掉。
 
-博客是作爲我箇人主葉的一部分。除了這箇博客有緫序，「古琴」「實地錄音」「書法」「讀中古音」「旁白配音」均有各自的自序，介紹我爲什麼做這些事情。（都是模仿的太史公自序呢）
-
-建站兩周年之際，啓用新 logo。來源是何尊銘文。
+- 除了這箇博客有緫序，「古琴」「實地錄音」「書法」「讀切韻音」「旁白配音」均有各自的自序，介紹我爲什麼做這些事情。（都是模仿的太史公自序呢）
+- 建站兩周年之際，啓用新 logo。來源是何尊銘文。
 
 # 三、曷㠯建之？
 
@@ -40,22 +39,43 @@ description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 
 # 四、然則曷所記也？
 
-- 按「分類」和「系列」進行索引。每篇文章按性質進行分類，只有一箇分類，而有一至多箇系列。有些小分類可能會和系列重名，如「站務」「泥爪」旣是分類又是系列，「生活」分類下有「立言記」和「生活」等系列。下面用【】表示分類，用◎表示系列。
-- 【古琴】絃耕記◎有關古琴的一些心得、論文。絃耕知聞◎非自己原刱的，如筆記、見聞、交遊等。絃耕紀日◎古琴日記，日常感想、與琴友的交遊、通信、看到的訊息都記上去，大槩半秊一篇。
-- 【經學】元麟記◎有關旾秌的，始元終麟嘛。學禮記◎有關三禮的，未想好名字，暫旹用此。尼凥記◎有關孝經的，因爲開篇是「仲尼凥，曽子侍」。雩若記◎有關尙書的，因爲開頭那幾篇都是「曰若稽古某某」，而「曰」一作「粵」，「粵」古又作「雩」
-- 【書法】墨池記◎有關書法的想法、記錄等
-- 【歷史◎】有關歷史學的。課業◎上課的作業。這一部分完全可以不用看，沒什麼價値，完全用來湊字數。放在這裏不過是爲了方便有需要的同學可以拿來用，以減少一些寫課程論文的不必要的時閒浪費，也算是對大學浪費的時閒一箇小小的交代。想想我爲了交作業，寫了多少垃圾，浪費了多少寶貴旹閒啊。至於版權的問題，如果用來當作業素材的話，隨便複製粘貼就是。至於在網上傳播用，則遵循本博客一貫的 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
-- 【編輯排版】彫梓記◎有關字體、排版、編輯的。春秋學刊◎北師大歷史學院本科生學術刊物<v>春秋學刊</v>的目次<n>半秊刊，至少未來幾年我還在師大就會繼續㪅</n>
-- 【錄音】斂聲記◎實地錄音<n>田埜錄音</n>的一些記錄
-- 【語言】方音記◎有關方言的。音韻◎關於切韻音之類，我純粹只是接觸了皮毛。文字◎文字學，還沒開始學呢。
-- 【生活◎】立言記◎2017 下半秊在臺灣交換，會發一些沒見識的流水帳口水話遊記。生活◎各種日常瑣碎啊，囘憶啊，用品啊
-- 【站務◎】有關网站自身的
-- 金手指◎以專題形式，用最少的字數搭建知識體系的框架。旨在把學術帶向人閒。<n>主要是因爲有些東西網絡上不好找，書上現成的多一些。「金手指」指童稚旹遊戲機的作弊器</n>
+本站文章按「分類」和「系列」進行索引。分類近似於「學科門類」，系列近似於體裁、性質。每篇文章只有一箇分類，而有一至三箇系列。有些分類可能會和系列重名。
 
+## 分類
+
+目前有 9 箇分類：古琴、經學、歷史、書法、錄音、編輯排版、漢語、生活、站務，顧名思義，很好理解。
+
+## 系列
+
+- 絃耕記：有關古琴的一些心得、論文
+- 絃耕知聞：非自己原刱的，如筆記、見聞、交遊等
+- 絃耕紀日：古琴日記，日常感想、與琴友的交遊、通信、看到的訊息都記上去，大槩半秊一篇
+- 金手指：以專題形式，用最少的字數搭建知識體系的框架。旨在把學術帶向人閒。<n>主要是因爲有些東西網絡上不好找，書上現成的多一些。「金手指」指小時候遊戲機的作弊器</n>
+- 學禮記：有關三禮的，未想好名字，暫旹用此
+- 尼凥記：有關孝經的，因爲開篇是「仲尼凥，曽子侍」
+- 雩若記：有關尙書的，因爲開頭那幾篇都是「曰若稽古某某」，而「曰」一作「粵」，「粵」古又作「雩」
+- 元麟記：有關旾秌的，始元終麟嘛。
+- 歷史
+- 課業：上課的作業。這一部分完全可以不用看，沒什麼價値，完全用來湊字數。放在這裏不過是爲了方便有需要的同學可以拿來用，以減少一些寫課程論文的不必要的時閒浪費，也算是對大學浪費的時閒一箇小小的交代。想想我爲了交作業，寫了多少垃圾，浪費了多少寶貴旹閒啊。至於版權的問題，如果用來當作業素材的話，隨便複製粘貼就是。至於在網上傳播用，則遵循本博客一貫的 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+- 學務：上學期間雜七雜八的東西
+- 展覽：觀展介紹
+- 墨池記：有關書法的想法、記錄等
+- 斂聲記：實地錄音<n>田埜錄音</n>的一些記錄
+- 資訊：轉載性質的，外加自己的加工、案語
+- 彫梓記：有關字體、排版、編輯的
+- 春秋學刊：北師大歷史學院本科生學術刊物<v>春秋學刊</v>的目次<n>半秊刊，至少未來幾年我還在師大就會繼續㪅</n>
+- 小學：文字學、音韻學，但還沒開始學呢
+- 方音記：有關方言的。其實也算「小學」，但特殊一些，獨立出來
+- 生活：各種日常瑣碎啊，囘憶啊，用品啊
+- 遊記：出去逛逛
+- 立言記：算「遊記」的一部分，但特殊一些，獨立出來。2017 下半秊在臺灣交換，會發一些沒見識的流水帳口水話遊記
+- 公告：本站公告
+- 統計
+- 主葉：置頂、日紀性質的文章，通常會長期更新
 
 # 五、曷所建之？
 
-1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始</n>，評論模塊爲 ~~[Valine](https://valine.js.org)~~ [Gitalk](https://gitalk.github.io/)，~~leancloud 提供文章點擊量統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告，~~流量分析採用 Google Analytics。
+1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n>自 20171021 開始，目前不顯示，因爲跟谷歌的比誤差有點大</n>，評論模塊爲 ~~[Valine](https://valine.js.org)~~ [Gitalk](https://gitalk.github.io/)，~~leancloud 提供文章點擊量統計<n>20181026 之歬爲 UV，之後開始累加 PV</n>，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告，~~流量分析採用 Google Analytics。
 2. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kqh.me" target="\_blank">Google</a><n>Google 收錄得又全又快</n>，例子：`site:kqh.me 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
 3. 【大事記】詳見 [Hello world!](/blog/2017/10/04/hello world.html)
 
