@@ -113,15 +113,15 @@ verticle: false
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
+<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a>[網址大全](http://www.98du.net/bk/246.html)</n1>
 
-[博客之家](https://zgblog.net)<n1>20181027　<a href="https://eps.gs/ecC" target="_blank">收錄葉</a></n1>
+[博客之家](https://likinming.com)<n1>20181027　<a href="https://likinming.com/post-3878.html" target="_blank">收錄葉</a></n1>
 
 [鹏仔网站导航](http://dh.iqzhan.cn)<n1>20181031　<a href="http://dh.iqzhan.cn/?id=130" target="\_blank">收錄葉</a></n1>
 
 [网址免费提交](http://submit-url-free.com)<n1>20181027　<a href="http://submit-url-free.com/?mod=siteinfo&wid=5599" target="_blank">收錄葉</a></n1>
 
-[博客啦](https://www.boke.la/tijiao)<n1>待收錄</n1>
+[爲簡收錄](http://navi.cnfunny.cn/bk/246.html)
 
 ~~[boke112导航](https://boke112.com)<n1>20181028　<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a>　201909 再看，沒了</n1>~~
 
