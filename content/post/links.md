@@ -36,7 +36,7 @@ verticle: false
 
 <img src="https://secure.gravatar.com/avatar/432d8583e332c3c170e590c6dff16d7a?s=400&d=identicon&r=g"  width="60" alt="Alt Text" />　[@修己](https://ji.ci/msg)　修己安人<n1>20181029</n1>
 
-<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2019/07/06/99c41f94adb8441c9532ab1c577cdb67.png' alt='肥柴之家' width="100px"></a>　[肥柴之家](https://www.cnzknet.com)<n1>20181029</n1>
+<a href='https://www.cnzknet.com' target='_blank'><img src='https://images.cnzknet.com/images/2019/07/06/99c41f94adb8441c9532ab1c577cdb67.png' alt='肥柴之家' width="70px"></a>　[肥柴之家](https://www.cnzknet.com)<n1>20181029</n1>
 
 [那束陽光](https://Eveaz.com)　寫寫自己的故事，想想自己的未來！<n1>20181030</n1>
 
@@ -58,7 +58,7 @@ verticle: false
 
 <img src="https://pic.superbed.cn/item/5d961175451253d178682e7f.jpg" width="120">　[孤鬪](http://d-d.design/)　做自己，不隨波逐流，不妥協。<n1>20190930</n1>
 
-[瓠樽](http://blog.dylanwu.space/)　〔直排網葉的同道中人〕
+[瓠樽](http://blog.dylanwu.space/)　〔直排網葉的同道中人〕<n1>20191007</n1>
 
 <img src="https://fengz.me/Avatar.jpg" width="60">　[風過不留痕](https://fengz.me)　望尽天涯路<n1>20191006</n1>
 
@@ -115,7 +115,10 @@ verticle: false
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a>[網址大全](http://www.98du.net/bk/246.html)</n1>
+
+<a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
+
+[網址大全](http://www.98du.net/bk/246.html)
 
 [博客之家](https://likinming.com)<n1>20181027　<a href="https://likinming.com/post-3878.html" target="_blank">收錄葉</a></n1>
 
