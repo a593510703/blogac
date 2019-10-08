@@ -42,6 +42,8 @@ verticle: false
 
 <img src="https://dayday.plus/wp-content/uploads/2018/09/hp.jpg" width="60">　[夏和帆的博客](https://dayday.plus)　走走停停，寫寫看看〔西安交大，和我同齡，研究生去蘇黎世高工的學霸〕<n1>20181031</n1>
 
+<img src="https://www.moonster.top/usr/uploads/2018/08/2446272771.jpg" width="60">　[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>20181031</n1>
+
 <img src="https://file.dxq520.cn/wp-content/uploads/2018/08/logo.png" width="200" alt="Alt Text" />　[兩个有意思的](https://dxq520.cn)　小小酥和小可愛的情侶博客。<n1>20181102</n1>
 
 <img src="https://www.superbed.cn/pic/5bf0b56ac4ff9e24a0d68679" width="60" alt="Alt Text" />　[及時行樂](https://www.jsxlo.com)　冷涵，學生，信息安全專業。記錄生活的點點滴滴<n1>20181103</n1>
@@ -244,8 +246,6 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [友人C](https://www.ihewro.com/)　〔一箇好看的 typecho 主題〕
 
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
-
-[一去二三遥](https://www.moonster.top)　一箇想當攝影師却被迫寫代碼的廚子。功法：主修 C++，輔修 Java<n1>友鏈於 20181031，2019 年 6 月再看，登不了網站了？</n1>
 
 [燴餅](https://zhb.xyz/)　本科在读，计算机科学与技术专业，家乡山西太原，现居北京。现状：读书、练字、健身、学习乐器、算法训练、不听课。
 
