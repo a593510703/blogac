@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2019-10-05
+lastmod: 2019-10-09
 categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
@@ -1107,3 +1107,7 @@ Hugo 0.58.3
 ### 10 月 5 日
 
 修復 RSS。葉腳加入 subscribe。
+
+### 10 月 9 日
+
+給橫排加上最大寬度 900px，但整個黃色框的範圍我沒法調小，只能用跟直排一樣的寬度。
