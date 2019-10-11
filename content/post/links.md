@@ -115,7 +115,6 @@ verticle: false
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
 <script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
-
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
 [網址大全](http://www.98du.net/bk/246.html)
@@ -140,7 +139,7 @@ verticle: false
 
 已下爲我的老師、朋友們的平臺（獨立博客優先）：
 
-<img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowling](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。〔隔壁的多材多蓺的程序媛師姐的博客〕
+<img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowling](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。〔隔壁的多材多蓺的程序媛師姐的博客。師姐現在去 Surrey 大學讀博啦 🎉〕
 
 大動物的 [豆瓣](https://www.douban.com/people/178199972/)、[知乎](https://www.zhihu.com/people/hua-zhe-80/activities)。〔新書出版，走過路過不要錯過！〕
 
