@@ -7,40 +7,55 @@ categories: ["錄音"]
 tags: ["主葉"]
 url: /recording/
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/recording.md'
-description: '請大家在安静的地方戴著耳機聽。'
+description: '在日常生活中，耳朵聽到的聲音往往被我们忽畧，而現在，我将在這裏發布我的實地錄音，帶大家重新理解聆聽，感受聲音的彊大表現力。請在安静的地方戴著耳機聽。In daily life, the sound heard by the ear is often overlooked by us. Now, I will post my field recording here, trying to lead everyone re-understand listening, and feel the expressive power of the sound. Please wear headphones in a quiet place.'
+verticle: false
 ---
 
-##  Vol.1　臺北十二月三十一日
-
-<listen>[立卽收聽](https://music.163.com/#/program?id=1369247248)</listen><time1>2018-05-13</time1>采集於<time1>2017-12-31</time1>
-
-臺北跨年夜的熱鬧。這次比臺南的那箇滿意一些，素材收集得多了，用起來順手一點。一共翦了 4 箇小時。用了三處混音，把環境聲和要突出的聲音分開來錄，效果的確好一些。㪅多見 [2018 二〇一八](/blog/2018/01/01/xbnm.html)。
-
-##  Vol.2　臺南十二月二十四日
+##  Vol. 1　臺南十二月二十四日 Tainan on December 24
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=1369247249)</listen><time1>2018-05-13</time1>采集於<time1>2017-12-23/24/25</time1>
 
 聖誕節那天臺南的人們。扗想用什麼方式組織起來，那就這樣吧，由三條線構成：傳統—西方—戒嚴時期，㞡現平安夜臺南各種文化的神奇交匯。但素材不夠，內容還不夠豐富，㠯後吸取經驗了，要廣泛搜集素材。（㝡巧的是 3:47 左右那箇唱跑調的小朋友的頻率和後面嗩吶的頻率竟然蜜汁接近，歬後竟然可㠯完美融合！）㪅多見 [我❤府城──府城客運](/blog/2017/12/26/tdnj.html)。
 
-人生第一箇錄音作品。大部分用 H2N 錄的，第一次感受到它的威力，感覺比用耳朵聽還淸楚，各種聲音都能辨別出來，㝡後的鼓掌歡呼聲竟然跟那些演唱會 live 沒啥兩樣，很是驚喜。
+人生第一箇錄音作品。大部分用 Zoom H2N 錄的，第一次感受到它的威力，感覺比用耳朵聽還淸楚，各種聲音都能辨別出來，㝡後的鼓掌歡呼聲竟然跟那些演唱會 live 沒啥兩樣，很是驚喜。
 
-##  Vol.3　宿舍下打乒乓球的大媽
+People in Tainan on Christmas Day. The recording consists of three lines: the traditional, Western, and martial law period. It reveals the magical convergence of various cultures in Tainan on Christmas Eve. However, the material is not sufficient, the content is not rich enough. I learn the experience that it is necessary to collect materials extensively. (Occasionally, the frequency of the child's singing around 3:47 and the frequency of the back Suona are tremendously close.) See [I ❤ fucheng —— Fucheng passenger transport](/ Blog/2017/12/26/tdnj.html) for details.
+
+The first recording of life. Most of them recorded with Zoom H2N. Felt the power of it, it feels more difficult than listening to the ear, all kinds of sounds can be discerned. Surprised.
+
+##  Vol. 2　臺北十二月三十一日 Taipei on December 31
+
+<listen>[立卽收聽](https://music.163.com/#/program?id=1369247248)</listen><time1>2018-05-13</time1>采集於<time1>2017-12-31</time1>
+
+臺北跨年夜的熱鬧。這次比臺南的那箇滿意一些，素材收集得多了，用起來順手一點。一共翦了 4 箇小時。用了三處混音，把環境聲和要突出的聲音分開來錄，效果的確好一些。㪅多見 [2018 二〇一八](/blog/2018/01/01/xbnm.html)。
+
+The fun of Taipei’s New Year’s Eve. This is more satisfactory than *Tainan*, as the material was collected much more. I spent a total of 4 hours. I recorded the sound to be highlighted and the ambience separately, and used three remixes. The effect is definitely better. See [2018 2018](/blog/2018/01/01/xbnm.html) for details.
+
+##  Vol. 3　宿舍下打乒乓球的大媽 Aunt playing table tennis under my dormitory
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=1369269643)</listen><time1>2018-05-13</time1>
 
 宿舍下打乒乓球的大媽。後來，那幾張乒乓球桌一夜之閒沒了，我們終於獲得了寧靜。
 
-## Vol.4　凌晨三點的新發地
+Aunt playing table tennis under my dormitory. Later, the  table tennis tables were gone for a night, and we finally got peace.
+
+## Vol. 4　凌晨三點的新發地 Sinfati at 3 am
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=1369475470)</listen><time1>2018-05-29</time1>
 
-### 介紹
+### 介紹 Introduction
 
 兩點，計程車依然很多，根本用不著預約。三點，前來采購的老闆們拿著手電筒照來照去。四點，天已發蒙，新的一天到來了。五點，保潔師傅開始工作了，在學生們看來還是半夜。
 
 這是從 80 分鐘中剪出來的。內容介紹：報警聲——拖車——喇叭——從大車上卸貨，火龍果一箱一箱扔下來——賣櫻桃的：「這箇給你八塊五」——「產地不一樣」——「微信一天只能轉一萬」——賣草莓的：「明天就好了不用挑了，幫一下忙好不好」「你留箇微信留箇電話，直接過來拿就行了」——「山竹什麼時候搞特價給我說，二百多的時候」——路邊，三輪和麵包湊在一起，兩箇男人在算帳：「昨天的事，我給你，成吧」「三千二百九十，二百七，加上榴槤，五百七，加上箇二百，總共是四千九」——賣芒果的：「水性特別好」「你放一百扼十箇心，扼十斤，沒有別的東西啊，多少斤就多少斤，少一兩都不要錢」──買山竹紅提的：「5A 的，兩百七」「這都一級果啊」「紅提，進口紅提，一百六，十四斤的」「是進口啊，必須是進口啊」「口感還甜，還硬氣」「這是智利的，口感特甜」──賣桃子的：「我能騙你嗎」──「太不實在了」「我還不實在？」「回來回來」──一箇很惡心的北京社會大漢：「我這不佔別人便宜心裏難受。无所謂，我立馬就走」──「說難聽點，你就是箇錘子」「你就是箇卵子」──「美食廣場前邊是吧」──賣菜區：「一塊錢一斤，哪三塊啊」「芹菜四塊五，成捆的四塊二」。
 
-### 記錄
+Sinfati is the biggest Agricultural wholesale market in Beijing.
+
+At two o'clock, there were still enough taxis, no need to make an appointment. At three o'clock, the bosses who came to make a purchase shaked their flashlights. At Four o'clock, dawn broke, and a new day has arrived. At five o'clock, the cleaner started working, and it was still midnight in the eyes of the students.
+
+This is cut out from 80 minutes of material. Content introduction: alarm sound - trailer - horn - unloading from the truck, dragon fruit is thrown down a box by a box - selling cherries: "This is 8.5 yuan" - "the origin is different" - "Only 10,000 yuan can be transferred on WeChat a day." - Selling strawberries: "Tomorrow will be finished, don't pick it up, lend me a hand please." "Just leave your WeChat or phone number, come over and fetch it." -  "Call me When mangosteen is at a special price, when it's two hundred yuan." - On the roadside, two men were calculating: "What happened yesterday, I will give you, OK?" "Three thousand and two hundred Ninety, two hundred and seventy, plus durian, five hundred and seventy, plus two hundred, a total of four thousand and nine hundred" - Selling mango: "Particularly juicy." "You put a hundred and twenty hearts (completely at ease), twenty jin (10kg), there is nothing else, how many jin is how many jin (won't be less), don't need money if one or two less." - selling mangosteens and grapes: "5A, two hundred and seventy." "This is a first-class fruit." "Grapes, imported ……" - Selling peaches: "Can I lie to you?" - "Too bad." "Am I not honest?" "Come back" - A disgusting Beijing social man: "I'm uncomfortable if not taking advantage of others. It doesn't matter, I just leave." - "Say ugly, you are a hammer." "You are an egg." (the two words have special meaning) - "Before the food court?" - Selling vegetables: "One yuan per jin, not three." "The celery is 4.5, and the bundles are 4.2."
+
+### 記錄 Note
 
 昨天把論文馬馬虎虎匯報完了，得一天的空閒。兩點的鬧鐘，在床上坐了一刻鐘，兩點半到小西門，沒想到預約的車沒來，就取消了，大半夜其實車也不少，之前眞是多慮了，出租車司機眞辛苦。新發地和想象中的還是很不一樣，至少大得多，起碼有一箇半師大。分爲好幾箇區，從最靠南的門進去，最先到的是水果區，都是搭起來的棚子，後來是托運部，原來跟我爸去取燈，托運部也沒少見，大抵就是那樣，不過車裏的是水果而不是燈，再後來是賣菜的地方，不過天亮了，感覺沒了神秘色彩，就不想錄了，撤。
 
@@ -54,31 +69,47 @@ description: '請大家在安静的地方戴著耳機聽。'
 
 找到了這幾篇採訪性質的文章：[一](http://www.xinfadi.com.cn/news/companynews/view/221273.shtml)，[二](http://paper.people.com.cn/rmrbhwb/html/2011-08/25/content_907014.htm)，[三](http://politics.people.com.cn/n/2015/0217/c70731-26578755.html)，[四](https://www.jianshu.com/p/5e25e627d50f)
 
-##  Vol.5　六月七日高考開始
+The day before, I finished my paper and was free. Two o'clock alarm clock, sitting in bed for a quarter of an hour. Sinfati was very different from my imagination, at least much bigger. Divided into several sections, from the most south, the first was the fruit area, constructed by sheds, and later the shipping department, and then it was vegetable area, but it was dawn, I felt there was no mystery, I didn't want to record, withdraw.
+
+Maybe I have never seen so many eyes in my life. As soon as I walked in, the traders on both sides looked at me as if a monkey, and it was really uncomfortable to be grazing. At this time, my body would find something to ease the embarrassment, such as touching the hair, talking to myself, watching here and there, pretending to think. Most people would ask what is the rig for, and even one pinched the wind shield. If someone was holding a camera, no one would ask. I also heard one saying "China Central Television, China Central Television"……
+
+The biggest difficult I encountered was the heavy crowd. Shops were squatting, all kinds of tricycles were constantly going. I had almost no place to stand, let alone recording. In this case, I wanted to use a shotgun, but unfortunately, I had no money. I only dared to use the A-B type. If using ORTF, the radio range would be  bigger, and the record would be more noisy.
+
+The South Second Ring Road is quite desolate. Beijing is all developing to the north. When I read a webpage saying that the open-air trade would disappear in the next five years in Sinfati, I thought the fun would be greatly reduced.
+
+##  Vol. 5　六月七日高考開始 The college entrance examination begins on June 7
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=1369623908)</listen><time1>2018-06-08</time1>
 
-45 分鐘的素材剪成的。時閒：2018年6月7日，事件：高考語文開考之前，地點：N大三附中考點。聲音最好的一點是你沒法直接判斷出時閒，所以我就按邏輯順序剪出來，很多都是打亂了時閒先後的。從呼朋引伴，老師招呼學生，到看考點，複習，到家長、老師最後的叮囑、加油，到進考場，確定幾箇遲到的學生是否來了，最後是老師、家長的閒聊。
+45 分鐘的素材剪成的。時閒：2018年6月7日，事件：高考語文開考之前，地點：N大三附中考點。聲音最好的一點是你沒法直接判斷出時閒，所以我就按邏輯順序剪出來，很多都是打亂了時閒先後的。從呼朋引伴，老師招呼學生，到看考點，複習，到家長、老師最後的叮囑、加油，到進考場，確定幾箇遲到的學生是否來了，最後是老師、家長的閑聊。
 
-##  Vol.6　六月八日高考結束
+45 minutes of material. Time: June 7th, 2018. Event: before the college entrance examination (Chinese). Location: the third affiliated secondary school. The best thing about sound is that you can't judge the time order, so I cut it out in a logical order, and many of them are disrupted. Greeting, seeing the test sites, reviewing, the parents' and teacher's last exhorting, and finally the chat between the teacher and the parents.
+
+##  Vol. 6　六月八日高考結束 End of the college entrance examination on June 8
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=1369627228)</listen><time1>2018-06-09</time1>
 
 30 分鐘的素材剪成的。時閒：2018 年 6 月 8 日，事件：高考英語考完之後，地點：N 大三附中考點。時閒快到了，家長越來越多。考生出來後，各種照相的。人全部走了，工作人員拆大門的橫幅、考場圖，還有零星的幾箇考生家長在聊天。7 分多鐘的汽車聲，是警車開走了。
 
-##  Vol.7　午夜交響曲
+30 minutes of material. Time: June 8th, 2018. Event: After the college entrance examination(English). location: the third affiliated secondary school. Time was up, more and more parents were coming. After the students came out, all the people were taking photos. Later, All have gone. The staff took off the door banner and the examination room map. A few parents were chatting.
+
+##  Vol. 7　午夜交響曲 Midnight symphony
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=2058625601)</listen><time1>2018-12-26</time1>
 
 150 分钟的素材剪成的，也是有起承转合的。
 
-## Vol.8　嘴皮發出的奇妙聲響
+150 minutes of material. It indeed has a structure.
+
+## Vol. 8　嘴皮發出的奇妙聲響 Wonderful sound of mouth
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=2059109204)</listen><time1>2019-01-19</time1>
 
 某日午睡醒了之後發現嘴皮能發出奇怪的口哨聲，就用手機錄下來了。有一箇頻率很高的片段，看了下頻譜，基頻是 3—4 khz，絕了。手機錄的，原始格式是 22khz，音質很渣。
 
-## Vol.9　夜晚田野交響曲
+When I woke up one afternoon, I found that my mouth could make a strange whistle, and I recorded it on my mobile phone. There is a very high frequency segment. The spectrum shows the fundamental frequency is 3-4 khz. The original format of the mobile phone is 22khz, and the sound quality is terrible.
+
+## Vol. 9　夜晚田野交響曲 Night field symphony
 
 <listen>[立卽收聽](https://music.163.com/dj?id=2061605723&userid=275990862)</listen><time1>2019-06-12</time1>采集於<time1>2019-06-09，21 時</time1>
 
@@ -86,7 +117,11 @@ description: '請大家在安静的地方戴著耳機聽。'
 
 分爲四段：1、蟲鳴，2、加入了高頻的蟲鳴，3、蛙聲逐漸起來，達到高潮，4、單獨的蛙聲
 
-## Vol.10　本科畢業生跳蚤市場
+Location: a field in the border of Yizheng and Yangzhou. Some were on the road, some were down to the field, and the sound source is about 2 meters away. The countryside was too quiet, there was no any noise. There were railway bridges in the distance. From time to time, there were trains passing by, and I want to record, a little. There were temple bells at nine o'clock, but very far away. 
+
+Divided into four segments: 1, insects, 2, added high-frequency insects, 3, frog sound gradually reaching a climax, 4, separate frog sound
+
+## Vol. 10　本科畢業生跳蚤市場 Undergraduate graduate flea market
 
 <listen>[立卽收聽](https://music.163.com/dj?id=2061805693&userid=275990862)</listen><time1>2019-06-24</time1>采集於<time1>2019-06-22、23</time1>
 
@@ -96,10 +131,18 @@ description: '請大家在安静的地方戴著耳機聽。'
 
 跳蚤市場的原始素材，似乎沒什麼邏輯聯繫，我還是分成兩部分，前半部分是叫賣聲，「同學們借過一下」之後是討價還價。開頭和末尾則是彩蛋了。
 
-## Vol.11　東東
+The graduates flea market. The weather in Beijing is inhuman. Although it was nine o'clock, it was still hot to die. 
+
+The process: weaken the low frequency below 125hz by batch processing, normalize to -3db; then listen to each piece of material, delete or cut the useless ones; multi-track mixing, organize a large frame; adjust the connection between each segment; average sond level. In this way, you have to listen at least four times. Regarding the volume, some people are farther away, the voice is very small, and some of them are very loud. In this case, I will use the "voice volume level" to average to a uniform level. The other part will remain the original to reflect the spatial relationship.
+
+The original material of the flea market seems to have no logical connection. I still divide it into two parts. The first part is selling sound, and then the bargain. At the beginning and end are the bonus scenes.
+
+## Vol. 11　東東 Tung Tung
 
 <listen>[立卽收聽](https://music.163.com/dj?id=2061883435&userid=275990862)</listen><time1>2019-06-28</time1>
 
 寢室解散前兩天錄的。這寢室文化似乎是大三下期發展起來的。
 
 問題是一箇人在說的時候其他人在說，佗自己也會笑場，這些都必須翦掉。
+
+Recorded two days before the dissolution of our dormitory. This dormitory subculture seems to develop in junior year.
