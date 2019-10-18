@@ -84,7 +84,7 @@ The day before, I finished my paper and was free. Two o'clock alarm clock, sitti
 
 Maybe I have never seen so many eyes in my life. As soon as I walked in, the traders on both sides looked at me as if a monkey, and it was really uncomfortable to be grazing. At this time, my body would find something to ease the embarrassment, such as touching the hair, talking to myself, watching here and there, pretending to think. Most people would ask what is the rig for, and even one pinched the wind shield. If someone was holding a camera, no one would ask. I also heard one saying "China Central Television, China Central Television"……
 
-The biggest difficult I encountered was the heavy crowd. Shops were squatting, all kinds of tricycles were constantly going. I had almost no place to stand, let alone recording. In this case, I wanted to use a shotgun, but unfortunately, I had no money. I only dared to use the A-B type. If using ORTF, the radio range would be  bigger, and the record would be more noisy.
+The biggest difficult I encountered was the heavy crowd. Shops were squatting, all kinds of tricycles were constantly going. I had almost no place to stand, let alone recording. In this case, I wanted to use a shotgun, but unfortunately, I had no money. I only dared to use the A-B type. If using ORTF, the sound range would be bigger, and the record would be more noisy.
 
 The South Second Ring Road is quite desolate. Beijing is all developing to the north. When I read a webpage saying that the open-air trade would disappear in the next five years in Sinfati, I thought the fun would be greatly reduced.
 
