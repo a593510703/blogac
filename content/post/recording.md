@@ -105,7 +105,7 @@ gear: Mixpre 3, a pair of SE 8. 45 minutes of material. Time: June 7th, 2018. Ev
 
 gear: Mixpre 3, a pair of SE 8. 30 minutes of material. Time: June 8th, 2018. Event: After the college entrance examination(English). location: the third affiliated secondary school. Time was up, more and more parents were coming. After the students came out, all the people were taking photos. Later, All have gone. The staff took off the door banner and the examination room map. A few parents were chatting.
 
-##  Vol. 7　午夜交響曲 Midnight symphony
+##  Vol. 7　午夜交響曲 Midnight chorus
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=2058625601)</listen>　<time1>2018-12-26</time1>
 
@@ -121,7 +121,7 @@ gear: Mixpre 3, a pair of SE 8. 150 minutes of material. The sound of snoring. I
 
 gear: Mixpre 3, a pair of SE 8. When I woke up one afternoon, I found that my mouth could make a strange whistle, and I recorded it on my mobile phone. There is a very high frequency segment. The spectrum shows the fundamental frequency is 3-4 kHz. The original format of the mobile phone is 22kHz, and the sound quality is terrible.
 
-## Vol. 9　夜晚田野交響曲 Night field symphony
+## Vol. 9　夜晚田野交響曲 Night field Chorus
 
 <listen>[立卽收聽](https://music.163.com/dj?id=2061605723&userid=275990862)</listen>　<time1>2019-06-12</time1>　<time1>采集於 2019-06-09 21:00</time1>
 
