@@ -13,8 +13,9 @@ verticle: false
 
 以下三箇平臺同步發布，內容完全一致：
 
-- [RSS](http://www.ximalaya.com/album/30113938.xml)（喜馬拉雅提供）
-- 播客 Podcast　<a href="https://podcasts.apple.com/hk/podcast/%E6%83%85%E5%BD%A2%E4%BA%8E%E5%A3%B0-endless-sound/id1483568121" target="_blank">情形于声 Endless Sound</a><n1>似乎鏈接打不開，直接搜索吧</n1>
+- [RSS](http://www.ximalaya.com/album/30113938.xml)<n1>喜馬拉雅提供</n1>
+- Soundcloud　[https://soundcloud.com/kujihhoe](Kujihhoe)<n1>需要翻牆</n1>
+- 播客 Podcast　<a href="https://podcasts.apple.com/hk/podcast/%E6%83%85%E5%BD%A2%E4%BA%8E%E5%A3%B0-endless-sound/id1483568121" target="_blank">情形于声 Endless Sound</a><n1>似乎鏈接打不開，直接在 app 上搜索吧</n1>
 - 喜馬拉雅　<a href="https://www.ximalaya.com/renwen/30113938/" target="_blank">情形于声</a>
 - 網易雲音樂電臺　<a href="http://music.163.com/#/radio/527105637?userid=275990862" target="_blank">情形于声</a>
 
@@ -44,7 +45,7 @@ The fun of Taipei’s New Year’s Eve. This is more satisfactory than *Tainan*,
 
 宿舍下打乒乓球的大媽。後來，那幾張乒乓球桌一夜之閒沒了，我們終於獲得了寧靜。
 
-Aunt playing table tennis under my dormitory. Later, the  table tennis tables were gone for a night, and we finally got peace.
+gear: Mixpre 3, a pair of SE 8. Aunt playing table tennis under my dormitory. Later, the  table tennis tables were gone for a night, and we finally got peace.
 
 ## Vol. 4　凌晨三點的新發地 Sinfati at 3 am
 
@@ -58,7 +59,7 @@ Aunt playing table tennis under my dormitory. Later, the  table tennis tables we
 
 ### Introduction
 
-Sinfati is the biggest Agricultural wholesale market in Beijing.
+gear: Mixpre 3, a pair of SE 8. Sinfati is the biggest Agricultural wholesale market in Beijing.
 
 At two o'clock, there were still enough taxis, no need to make an appointment. At three o'clock, the bosses who came to make a purchase shaked their flashlights. At Four o'clock, dawn broke, and a new day has arrived. At five o'clock, the cleaner started working, and it was still midnight in the eyes of the students.
 
@@ -94,7 +95,7 @@ The South Second Ring Road is quite desolate. Beijing is all developing to the n
 
 45 分鐘的素材剪成的。時閒：2018年6月7日，事件：高考語文開考之前，地點：N大三附中考點。聲音最好的一點是你沒法直接判斷出時閒，所以我就按邏輯順序剪出來，很多都是打亂了時閒先後的。從呼朋引伴，老師招呼學生，到看考點，複習，到家長、老師最後的叮囑、加油，到進考場，確定幾箇遲到的學生是否來了，最後是老師、家長的閑聊。
 
-45 minutes of material. Time: June 7th, 2018. Event: before the college entrance examination (Chinese). Location: the third affiliated secondary school. The best thing about sound is that you can't judge the time order, so I cut it out in a logical order, and many of them are disrupted. Greeting, seeing the test sites, reviewing, the parents' and teacher's last exhorting, and finally the chat between the teacher and the parents.
+gear: Mixpre 3, a pair of SE 8. 45 minutes of material. Time: June 7th, 2018. Event: before the college entrance examination (Chinese). Location: the third affiliated secondary school. The best thing about sound is that you can't judge the time order, so I cut it out in a logical order, and many of them are disrupted. Greeting, seeing the test sites, reviewing, the parents' and teacher's last exhorting, and finally the chat between the teacher and the parents.
 
 ##  Vol. 6　六月八日高考結束 End of the college entrance examination
 
@@ -102,7 +103,7 @@ The South Second Ring Road is quite desolate. Beijing is all developing to the n
 
 30 分鐘的素材剪成的。時閒：2018 年 6 月 8 日，事件：高考英語考完之後，地點：N 大三附中考點。時閒快到了，家長越來越多。考生出來後，各種照相的。人全部走了，工作人員拆大門的橫幅、考場圖，還有零星的幾箇考生家長在聊天。7 分多鐘的汽車聲，是警車開走了。
 
-30 minutes of material. Time: June 8th, 2018. Event: After the college entrance examination(English). location: the third affiliated secondary school. Time was up, more and more parents were coming. After the students came out, all the people were taking photos. Later, All have gone. The staff took off the door banner and the examination room map. A few parents were chatting.
+gear: Mixpre 3, a pair of SE 8. 30 minutes of material. Time: June 8th, 2018. Event: After the college entrance examination(English). location: the third affiliated secondary school. Time was up, more and more parents were coming. After the students came out, all the people were taking photos. Later, All have gone. The staff took off the door banner and the examination room map. A few parents were chatting.
 
 ##  Vol. 7　午夜交響曲 Midnight symphony
 
@@ -110,25 +111,25 @@ The South Second Ring Road is quite desolate. Beijing is all developing to the n
 
 150 分钟的素材剪成的，也是有起承转合的。
 
-150 minutes of material. It indeed has a structure.
+gear: Mixpre 3, a pair of SE 8. 150 minutes of material. The sound of snoring. It indeed has a structure.
 
 ## Vol. 8　嘴皮發出的奇妙聲響 Wonderful sound of mouth
 
 <listen>[立卽收聽](https://music.163.com/#/program?id=2059109204)</listen>　<time1>2019-01-19</time1>
 
-某日午睡醒了之後發現嘴皮能發出奇怪的口哨聲，就用手機錄下來了。有一箇頻率很高的片段，看了下頻譜，基頻是 3—4 khz，絕了。手機錄的，原始格式是 22khz，音質很渣。
+某日午睡醒了之後發現嘴皮能發出奇怪的口哨聲，就用手機錄下來了。有一箇頻率很高的片段，看了下頻譜，基頻是 3—4 kHz，絕了。手機錄的，原始格式是 22khz，音質很渣。
 
-When I woke up one afternoon, I found that my mouth could make a strange whistle, and I recorded it on my mobile phone. There is a very high frequency segment. The spectrum shows the fundamental frequency is 3-4 khz. The original format of the mobile phone is 22khz, and the sound quality is terrible.
+gear: Mixpre 3, a pair of SE 8. When I woke up one afternoon, I found that my mouth could make a strange whistle, and I recorded it on my mobile phone. There is a very high frequency segment. The spectrum shows the fundamental frequency is 3-4 kHz. The original format of the mobile phone is 22kHz, and the sound quality is terrible.
 
 ## Vol. 9　夜晚田野交響曲 Night field symphony
 
-<listen>[立卽收聽](https://music.163.com/dj?id=2061605723&userid=275990862)</listen>　<time1>2019-06-12</time1>　<time1>采集於 2019-06-09，21 時</time1>
+<listen>[立卽收聽](https://music.163.com/dj?id=2061605723&userid=275990862)</listen>　<time1>2019-06-12</time1>　<time1>采集於 2019-06-09 21:00</time1>
 
 在儀徵與揚州交界的田野。有一些在路上，有一些下到田裏面，距離聲源大槩 2 米。辳邨眞是太安靜了，一點嘈雜的聲音都沒有。遠處有鐵路橋，不時有火車開過，有些想去錄。九點還有寺廟的鐘聲，但很遠，不知從哪發出來的，下次去的時候一定要找到。
 
 分爲四段：1、蟲鳴，2、加入了高頻的蟲鳴，3、蛙聲逐漸起來，達到高潮，4、單獨的蛙聲
 
-Location: a field in the border of Yizheng and Yangzhou. Some were on the road, some were down to the field, and the sound source is about 2 meters away. The countryside was too quiet, there was no any noise. There were railway bridges in the distance. From time to time, there were trains passing by, and I want to record, a little. There were temple bells at nine o'clock, but very far away. 
+gear: Mixpre 3, a pair of SE 8. Location: a field in the border of Yizheng and Yangzhou. Some were on the road, some were down to the field, and the sound source is about 2 meters away. The countryside was too quiet, there was no any noise. There were railway bridges in the distance. From time to time, there were trains passing by, and I want to record, a little. There were temple bells at nine o'clock, but very far away. 
 
 Divided into four segments: 1, insects, 2, added high-frequency insects, 3, frog sound gradually reaching a climax, 4, separate frog sound
 
@@ -142,7 +143,7 @@ Divided into four segments: 1, insects, 2, added high-frequency insects, 3, frog
 
 跳蚤市場的原始素材，似乎沒什麼邏輯聯繫，我還是分成兩部分，前半部分是叫賣聲，「同學們借過一下」之後是討價還價。開頭和末尾則是彩蛋了。
 
-The graduates flea market. The weather in Beijing is inhuman. Although it was nine o'clock, it was still hot to die. 
+gear: Mixpre 3, a pair of SE 8. The graduates flea market. The weather in Beijing is inhuman. Although it was nine o'clock, it was still hot to die. 
 
 The process: weaken the low frequency below 125hz by batch processing, normalize to -3db; then listen to each piece of material, delete or cut the useless ones; multi-track mixing, organize a large frame; adjust the connection between each segment; average sond level. In this way, you have to listen at least four times. Regarding the volume, some people are farther away, the voice is very small, and some of them are very loud. In this case, I will use the "voice volume level" to average to a uniform level. The other part will remain the original to reflect the spatial relationship.
 
@@ -156,4 +157,4 @@ The original material of the flea market seems to have no logical connection. I 
 
 問題是一箇人在說的時候其他人在說，佗自己也會笑場，這些都必須翦掉。
 
-Recorded two days before the dissolution of our dormitory. This dormitory subculture seems to develop in junior year.
+Gear: Mixpre 3, a pair of SE 8. Recorded two days before the dissolution of our dormitory. This dormitory subculture seems to develop in junior year.
