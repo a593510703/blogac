@@ -50,7 +50,7 @@ verticle: false
 
 現在可以說非常像印刷品了。
 
-註冊了騰訊企業郵箱：[1@kujihhoe.com](mailto:1@kujihhoe.com)。
+註冊了騰訊企業郵箱：1 (at) kujihhoe.com
 
 ### 10 月 19 日
 

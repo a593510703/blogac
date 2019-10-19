@@ -13,7 +13,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/links.md'
 verticle: false
 ---
 
-想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發 [郵件](mailto:ke@kqh.me) 給我，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
+想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發郵件給我，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
 
 【要求】**非**技術類優先。近一年內有更新。本站信息如下，並可按此格式回復：
 
