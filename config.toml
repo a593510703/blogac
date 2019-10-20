@@ -76,7 +76,7 @@ defaultContentLanguage = "en"
   keywords = ["古琴", "書法","錄音","經學","歷史"]
   description = "不務正業的歷史系學生一箇"
 
-  # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
+  # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的値
   archive-paginate = 100
 
   # paginate style, default use numbered pagination links. if true, use original "Previous" and "Next" links.

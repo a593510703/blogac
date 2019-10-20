@@ -104,7 +104,7 @@ verticle: false
 
 gem 了 Jemoji：:smile::kissing::smiley::blush::stuck_out_tongue_closed_eyes::flushed::mask::sleeping::sunglasses::clap::muscle::pray::raised_hands::point_left::point_right::sweat_smile::sweat::weary::tired_face::joy::sob:
 
-添加最後修改時間，找了半天，先找了一箇很長的，然後找怎麼把 js 的值賦給 html，沒成功，最後直接蒐「js最後修改時間」，找到了一箇很短的代碼。
+添加最後修改時間，找了半天，先找了一箇很長的，然後找怎麼把 js 的値賦給 html，沒成功，最後直接蒐「js最後修改時間」，找到了一箇很短的代碼。
 
 調整標題字號顏色。
 
@@ -247,7 +247,7 @@ ruby 竟然只支持 JDK 8！
 
 中午回來，竟然莫名其妙抽風，說 `page build failure`。於是用毀滅大法，把本地倉庫遷到沒用 iCloud 備份的目錄，刪掉重新來一遍就好了。明明早上更新還正常的，上完課回來就出毛病，玄學＋1。
 
-之前正文和 footer 之間之所以有一大截空白，是因爲 `_layout.default.scss` 裏面 `.m-page-stage` 的 `padding-bottom` 設置了一箇奇奇怪怪的值，把它改成 0 就好了。
+之前正文和 footer 之間之所以有一大截空白，是因爲 `_layout.default.scss` 裏面 `.m-page-stage` 的 `padding-bottom` 設置了一箇奇奇怪怪的値，把它改成 0 就好了。
 
 騰訊企業郵竟然用不了了，說我沒有`實` `名` `認` `證`，我纔不認 證呢，寧可不用。不過後來看了下DNSpod，說沒有添加解析，恍然大悟，原來 cloudflare 就是提供 DNS 解析的啊！只不過是順帶有 SSL，眞是良心。那 DNSpod 就完全沒用了，刪掉刪掉。進 CF 後臺看了下，原來還可以清空緩存，怪說不得改 footer這些，Git 把頁面生成好了，再刷新卻沒變。給 CF 加了 MX 解析，企業郵箱又可以用啦。
 
