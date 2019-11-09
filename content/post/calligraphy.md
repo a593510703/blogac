@@ -5,7 +5,7 @@ date: 2019-07-22
 lastmod: 2019-07-22
 categories: ["書法"]
 tags: ["主葉"]
-url: /calligraphy/
+url: /calligraphy
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/calligraphy.md'
 description: '<p>放一些寫的字，一點沒有也不行。</p>'
 ---

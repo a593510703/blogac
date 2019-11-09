@@ -5,7 +5,7 @@ date: 2019-07-23
 lastmod: 2019-07-23
 categories: ["生活"]
 tags: ["主葉"]
-url: /design/
+url: /design
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/design.md'
 description: '<p>平時給社團做的一些海報封面之類的</p>'
 ---

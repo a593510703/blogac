@@ -5,7 +5,7 @@ date: 2018-11-19
 lastmod: 2019-10-18
 categories: ["錄音"]
 tags: ["主葉"]
-url: /recording/
+url: /recording
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/recording.md'
 description: '在日常生活中，耳朵聽到的聲音往往被我们忽畧。而現在，我将在這裏發布我的實地錄音，帶大家重新理解聆聽，感受聲音的彊大表現力。請在安静的地方戴著耳機聽。In daily life, the sound heard by the ear is often overlooked by us. Now, I will post my field recording here, trying to lead everyone re-understand listening, and feel the expressive power of the sound. Please wear headphones in a quiet place.'
 verticle: false

@@ -8,7 +8,7 @@ tags: ["公告"]
 menu:
   main:
     weight: 50
-url: /about/
+url: /about
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/about.md'
 description: '此文爲本站緫序，包含介紹、說明書與聲明。'
 ---
