@@ -16,8 +16,7 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 ## No.1　臞仙曰
 
-<listen>[査看詳情](https://music.163.com/#/album?id=38083470)</listen>
-<time1>2018-04-01</time1>
+<listen>[査看詳情](https://music.163.com/#/album?id=38083470)</listen><time1>2018-04-01</time1>
 
 自己打譜<v>神奇秘譜</v>。一部分是錄音棚錄的，一部分自己用錄音筆錄的。
 
@@ -33,8 +32,7 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 ## No.2　芝仙曰
 
-<listen>[査看詳情](https://music.163.com/#/album?id=38104505)</listen>
-<time1>2018-04-01</time1>
+<listen>[査看詳情](https://music.163.com/#/album?id=38104505)</listen><time1>2018-04-01</time1>
 
 自己打譜西麓堂琴統。
 
@@ -43,8 +41,7 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 ## No.3　古風
 
-<listen>[査看詳情](https://music.163.com/#/album?id=38082731)</listen>
-<time1>2018-04-01</time1>
+<listen>[査看詳情](https://music.163.com/#/album?id=38082731)</listen><time1>2018-04-01</time1>
 
 包括<v>幽蘭</v>，以及自己根據<v>神奇秘譜</v>改編的一些曲子。
 
@@ -53,8 +50,7 @@ description: '<p>我把古琴看作最重要的事情。小學三年級跟著學
 
 ## No.4　王門紹灮
 
-<listen>[査看詳情](https://music.163.com/#/album?id=38109336)</listen>
-<time1>2018-04-01</time1>
+<listen>[査看詳情](https://music.163.com/#/album?id=38109336)</listen><time1>2018-04-01</time1>
 
 隨老師學的一些曲子。很多版本較爲獨特，外人不能得而聞之。
 
