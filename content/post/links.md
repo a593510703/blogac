@@ -104,7 +104,7 @@ verticle: false
 
 [个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
 
-[Blog We](https://blogwe.com/allblogs.html)<n1>20190309—20190929　感謝收錄我的博客　<a href="https://blogwe.com/kqh-ac.html" target="_blank">收錄葉</a></n1>
+[Blog We](https://blogwe.com/allblogs.html)<n1>20190309—20190929　感謝收錄我，現爲友情特約博客　<a href="https://blogwe.com/kqh-me.html" target="_blank">收錄葉</a></n1>
 
 <img src="https://gravatar.loli.net/avatar/7347cb9f09cbc939b642052c9b5fb70d"  width="60" alt="Alt Text" />　[博客樹](http://blogs.org.cn)<n1>20181111</n1>
 
