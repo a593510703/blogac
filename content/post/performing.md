@@ -4,24 +4,21 @@ title: "古琴表演記錄"
 date: 2018-12-07
 lastmod: 2019-11-10
 categories: ["古琴"]
-tags: ["主葉"]
+tags: ["主葉","絃耕紀日"]
 url: /performing
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
+description: "天殺的微信，信息檢索太不方便，搜也搜不到，只能挨箇去翻，翻也不方便，兩年前的推送翻了五分鐘。微信什麼時候能倒閉啊？我把我所有用過話筒的場合都記下來，可能很多雞毛蒜皮的，純粹是我箇人的記錄，不用在意。"
 ---
 
 # 表演記錄
 
-\#考古時間到# 天殺的微信，信息檢索太不方便，搜也搜不到，只能挨箇去翻，翻也不方便，兩年前的推送翻了五分鐘。微信什麼時候能倒閉啊？
-
-我把我所有用過話筒的場合都記下來，可能很多雞毛蒜皮的，純粹是我箇人的記錄，不用在意。
-
-#### （1）在江南大酒店喫酒，佩蘭
+#### 1、在江南大酒店喫酒，佩蘭
 
 <time1>2015-07</time1>
 
 第一次表演。
 
-#### （2）學院迎新晚会，佩蘭、平沙
+#### 2、學院迎新晚会，佩蘭、平沙
 
 <time1>2015-09-19</time1>
 
@@ -35,7 +32,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 <img src="https://pic.superbed.cn/item/5d47c2fd451253d178724784.jpg" width="400">
 
-#### （3）燕歸來，學活，梅花三弄
+#### 3、燕歸來，學活，梅花三弄
 
 <time1>2015-11-14</time1>
 
@@ -45,7 +42,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 > 第二篇章名为“古韵悠悠”。由松风琴社、书法协会共同带来的<v>清律逸风</v>将现场书法与古琴演奏相结合，蕴含着中国古代文人的情怀。
 
-#### （4）乾坤琴社秊會，溫江，佩蘭
+#### 4、乾坤琴社秊會，溫江，佩蘭
 
 <time1>2016-01-24</time1>
 
@@ -53,7 +50,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 網上新聞已經被刪除了。
 
-#### （5）輔仁校區，猿鶴雙清、佩蘭、梅花三弄
+#### 5、輔仁校區，猿鶴雙清、佩蘭、梅花三弄
 
 <time1>2016-03</time1>
 
@@ -61,7 +58,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 <img src="https://pic.superbed.cn/item/5d47c2fd451253d178724788.jpg"  width="400">
 
-#### （6）第八屆全國大學生古琴音樂會，武漢大學，猿鶴雙清
+#### 6、第八屆全國大學生古琴音樂會，武漢大學，猿鶴雙清
 
 <time1>2016-05-01</time1>
 
@@ -69,7 +66,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 活動詳情見：[第八届全国大学生古琴音乐会在武汉珞珈山成功举办](https://mp.weixin.qq.com/s/dc-RsUYLc3UiJv75V-b07g)
 
-#### （7）松風琴社八周年社慶，輔仁校區
+#### 7、松風琴社八周年社慶，輔仁校區
 
 <time1>2016-05-14</time1>
 
@@ -79,7 +76,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 >千手白莲！划掉……应该是盛开的柯同学.jpg
 
-#### （8）學院畢業晚會，與王佳玥古箏合奏梅花
+#### 8、學院畢業晚會，與王佳玥古箏合奏梅花
 
 <time1>2016-06-03</time1>
 
@@ -89,13 +86,13 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 >器乐合奏的<v>梅花三弄</v>意境悠远，令人叹赏。
 
-#### （9）學院會議室，渔樵問荅
+#### 9、學院會議室，渔樵問荅
 
 <time1>2016-09</time1>
 
 日本一所大學的代表團來，王東平老師主持見面會。很是尷尬，不過似乎日本同學感覺還不錯。
 
-#### （10）燕歸來，學活，漁樵，有茶藝書法
+#### 10、燕歸來，學活，漁樵，有茶藝書法
 
 <time1>2016-11-12</time1>
 
@@ -105,7 +102,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 > 琴棋书画在中国传统文化中必不可少，那么<v>渔樵汲泉</v>则不容错过。春秋学社和松风琴社，北京农学院惊云书画社以及茗声茶社联合为我们展示了琴，书，画三者的完美结合。
 
-#### （11）第八屆北京大學生古琴音樂會，敬文講堂，髙山流水
+#### 11、第八屆北京大學生古琴音樂會，敬文講堂，髙山流水
 
 <time1>2017-04-23</time1>
 
@@ -119,17 +116,17 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 > 4月23日，第八届北京大学生古琴音乐会在我校举行。北京市各高校琴社代表、京内古琴界师友和我校师生共300余人观看了音乐会。 音乐会以“挟仙游”为主题，演出曲目包括<v>高山流水</v>、<v>良宵引</v>等传世古琴名曲，涵盖咏物、抒情、言志等各类主旨，并以独奏、琴箫合奏、古琴琵琶二重奏等多种演奏方式呈现。整场音乐会将古琴清、和、淡、雅的音乐品格展现得淋漓尽致，让观众感受到了古琴艺术恒久的魅力。 北京大学生古琴音乐会
 
-#### （12）松風琴社九周秊，梅花三弄、陽春
+#### 12、松風琴社九周秊，梅花三弄、陽春
 
 <time1>2017-05-20</time1>
 
 活動詳情見：[松风琴社九岁啦！九周年社庆兼换届仪式完美落幕](https://mp.weixin.qq.com/s/tv_Wuy8mIo9cjup_BvopBA)
 
-#### （13）文學院社團宣講，教九 502，廣陵散一分鐘
+#### 13、文學院社團宣講，教九 502，廣陵散一分鐘
 
 <time1>2017-09</time1>
 
-#### （14）臺大琴社在臺北故宮的雅集，梅花三弄刪宋、髙山、陽春
+#### 14、臺大琴社在臺北故宮的雅集，梅花三弄刪宋、髙山、陽春
 
 <time1>2017-12</time1>
 
@@ -149,7 +146,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 >地點：臺北故宮至善園
 >影片剪輯：臺大古琴社十三屆社長　李尙謙
 
-#### （15）乾坤琴社秊會，泛滄浪、神人暢
+#### 15、乾坤琴社秊會，泛滄浪、神人暢
 
 <time1>2018-02-03</time1>
 
@@ -157,7 +154,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 活動詳情見：[阆苑仙葩-乾坤琴社2017年会](https://mp.weixin.qq.com/s/gVuO6srVvOLAeMsDe82d8g)
 
-#### （16）南山詩社，學活，佩蘭
+#### 16、南山詩社，學活，佩蘭
 
 <time1>2018-04-20</time1>
 
@@ -167,7 +164,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 > 在此，南山诗社还要特别感谢松风琴社为我们带来的古琴曲<v>佩兰</v>和韶兮国乐社的民乐合奏<v>春江花月夜</v>! 感谢韶兮国乐社对本次专场演出的大力支持！
 
-#### （17）韶兮國樂社，學活，白雪
+#### 17、韶兮國樂社，學活，白雪
 
 <time1>2018-04-24</time1>
 
@@ -177,11 +174,9 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 > 柴门闻犬吠，风雪里、却不见夜归人。绿蚁新醅，温了又凉，红炉小火，燃了，又熄。同样是雪，<v>江山雪</v>引人神伤，<v>白雪</v>则少了些萧瑟寂寥之意，多了些凛然清洁、雪竹琳琅之音。琴者，禁也。含天地之醇和兮，吸日月之休光。禁人邪恶，归於正道。故谓之琴。
 
-寫的啥啊……
-
 這次眞是慘烈車禍。感覺都對不起觀眾。
 
-#### （18）松風琴社十周年，憶故人
+#### 18、松風琴社十周年，憶故人
 
 <time1>2018-05-20</time1>
 
@@ -191,17 +186,17 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 >历任社长讲话之后，大家齐齐推举心目中的大佬上台弹琴，大佬们也向萌新传授了一些古琴知识。
 
-#### （19）文學院社團宣講，敬文講堂，髙山開頭
+#### 19、文學院社團宣講，敬文講堂，髙山開頭
 
 <time1>2018-09-06</time1>
 
-#### （20）世界課例大會閉幕式，敬文講堂，幽蘭二至四段
+#### 20、世界課例大會閉幕式，敬文講堂，幽蘭二至四段
 
 <time1>2018-11-25</time1>
 
 本來說是在開幕式的，開幕式有直播，不過事先他們沒安排好，前一箇節目太長，便把我的時間擠掉了。
 
-#### （21）「誦讀經典 禮讚輝煌」北京高校中華經典詩詞誦讀吟唱比賽決賽，學活，幽蘭三四段
+#### 21、「誦讀經典 禮讚輝煌」北京高校中華經典詩詞誦讀吟唱比賽決賽，學活，幽蘭三四段
 
 <time1>2018-11-29</time1>
 
@@ -213,7 +208,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 > 松风琴社<v>碣石调幽兰</v>选段
 
-#### （22）華章漢服社「花間拾夢——錦繡花神傳」專場，學活，酒狂
+#### 22、華章漢服社「花間拾夢——錦繡花神傳」專場，學活，酒狂
 
 <time1>2019-05-18</time1>
 
@@ -225,13 +220,13 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 寫的啥啊……
 
-#### （23）　松風琴社十一周年，酒狂
+#### 23、松風琴社十一周年，酒狂
 
 <time1>2019-05-18</time1>
 
 活動詳情見 [活动 | 松风琴社十一周年社庆](https://mp.weixin.qq.com/s/jtow1h65RGcKF1qo5TsdeQ)
 
-#### （24）琴心獨具論壇，大雅
+#### 24、琴心獨具論壇，大雅
 
 <time1>2019-05-25</time1>
 
@@ -241,7 +236,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 榮耀坤：[水岸山居——记20190525中国美术学院琴心独具·“双一流”高校古琴交流传承研讨论坛音乐会](https://user.qzone.qq.com/1063301167/blog/1558830296?g_f=&srctype=&ticket=&_t_=0.9849964704638958)
 
-#### （25）學院畢業晚會，學活，廣陵散<n>正聲節選</n>
+#### 25、學院畢業晚會，學活，廣陵散<n>正聲節選</n>
 
 <time1>2019-06-06</time1>
 
@@ -253,7 +248,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 <img src="https://pic2.superbed.cn/item/5d020787451253d17835b1f0.jpg" width="500">
 
-#### （26）揚州大學第十一屆全國大學生古琴音樂會，玄默
+#### 26、揚州大學第十一屆全國大學生古琴音樂會，玄默
 
 <time1>2019-06-08</time1>
 
@@ -263,7 +258,7 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 <img src="https://pic2.superbed.cn/item/5d0208bd451253d17835cfab.jpg" width="500">
 
-#### （27）第五屆孔子新漢學計劃·京師哲學暑期學堂開學典禮，高山、流水、酒狂、招隱
+#### 27、第五屆孔子新漢學計劃·京師哲學暑期學堂開學典禮，高山、流水、酒狂、招隱
 
 <time1>2019-07-02</time1>
 
@@ -281,11 +276,11 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 這次彈琴終於是有錢的了。
 
-#### （28）文院社團宣講，半分鐘洞庭
+#### 28、文院社團宣講，半分鐘洞庭
 
 <time1>2019-09-06</time1>
 
-#### （29）「青年杯」北京市大學生人文知識競賽，學活，高山、流水、猿鶴雙清
+#### 29、「青年杯」北京市大學生人文知識競賽，學活，高山、流水、猿鶴雙清
 
 <time1>2019-11-02</time1>
 
@@ -301,9 +296,13 @@ markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'
 
 爲了配合作詩的環境，彈得超慢超輕，自己都快彈睡著了。
 
-#### （30）第三屆天津高校古琴文化節，泛滄浪
+#### 30、第三屆天津高校古琴文化節，天津大學大學生活動中心，泛滄浪
 
 <time1>2019-11-10</time1>
+
+<img src="https://pic.superbed.cn/item/5dc8f1d18e0e2e3ee93417a4.jpg" width="600">
+
+<img src="https://pic.superbed.cn/item/5dc8f1d18e0e2e3ee93417a2.jpg" width="500">
 
 # 學琴順序
 
