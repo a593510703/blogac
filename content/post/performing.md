@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "古琴表演、講座記錄"
 date: 2018-12-07
-lastmod: 2019-11-11
+lastmod: 2019-11-15
 categories: ["古琴"]
 tags: ["主葉","絃耕紀日"]
 url: /performing
@@ -311,6 +311,10 @@ description: "天殺的微信，信息檢索太不方便，搜也搜不到，只
 [天津文學藝術網](http://www.tjculture.com/news_6161.html?from=groupmessage&isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)
 
 > 北京师范大学松风琴社柯棋瀚《泛沧浪》
+
+[2019第三届天津高校古琴文化艺术节成功举行](https://mp.weixin.qq.com/s/pU9_m4yoSL118rVrslWEew)
+
+> 北京师范大学松风琴社柯棋瀚演奏的《泛沧浪》，展现了“志在驾舟于五湖”的意境。
 
 # 講座紀錄
 
