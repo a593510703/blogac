@@ -100,7 +100,7 @@ verticle: false
 
 ## A 類
 
-[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)
+[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　<n1>20191117　耶✌️</n1>
 
 [个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
 
