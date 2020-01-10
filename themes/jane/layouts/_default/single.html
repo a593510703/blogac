@@ -23,7 +23,7 @@
     </div>
   </header>
   {{ partial "post/copyright.html" . }}
-  {{ if or .Params.verticle (and .Site.Params.verticle (ne .Params.verticle false)) }}
+  {{ if or .Params.vertical (and .Site.Params.vertical (ne .Params.vertical false)) }}
   {{ if or .TableOfContents  (and .Description) }}
   <div class="post-content1">
     {{ if .TableOfContents }}

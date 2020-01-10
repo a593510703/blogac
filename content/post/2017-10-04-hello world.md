@@ -7,7 +7,7 @@ categories: ["站務"]
 tags: ["公告"]
 url: /blog/2017/10/04/shuoming.html
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/2017-10-04-hello world.md'
-verticle: false
+vertical: false
 ---
 
 這兩天突發奇想，反正在臺灣度假閒得慌，不如建一箇箇人博客，說做就做！跟著知乎上 <a href="https://www.zhihu.com/question/20463581" target="\_blank">CNFeat</a> 的答案，鼓搗了兩天，總算基本滿意了。從最開始一臉懵，到逐漸明白一點流程，還是有點小高興的，假裝自己是箇程序員。瞎調一些 css，然後在網頁上看效果，如此反復，調了點字號、行距，把導航欄的一些不用的刪掉，只保留一箇關於，把日期改成中文，底部導航也改成中文。限於電腦技術，網站還有諸多不完善的地方，比如檢索。
@@ -889,7 +889,7 @@ scroll-behavior: smooth;
 増加配置項，可以指定是橫排還是直排。
 
  ```html
-{{ if or .Params.verticle (and .Site.Params.verticle (ne .Params.verticle false)) }}
+{{ if or .Params.vertical (and .Site.Params.vertical (ne .Params.vertical false)) }}
 <div class="post-content1">
   {{ if .TableOfContents }}
   <div class="toc"><div class="toc1">{{ .TableOfContents }}</div></div>

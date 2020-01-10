@@ -10,7 +10,7 @@ menu:
     weight: 60
 url: /links
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/links.md'
-verticle: false
+vertical: false
 ---
 
 想自薦、交換友鏈的小伙伴可以在此葉面下留言，或者發郵件給我，我將在一至三日內囘復。想展示自己網站的朋友也可以留言。
