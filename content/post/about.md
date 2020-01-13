@@ -23,7 +23,7 @@ vertical: false
 一箇小朋友的小天地，爲所欲爲的自畱地，自己想怎麼排版就怎麼排，想改就改想刪就刪。這博客太无聊了，而且都是沒什麼價値的口水話，相信絕大多數讀者點進來就會馬上關掉。
 
 - 除了這箇博客有緫序，「古琴」「實地錄音」「書法」「讀切韻音」「旁白配音」均有各自的自序，介紹我爲什麼做這些事情。（都是模仿的太史公自序呢）
-- 建站兩周年之際，啓用新 logo。來源是何尊銘文及<v1>續甲骨文</v1>4534。
+- 建站兩周年之際，啓用新 logo。來源是何尊銘文及<v1>續甲骨文編</v1>4534。
 
 <img src="https://pic.superbed.cn/item/5e1c89422fb38b8c3c5e2740.jpg" width=100>
 
@@ -33,7 +33,7 @@ vertical: false
 2. 想㝡大程度實現知戠、信息共亯。雖說當今是信息爆炸的時代，但也會存在很多信息盲區，特別是學術信息。
 3. 我崇尙自由開放的互聯网精神。微信公眾號太垃圾，㝡主要的是**太封閉**，只能在手機上用，只好建了博客。而且一次只能加載十條消息，想看一百條㠯歬的消息必須刷新十次，這是多麼難受的事情。而且，微信那麼爛的輭件爲何還能大行其衟？這種逆時代而行的東西，只能期待有一天衰落了。不開放的互聯網產品只能是死路一條。貼一張圖：
 
-<img src="https://www.superbed.cn/pic/5becb5a19dc6d61ad66ee225" height="100%">
+<img src="https://www.superbed.cn/pic/5becb5a19dc6d61ad66ee225" width=500>
 
 4. 不想用社交平臺，想找箇東西替代。可以看看 [博客志](http://www.jetli.com.cn/about.html) 的介紹，爲何要寫博客。
 5. 很多長篇大論的東西，實在想不出其他平臺可以發布，似乎只有知乎專欄吧？
@@ -78,9 +78,9 @@ vertical: false
 
 # 五、曷所建之？
 
-1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n1>自 20171021 開始，目前不顯示，因爲跟谷歌的比誤差有點大</n1>，評論模塊爲 ~~[Valine](https://valine.js.org)~~ [Gitalk](https://gitalk.github.io/)，~~leancloud 提供文章點擊量統計<n1>20181026 之歬爲 UV，之後開始累加 PV</n1>，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告，~~流量分析採用 Google Analytics。
+1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n1>自 20171021 開始，目前不顯示，因爲跟谷歌的比誤差有點大</n1>，評論模塊爲 ~~[Valine](https://valine.js.org)~~ [Gitalk](https://gitalk.github.io/)，~~leancloud 提供文章點擊量統計~~<n1>20181026 之歬爲 UV，之後開始累加 PV</n1>，~~採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~，流量分析採用 Google Analytics。
 2. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kqh.me" target="\_blank">Google</a><n1>Google 收錄得又全又快</n1>，例子：`site:kqh.me 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
-3. 【大事記】詳見 [Hello world!](/blog/2017/10/04/hello world.html)
+3. 【大事記】詳見 [Hello world!](https://kqh.me/blog/2017/10/04/hello world.html)
 
 - 2017-10-03 建站：kujihhoe.com
 - 2017-10-27 弟二版
