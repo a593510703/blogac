@@ -1,9 +1,9 @@
 ---
 author: "柯棋瀚"
-title: "讀新民主主義論"
+title: "讀《新民主主義論》"
 date: 2018-11-22
 lastmod: 2018-11-22
-categories: ["歷史"]
+categories: ["人文"]
 tags: ["課業"]
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/130xbmb.md'
 description: '昨天交的，大四上<v>毛中特上</v>期中作業。很水很水很水很水。本來就是水課，又大四了沒心情寫，一共只用了兩箇小旹，全都是複製粘貼的原文。'
