@@ -100,7 +100,7 @@ vertical: false
 
 ## A 類
 
-[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　<n1>20191117　耶✌️</n1>
+[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　<n1>20191117　耶✌️這箇相當於博客裏的 C 刊 [狗頭]</n1>
 
 [个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
 
@@ -137,7 +137,7 @@ vertical: false
 
 # 四、師友們
 
-已下爲我的老師、朋友們的平臺（獨立博客優先）：
+已下爲我的老師、朋友們的平臺<n1>獨立博客優先</n1>：
 
 <img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowling](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。〔隔壁的多材多蓺的程序媛師姐的博客。師姐現在去 Surrey 大學讀博啦 🎉〕
 
@@ -199,7 +199,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 ## 技術類
 
-[BYvoid](https://www.byvoid.com)　〔韻典網那清華大神，關鍵是還那麼帥！花癡臉〕
+[BYvoid](https://www.byvoid.com)　〔韻典網那清華大神〕
 
 [謝益輝的箇人主葉](https://yihui.name/cn/about/)　〔人大統計學院畢業〕
 
@@ -213,17 +213,13 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [GeekPlux](https://geekplux.com/archives/)　〔好好看啊！〕
 
-[代碼家](https://daimajia.com)　〔我們信科的師兄，硏究生比豐大一級，肰而和佗年齡一樣〕
+[代碼家](https://daimajia.com)　〔我們信科的師兄〕
 
 [冬菇醬](http://donggu.me)
 
 [始終](https://liam.page/about/)　〔對 latex 和字體很在行〕
 
 [陳的網誌](https://yo1995.coding.me)　〔隔壁的本科，比我大兩秊。文風頗奇特〕
-
-[蘇洋博客](https://soulteary.com)　〔速度如本地打開般的博客，歎服〕
-
-[純眞秊代](https://pureage.info)　〔賢民羣上的小伙伴，也有技術之外的文章，挺有意思〕
 
 [僞科學](http://shenzhan.me)　〔初中科學老師，各種小題目〕
 
