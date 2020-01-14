@@ -4,7 +4,7 @@ title: "Hello world!"
 date: 2017-10-04
 lastmod: 2019-10-09
 categories: ["站務"]
-tags: ["公告"]
+tags: ["公吿"]
 url: /blog/2017/10/04/shuoming.html
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/2017-10-04-hello world.md'
 vertical: false
