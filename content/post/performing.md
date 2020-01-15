@@ -3,7 +3,7 @@ author: "柯棋瀚"
 title: "古琴表演、講座記錄"
 date: 2018-12-07
 lastmod: 2019-11-15
-categories: ["古琴"]
+categories: ["琴"]
 tags: ["主葉"]
 url: /performing
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/performing.md'

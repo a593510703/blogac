@@ -1,9 +1,9 @@
 ---
 author: "柯棋瀚"
-title: "書法"
+title: "書"
 date: 2019-07-22
 lastmod: 2019-07-22
-categories: ["書法"]
+categories: ["書"]
 tags: ["主葉"]
 url: /calligraphy
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/calligraphy.md'

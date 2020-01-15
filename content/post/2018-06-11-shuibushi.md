@@ -3,7 +3,7 @@ author: "柯棋瀚"
 title: "敦煌文書 P.2507《水部式》校釋"
 date: 2018-06-11
 lastmod: 2018-06-11
-categories: ["歷史"]
+categories: ["㕜"]
 tags: ["課業"]
 url: /blog/2018/06/11/shuibushi.html
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/post/2018-06-11-shuibushi.md'

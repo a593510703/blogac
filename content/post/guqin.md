@@ -3,7 +3,7 @@ author: "柯棋瀚"
 title: "古琴錄音錄象"
 date: 2018-11-19
 lastmod: 2019-06-12
-categories: ["古琴"]
+categories: ["琴"]
 tags: ["主葉"]
 url: /guqin
 markdown: 'https://github.com/kujihhoe/blogac/blob/master/content/guqin.md'
