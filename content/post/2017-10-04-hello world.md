@@ -76,7 +76,7 @@ vertical: false
 
 把訪問量模塊換成了 <a href="http://ibruce.info/2015/04/04/busuanzi/" target="\_blank">不蒜子</a>，很好用了。數據從今天算起，所以網站訪問總量要實際要多 100 多<n1>當然，基本上都是我自己的流量</n1>。
 
-增加了網站圖標， safari 大的書籤要靠 apple-touch-icon 來實現。
+增加了網站圖標，safari 大的書籤要靠 apple-touch-icon 來實現。
 
 用 PS 做了一箇非常簡陋的打賞部分。
 
@@ -935,7 +935,7 @@ n{
 }
  ```
 
-`v` 是波浪線， `n` 是小字。
+`v` 是波浪線，`n` 是小字。
 
 増加首字下沉：
 

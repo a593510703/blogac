@@ -117,7 +117,7 @@ hugo server
 
 ## 单篇文章的设置
 
-**Front Matter** : Hugo 允许你使用 yaml， toml 或者 json 语法在你每一篇文章的开头进行设置。
+**Front Matter** : Hugo 允许你使用 yaml，toml 或者 json 语法在你每一篇文章的开头进行设置。
 
 **YAML 示例：**
 
