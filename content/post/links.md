@@ -50,7 +50,7 @@ vertical: false
 
 <img src="https://www.gravatar.com/avatar/c7f7153efd11d2404bd7e6ea7e327e74?s=240&d=mp" width="60">　[他與她的夢](https://cncyu.cn/)　與其臨淵羨魚，不如退而結網<n1>20181110</n1>
 
-[生有夏花](http://www.xiatian.pro)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<n1>20181122</n1>
+[生有夏花](http://www.xiatian.name)　一箇心有旁騖的科技工作者。工學博士，專業方向是磨洋工。〔今天偶然一看，博主竟肰把我博客加到葉腳友鏈了，十分感謝！〕<n1>20181122</n1>
 
 <img src="https://love109.cn/images/love109.jpg" width="60" alt="Alt Text" />　[LOVE109❤️纪实小屋](https://love109.cn/)　記錄愛情❤️記錄生活〔今天正好情人節，祝長久〕<n1>20190214</n1>
 
