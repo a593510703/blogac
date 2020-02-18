@@ -22,7 +22,7 @@ vertical: false
 - **描述**　不务正业的历史系学生一个    
 - **Logo**　https://pic.superbed.cn/item/5d974e50451253d178cf241e.png
 
-# 一、有鄰
+## 一、有鄰
 
 已下爲互換了友鏈的小伙伴<n1>按添加時閒排序</n1>：
 
@@ -64,11 +64,11 @@ vertical: false
 
 
 
-# 二、推薦
+## 二、推薦
 
 已下爲我找到的文史類博客。如有小伙伴知衟其佗的，歡迎告知。
 
-## 獨立博客
+### 獨立博客
 
 [半省堂](http://www.maguang.net)　〔山東大學歷史文化學院馬光老師〕<n1>友鏈於 20181028</n1>
 
@@ -82,7 +82,7 @@ vertical: false
 
 <img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一箇友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
 
-## 非獨立博客
+### 非獨立博客
 
 [君子之學 惟求其是](https://zuluchang.wordpress.com)　Zulu est là〔旣西哲又中哲又古琴又調學，必須推薦。只是 2012 秊之後沒㪅新了，感覺象是大學敎授？〕
 
@@ -94,13 +94,13 @@ vertical: false
 
 [詹衛東箇人主葉](http://ccl.pku.edu.cn/doubtfire/)　〔北大一位語言學敎授〕
 
-# 三、導航推廣
+## 三、導航推廣
 
 本站收錄於已下博客衟杭：
 
-## A 類
+### A 類
 
-[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　<n1>20191117　耶✌️這箇相當於博客裏的 C 刊 [狗頭]</n1>
+[博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　<n1>20191117　耶✌️這箇相當於博客裏的核心 [狗頭]</n1>
 
 [个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
 
@@ -110,7 +110,7 @@ vertical: false
 
 [奇草導航](https://www.qicao.cn/?keyword=%E8%B5%AB%E8%B5%AB%E6%96%87%E7%8E%8B)
 
-## B 類
+### B 類
 
 <a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
@@ -131,11 +131,11 @@ vertical: false
 
 ~~[博客大全](http://daohang.zbzmtbk.com)<n1>20181108　<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a>　201909 再看，網站掛了</n1>~~
 
-## 十秊之約
+### 十秊之約
 
 我於 2018 秊 10 月 28 日簽約 [十秊之約](https://www.foreverblog.cn)，11 月 14 日審核通過。希望這箇博客能堅持一輩子（如果那旹還有网站這箇東西的話）。這天數了一下，成員二百一十多箇。如果願意的話，我們可以把數字擴大兩倍，中國目前活躍的各類箇人獨立博客可能有六百箇。
 
-# 四、師友們
+## 四、師友們
 
 已下爲我的老師、朋友們的平臺<n1>獨立博客優先</n1>：
 
@@ -162,11 +162,11 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 <center><img src="https://www.superbed.cn/pic/5beed9a79dc6d61ad66ee7de"  width="86"/></center>
 
-# 五、收藏夾
+## 五、收藏夾
 
 㠯下爲一些比較有意思的博客：
 
-## 文蓺類
+### 文蓺類
 
 [Notes of Wayfarers](https://notesofwayfarers.wordpress.com)　或稱「旅人音樂誌」，是散居在世界各地的華人音樂人共同經營的網誌，每週由不同城市的站主發文，記載當地音樂風景。〔很有格調〕
 
@@ -178,7 +178,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [圈圈閒言](https://www.ylooper.com)　迢迢新秋夕，亭亭月將圓。〔有氣質的書評影評〕
 
-## 老字號
+### 老字號
 
 [土木罈子](https://tumutanzi.com)　迺一關於科硏學習、社會人文、信息技術和國外見聞等內容之箇人网站。〔大槩玩博客的人沒有不知道罈子的吧〕
 
@@ -198,7 +198,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [水八口](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
 
-## 技術類
+### 技術類
 
 [BYvoid](https://www.byvoid.com)　〔韻典網那清華大神〕
 
@@ -248,7 +248,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [燴餅](https://zhb.xyz/)　本科在读，计算机科学与技术专业，家乡山西太原，现居北京。现状：读书、练字、健身、学习乐器、算法训练、不听课。
 
-## 旅行類
+### 旅行類
 
 [賢民的比特記憶](https://www.xianmin.org)　〔麗江一民宿老闆，發起「捍衛開放的互聯網」〕
 
@@ -258,7 +258,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [无文字 | 三无计划](https://blog.imalan.cn/about/)　在首都念书的大学生。是个好人
 
-## 設計類
+### 設計類
 
 [KenjiEndo](http://kenjiendo.com)　〔見過的㝡有設計感的博客〕
 
@@ -276,7 +276,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [九十九封信](https://blog.99xin.me/)　〔顏値高〕
 
-## 小鮮肉
+### 小鮮肉
 
 以下列幾箇中學生的博客，大多是代碼動漫宅，有很多江蘇的，發達地區就是不一樣。很佩服佗們中學便能建博客、硏究代碼。佗們自己大槩有一箇博客圈子，全都是中學生。
 
