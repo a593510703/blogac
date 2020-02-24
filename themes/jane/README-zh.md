@@ -35,7 +35,7 @@ Jane 是一个专注于阅读体验的 Hugo 主题。最早的版本基于 [hugo
 
 ## 如何使用？
 
-**注意：** 这个教程假设你 **第一次** 使用 [Hugo][] 。 [Hugo][] 是一个非常流行的静态网站生成工具。 你可查看官方文档 [Hugo Official Docs][] 获取更多帮助。
+**注意：** 这个教程假设你 **第一次** 使用 [Hugo][] 。[Hugo][] 是一个非常流行的静态网站生成工具。你可查看官方文档 [Hugo Official Docs][] 获取更多帮助。
 
 [Hugo]: https://gohugo.io/
 [Hugo Official Docs]: https://gohugo.io/getting-started/
@@ -180,7 +180,7 @@ npm install
 npm run dev
 ```
 
-这条命令会同时运行  `webpack --watch` 和 `hugo server`  。 如果你修改了任何文件，浏览器将会自动更新。
+这条命令会同时运行  `webpack --watch` 和 `hugo server`  。如果你修改了任何文件，浏览器将会自动更新。
 
 
 

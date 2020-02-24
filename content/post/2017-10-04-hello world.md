@@ -259,13 +259,13 @@ ruby 竟然只支持 JDK 8！
 
 在 CF 設置了一下縮小 js、css、html 文件的大小。似乎是快了一點。
 
-在這箇網站下面另外設了一箇子目錄用來存私人的東西，用私人倉庫存儲，robots 設置禁止爬蟲抓取，這樣只要我不說網址沒人知道它的存在。現在全面進入雲時代啦！😝要列印的話用 Chrome，「使用系統對話框列印」，每頁排 2 頁，這樣一行 30 箇字。   
-有這麼一些考慮：①可以列印；②私人；③排版、字體要和 word 很接近；④各箇終端能以最便捷的方式瀏覽。   
+在這箇網站下面另外設了一箇子目錄用來存私人的東西，用私人倉庫存儲，robots 設置禁止爬蟲抓取，這樣只要我不說網址沒人知道它的存在。現在全面進入雲時代啦！😝要列印的話用 Chrome，「使用系統對話框列印」，每頁排 2 頁，這樣一行 30 箇字。  
+有這麼一些考慮：①可以列印；②私人；③排版、字體要和 word 很接近；④各箇終端能以最便捷的方式瀏覽。  
 Gitbook 的私人倉庫要給錢，我申請到了 GitHub 的學生免費私人倉庫，不用白不用。滿足第三點的也就只有我的博客。所以說，上述方案是最佳選擇。
 
 ### 11 月 4 日
 
-開熏，把標點換成方正新書宋啦！現在比 word 排版還方便了，之前用 word 還要把標點替換成新書宋。   
+開熏，把標點換成方正新書宋啦！現在比 word 排版還方便了，之前用 word 還要把標點替換成新書宋。  
 用 `Fontmin` 這箇 APP，提取需要的文字字體，簡直神器啊！傻瓜式操作！還給你自動生成 `@font-face`，然後添加到 css 裏面就好啦：
 ```
 @font-face {
@@ -296,7 +296,7 @@ body {
 
 後來，safari 標點避頭尾竟然莫名其妙失效，又重裝一遍。惹不起惹不起不折騰了。
 
-做了一箇大膽的決定，把分類頁作爲主頁，原來的主頁刪掉。  
+做了一箇大膽的決定，把分類頁作爲主頁，原來的主頁刪掉。 
 成功遷移主頁。更加精簡啦。
 
 再做一箇大膽的決定，增加箇人主頁。
@@ -321,13 +321,13 @@ Safari 導出 PDF沒有自動斷行，所以一行字往往被斷開了，Chrome
 keqihandeMacBook-Pro:themes keqihan$ textlint /Users/keqihan/Downloads/GitHub/kujihhoe.github.io/_posts/2017-10-04-hualian.md
 
 /Users/keqihan/Downloads/GitHub/kujihhoe.github.io/_posts/2017-10-04-hualian.md
-   30:37   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
-   30:38   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
-   73:94   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
-   73:96   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
-  114:203  ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
-  114:230  ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
-  114:232  ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。  ja-space-between-half-and-full-width
+   30:37   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
+   30:38   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
+   73:94   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
+   73:96   ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
+  114:203  ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
+  114:230  ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
+  114:232  ✓ error  原則として、全角文字と半角文字の間にスペースを入れます。 ja-space-between-half-and-full-width
 
 ✖ 7 problems (7 errors, 0 warnings)
 ✓ 7 fixable problems.
