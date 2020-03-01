@@ -62,12 +62,12 @@ hr{
 	}
     #intro .title {
     text-align: center;
-    letter-spacing: 8px;
-    font-size: 56px;
+    letter-spacing: 9px;
+    font-size: 52px;
 	  padding: 0 0 30px 0;
 	  margin: -20px 0 3px 0;
     color: #151515;
-	  font-weight: bold;
+	  font-weight: 800;
 	  border-bottom: #C41011 3px solid;
   }
   @media screen and (max-width:1000px){
