@@ -8,7 +8,7 @@ disablePathToLower = true
 hasCJKLanguage = true     # has chinese/japanese/korean ?
 paginate = 15              # Number of articles displayed on the homepage
 
-copyright = ""            # default: author.name ↓
+# copyright = ""            # default: author.name ↓
 uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
 [markup]
@@ -48,22 +48,22 @@ defaultContentLanguage = "en"
      name = "赫赫文王"
      weight = 10
      identifier = "archives"
-     url = "/post/"
+     url = "/post"
  [[menu.main]]
     name = "分類"
     weight = 20
     identifier = "categories"
-    url = "/categories/"
+    url = "/categories"
   [[menu.main]]
    name = "系列"
    weight = 30
    identifier = "tags"
-   url = "/tags/"
+   url = "/tags"
  [[menu.main]]
    name = "作者"
     weight = 40
     identifier = "author"
-  url = "/author/"
+  url = "/author"
    [[menu.main]]
      name = "維基"
       weight = 70
@@ -99,10 +99,10 @@ defaultContentLanguage = "en"
 
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
-  toc = false                                                               # 是否开启目录
+  toc = true                                                               # 是否开启目录
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
-  bootcdn = true           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
-  mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
+  bootcdn = false           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
+  mathjax = true           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a>，非商業用途可隨意使用，但須遵守此協定'
   linkToMarkDown = true
   vertical = true
@@ -133,7 +133,7 @@ defaultContentLanguage = "en"
     photoswipeSKIN = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.2/dist/default-skin/default-skin.css" integrity="sha256-c0uckgykQ9v5k+IqViZOZKc47Jn7KQil4/MP3ySA3F8=" crossorigin="anonymous">'
 
   [params.counter.leancloud]  # Chinese leancloud visitor counter  # leancloud 计数器
-    enable = true
+    enable = false
     appId = "yp4nIF0OXyIMTEyjixb0p6w5-gzGzoHsz"
     appKey = "iooXBj18fhM6S4yonspGEspA"
 
