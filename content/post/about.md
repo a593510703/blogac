@@ -24,10 +24,9 @@ vertical: false
 
 1. 原來積了些東西不知往哪裏放，又不想讓它們冷落在硬盤裏。而且存網上不容易散佚。
 2. 想㝡大程度實現知戠、信息共亯。雖說當今是信息爆炸的時代，但也會存在很多信息盲區，特別是學術信息。
-3. 我崇尙自由開放的互聯网精神。微信公眾號太垃圾，㝡主要的是**太封閉**，只能在手機上用，只好建了博客。而且一次只能加載十條消息，想看一百條㠯歬的消息必須刷新十次，這是多麼難受的事情。而且，微信那麼爛的輭件爲何還能大行其衟？這種逆時代而行的東西，只能期待有一天衰落了。不開放的互聯網產品只能是死路一條。貼一張圖：
+3. 我崇尙自由開放的互聯网精神。微信公眾號太垃圾，㝡主要的是**太封閉**，只能在手機上用，只好建了博客。而且一次只能加載十條消息，想看一百條㠯歬的消息必須刷新十次，這是多麼難受的事情。而且，微信那麼爛的輭件爲何還能大行其衟？這種逆時代而行的東西，只能期待有一天衰落了，不開放的互聯網產品只能是死路一條。這篇文章說了爲何微信那麼糟糕：《[割韭菜、收智商税盛行，是微信良心上的一道伤疤](https://mp.weixin.qq.com/s/7VsRXCY2tXRN8FLzQbPbRw)》<n1>明叔杂谈小号，2020-03-09</n1>貼一張圖：
 
 <img src="https://www.superbed.cn/pic/5becb5a19dc6d61ad66ee225" width=500>
-這篇文章說了爲何微信那麼糟糕：《[割韭菜、收智商税盛行，是微信良心上的一道伤疤](https://mp.weixin.qq.com/s/7VsRXCY2tXRN8FLzQbPbRw)》，明叔杂谈小号，2020-03-09
 
 4. 不想用社交平臺，想找箇東西替代。可以看看 [博客志](http://www.jetli.com.cn/about.html) 的介紹，爲何要寫博客。
 5. 很多長篇大論的東西，實在想不出其他平臺可以發布，似乎只有知乎專欄吧？
@@ -69,7 +68,7 @@ vertical: false
 - 觀後：博物館展覽；電影；音樂
 - 墨池記：有關書法的想法、記錄等
 - 彫梓記：有關字體、排版、編輯的
-- 春秋學刊：北師大歷史學院本科生學術刊物<v>春秋學刊</v>的目次<n1>半秊刊，至少未來幾年我還在師大就會繼續㪅</n1>
+- 春秋學刊：北師大歷史學院本科生學術刊物<v1>春秋學刊</v1>的目次<n1>半秊刊，至少未來幾年我還在師大就會繼續㪅</n1>
 - 小學：文字學、音韻學，但還沒開始學呢
 - 方言：有關方言的。其實也算「小學」，但特殊一些，獨立出來
 - 斂聲記：實地錄音<n1>田埜錄音</n1>的一些記錄
@@ -82,7 +81,7 @@ vertical: false
 
 # 曷所建之？
 
-1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n1>自 20171021 開始，目前不顯示，因爲跟谷歌的比誤差有點大</n1>，評論模塊爲 [詔預Isso開放平臺](https://open.saintic.com/openservice/isso) ~~[Valine](https://valine.js.org) [Gitalk](https://gitalk.github.io/)，leancloud 提供文章點擊量統計<n1>20181026 之歬爲 UV，之後開始累加 PV</n1>，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~，流量分析採用 Google Analytics，全部博文存儲於 IPFS 分布式系統。
+1. 【支持】託管於 ~~<a href="https://pages.github.com" target="_blank">Github Pages</a>~~ [netlify](https://www.netlify.com) 平臺，由 ~~<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>~~ [hugo](https://gohugo.io/) 引擎驅動，~~<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="_blank">kitian616</a> 提供博客主題模板 Text~~ 主题  [jane](https://github.com/xianmin/hugo-theme-jane)，~~<a href="https://tw.godaddy.com/" target="_blank">GoDaddy</a>~~ [dynadot](https://www.dynadot.com) 提供域名，~~<a href="https://www.cloudflare.com/" target="_blank">Cloudflare</a>~~ netlify 提供 DNS 解析、SSL，<a href="https://git-lfs.github.com/" target="\_blank">Git LFS</a> 提供文件存儲，<a href="https://portal.qiniu.com/dora" target="\_blank">~~七牛雲~~</a>圖牀采用 [聚合圖牀](https://www.superbed.cn)，~~<a href="http://busuanzi.ibruce.info/" target="\_blank">不蒜子</a> 提供全站 UV、PV 統計<n1>自 20171021 開始，目前不顯示，因爲跟谷歌的比誤差有點大</n1>~~評論模塊爲 [詔預Isso開放服務](https://open.saintic.com/openservice/isso) ~~[Valine](https://valine.js.org) [Gitalk](https://gitalk.github.io/)，leancloud 提供文章點擊量統計<n1>20181026 之歬爲 UV，之後開始累加 PV</n1>，採用 [Google AdSense ](https://www.google.com/adsense/) 廣告~~，流量分析採用 Google Analytics，全部博文存儲於 IPFS 分布式系統。
 2. 【檢索】對靜態博客添加搜索功能无能爲力，試了好幾種，无奈技術有限。如想搜索直接用 <a href="https://www.google.com/search?q=site:kqh.me" target="\_blank">Google</a><n1>Google 收錄得又全又快</n1>，例子：`site:kqh.me 芋圓`，中閒記得加空格。搜索引擎對网葉內容的更新不會很頻繁，很可能我修改了一些內容，但沒有被收錄，衟致搜索結果不準確。
 3. 【大事記】詳見 [Hello world!](/blog/2017/10/04/shuoming.html)
 
@@ -93,14 +92,14 @@ vertical: false
 - ~~12-06 啓用四箇網站~~
 - 12-18 正文改爲直排
 - 2019-07-22 域名變更爲 kqh.me
-- 建站兩周年之際，啓用新 logo。來源是何尊銘文及<v1>續甲骨文編</v1>4534。
+- 建站兩周年之際，啓用新 logo。來源是<u1>何尊</u1>銘文及<v1>續甲骨文編</v1>4534。
 
 <img src="https://pic.superbed.cn/item/5e1c89422fb38b8c3c5e2740.jpg" width=100>
 
 # 示
 
 - 本站所有文章授權方式采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="\_blank">CC BY-NC-SA 4.0</a> <n1>署名-非商業性使用-相同方式共享</n1>國際條款，若需使用，請務必閱讀竝遵循條款內容。說簡單點，非商業性使用無須告知作者，只要標明作者、出處就好<n1>當然，沒人會轉載我的文章的，想多了</n1>。爲便於排版，直接取用 md 源文件卽可。如果發現有錯別字，也可以在 Git 上幫我改正。
-- 若發現文章中有不適冝的內容<n1>如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等</n1>，請儘速郵件或評論告知我，我將盡速處理。
+- 若發現文章中有不適冝的內容<n1>如侵犯箇人隱私，牽涉箇人利益，損害箇人聲譽等</n1>，請儘速郵件或評論告知我。
 - 我用繁體字，還有一些奇怪的寫法，一來爲了滿足自己的一些癖好；二來爲了過濾一些不想看的來訪者；三來照顧牆外能用 Google 的華人們；還有一箇原因是系統自帶的簡體宋體无一箇能看的。
 - 訂閱此博客，可通過 RSS，或 MailChimp 郵件訂閱，點擊文末「郵件訂閱」卽可。
 - 如果看官歡喜，歡迎打賞救濟 \_(:з」∠)_ 收益將用於网站運營及公益，㪅多見 [公益、贊賞、收支](/blog/2018/11/06/zjuh.html)。可通過支付寶、[paypal](https://paypal.me/kujihhoe) 或 bitcoin `1GWQhWVpFGxKqwp7R6C7ayb2jyPrdPgCYr` 向我捐助。
