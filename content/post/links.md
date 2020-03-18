@@ -80,7 +80,7 @@ vertical: false
 
 [寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
 
-<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 我是這箇博客的第一箇友鏈，非常榮幸〕<n1>友鏈於 20190518</n1>
+<img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 〕<n1>友鏈於 20190518</n1>
 
 ### 非獨立博客
 
@@ -116,9 +116,8 @@ vertical: false
 
 ### B 類
 
-<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a></n1>
 
-<script id="zgboke-nav-js" language="javascript" src="https://zgboke.org/hutui.js?delico"></script>
+
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
 [網址大全](http://www.98du.net/bk/246.html)
@@ -135,6 +134,8 @@ vertical: false
 
 ~~[博客大全](http://daohang.zbzmtbk.com)<n1>20181108　<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a>　201909 再看，網站掛了</n1>~~
 
+~~<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a>202003 再看，網站掛了</n1>~~
+
 ### 十秊之約
 
 我於 2018 秊 10 月 28 日簽約 [十秊之約](https://www.foreverblog.cn)，11 月 14 日審核通過。希望這箇博客能堅持一輩子（如果那旹還有网站這箇東西的話）。這天數了一下，成員二百一十多箇。如果願意的話，我們可以把數字擴大兩倍，中國目前活躍的各類箇人獨立博客可能有六百箇。
@@ -150,19 +151,19 @@ vertical: false
 我家思爲的微信公眾號 **維克李**：有關影相，和一丟丟講故事的野心。〔我家的，嗯〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9419dc6d61ad66ee7d6"  width="86"/></center>
-JBJ 的公眾號 **UnbelievableRadio**：親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。〔王力宏的忠實粉絲〕
+JBJ 的公眾號 **UnbelievableRadio** ：親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。〔王力宏的忠實粉絲〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9509dc6d61ad66ee7d9"  width="86"/></center>
-神人暢的公眾號 **似魚與神人暢**：努力做一股淸流。喜馬拉雅電臺：[神人暢的音樂現場](https://www.ximalaya.com/yinyue/19475626/)〔學神，只能膜拜〕
+神人暢的公眾號 **似魚與神人暢** ：努力做一股淸流。喜馬拉雅電臺：[神人暢的音樂現場](https://www.ximalaya.com/yinyue/19475626/)〔學神，只能膜拜〕
 
 <center><img src="https://www.superbed.cn/pic/5beed95c9dc6d61ad66ee7da"  width="86"/></center>
-LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。〔腦洞眞大呀〕
+LYH 的公眾號 **埋劍的實驗室** ：一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。〔腦洞眞大呀〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9799dc6d61ad66ee7dc"  width="86"/></center>
-南開流惜子的公眾號 **惜言落雨**：滿紙荒唐言。〔大佬啊大佬〕
+南開流惜子的公眾號 **惜言落雨** ：滿紙荒唐言。〔大佬啊大佬〕
 
 <center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
-琴社一位妹子的公眾號 **時悅清歡**：悅享人生，時空有愛是清歡！〔新開，「我想一直做下去，希望成爲生活的一部分吧」，她如是說〕
+琴社一位妹子的公眾號 **時悅清歡** ：悅享人生，時空有愛是清歡！〔新開，「我想一直做下去，希望成爲生活的一部分吧」，她如是說〕
 
 <center><img src="https://www.superbed.cn/pic/5beed9a79dc6d61ad66ee7de"  width="86"/></center>
 
@@ -178,7 +179,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [尺宅即江湖](http://www.qtwm.com)　尺宅足自庇，寸田有餘畦。
 
-[禾城](https://mytrix.in)　〔我天，好有才，然而人家學物理的〕
+[禾城](https://mytrix.in)　〔我天，好有才〕
 
 [圈圈閒言](https://www.ylooper.com)　迢迢新秋夕，亭亭月將圓。〔有氣質的書評影評〕
 
@@ -210,7 +211,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [宇宙的心弦](https://www.physixfan.com)　〔北大物理學院，還有点好看……瑟瑟發抖〕
 
-[Wincer's blog](https://blog.itswincer.com)　〔985 程序員，秊齡和我一樣，感覺佗是箇很好相處的人，也很有品味〕
+[Wincer's blog](https://blog.itswincer.com)　〔985 程序員，秊齡和我一樣，看起來是很好相處的人，也很有品味〕
 
 [HXC博客](https://www.huxinchun.com/Home/index)　〔佗自己做了箇博客模板〕
 
