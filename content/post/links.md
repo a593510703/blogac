@@ -200,7 +200,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [Verkey's blog](https://blog.verkey.org/)　北方大漢在成都，某公司pre-sales
 
-[水八口](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
+[水八口記](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
 
 ### 技術類
 
@@ -242,7 +242,7 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 
 [Quanyin 說](https://www.quanyin.xyz/cross.html)　〔復旦物理硏究生〕
 
-[印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工的 PhD〕
+[印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工讀書〕
 
 [海岛心hey](https://fehey.com)　Every 🐦 has an 🦅's dream.〔Gridea 一个简单、开源、强大的静态博客写作客户端〕
 
@@ -269,8 +269,6 @@ LYH 的公眾號 **埋劍的實驗室**：一些簡單的嘗試，諸位可以�
 [JJ Ying](http://iconmoon.com)　〔AnyWay.FM 也太好看！我的主葉受到他的啓發〕
 
 [You Byun](http://www.youbyun.com)　
-
-[水吧口記](https://blog.shuiba.co/domains)　〔這哥們沉迷于自己設計博客，看著還行〕
 
 [Leegorous](http://leegorous.net/)　〔網站好看。網葉設計師〕
 
