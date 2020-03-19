@@ -116,8 +116,6 @@ vertical: false
 
 ### B 類
 
-
-
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
 [網址大全](http://www.98du.net/bk/246.html)
@@ -144,32 +142,37 @@ vertical: false
 
 已下爲我的老師、朋友們的平臺<n1>獨立博客優先</n1>：
 
-<img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowling](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。〔隔壁的多材多蓺的程序媛師姐的博客。師姐現在去 Surrey 大學讀博啦 🎉〕
+<img src="https://www.superbed.cn/pic/5beed9969dc6d61ad66ee7dd" width="160">　[Rowling](http://rowl1ng.com)　喜歡鑽硏技術，熱愛畫畫，偶爾彈琴寫字。
 
-大動物的 [豆瓣](https://www.douban.com/people/178199972/)、[知乎](https://www.zhihu.com/people/hua-zhe-80/activities)。〔新書出版，走過路過不要錯過！〕
+大動物的 [豆瓣](https://www.douban.com/people/178199972/)、[知乎](https://www.zhihu.com/people/hua-zhe-80/activities)。
 
-我家思爲的微信公眾號 **維克李**：有關影相，和一丟丟講故事的野心。〔我家的，嗯〕
+【維克李】有關影相，和一丟丟講故事的野心。
 
 <center><img src="https://www.superbed.cn/pic/5beed9419dc6d61ad66ee7d6"  width="86"/></center>
-JBJ 的公眾號 **UnbelievableRadio** ：親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。〔王力宏的忠實粉絲〕
+
+【UnbelievableRadio】親愛的聽眾朋友，我是伱的代班 DJ，想和伱聊聊音樂。
 
 <center><img src="https://www.superbed.cn/pic/5beed9509dc6d61ad66ee7d9"  width="86"/></center>
-神人暢的公眾號 **似魚與神人暢** ：努力做一股淸流。喜馬拉雅電臺：[神人暢的音樂現場](https://www.ximalaya.com/yinyue/19475626/)〔學神，只能膜拜〕
+
+【似魚與神人暢】努力做一股淸流。喜馬拉雅電臺：[神人暢的音樂現場](https://www.ximalaya.com/yinyue/19475626/)
 
 <center><img src="https://www.superbed.cn/pic/5beed95c9dc6d61ad66ee7da"  width="86"/></center>
-LYH 的公眾號 **埋劍的實驗室** ：一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。〔腦洞眞大呀〕
+
+【埋劍的實驗室】一些簡單的嘗試，諸位可以一同看看，樂呵樂呵。
 
 <center><img src="https://www.superbed.cn/pic/5beed9799dc6d61ad66ee7dc"  width="86"/></center>
-南開流惜子的公眾號 **惜言落雨** ：滿紙荒唐言。〔大佬啊大佬〕
+
+【惜言落雨】滿紙荒唐言。
 
 <center><img src="https://www.superbed.cn/pic/5beed96b9dc6d61ad66ee7db"  width="94"/></center>
-琴社一位妹子的公眾號 **時悅清歡** ：悅享人生，時空有愛是清歡！〔新開，「我想一直做下去，希望成爲生活的一部分吧」，她如是說〕
+
+【時悅清歡】悅享人生，時空有愛是清歡！
 
 <center><img src="https://www.superbed.cn/pic/5beed9a79dc6d61ad66ee7de"  width="86"/></center>
 
 ## 五、收藏夾
 
-㠯下爲一些比較有意思的博客：
+以下爲一些比較有意思的博客：
 
 ### 文蓺類
 
@@ -273,7 +276,7 @@ LYH 的公眾號 **埋劍的實驗室** ：一些簡單的嘗試，諸位可以�
 
 [Leegorous](http://leegorous.net/)　〔網站好看。網葉設計師〕
 
-[reuixiy](https://reuixiy.github.io/)　〔喜歡排版的同道中人〕
+[reuixiy](https://reuixiy.github.io/)　〔喜歡排版〕
 
 [羡辙杂俎](http://zhangwenli.com/blog/)　〔這界面，太厲害啦！！！！〕
 
