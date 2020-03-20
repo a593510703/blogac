@@ -100,6 +100,8 @@ vertical: false
 
 [时间物质](https://matterofti.me/)　<n1>20200309正式上線。一个弱社交型博客網站，利用 writefreely 搭建</n1>
 
+[spotify的播客收藏](https://www.douban.com/note/752408893/)
+
 本站收錄於已下博客衟杭：
 
 ### A 類
@@ -216,8 +218,6 @@ vertical: false
 
 [Wincer's blog](https://blog.itswincer.com)　〔985 程序員，秊齡和我一樣，看起來是很好相處的人，也很有品味〕
 
-[HXC博客](https://www.huxinchun.com/Home/index)　〔佗自己做了箇博客模板〕
-
 [謝益輝的箇人主葉](https://yihui.name)　箇人興趣：直觀的、負責的和用腦子的統計學；老少咸宜的笑話；聰明的、有趣的計算機程序。
 
 [GeekPlux](https://geekplux.com/archives/)　〔好好看啊！〕
@@ -252,9 +252,13 @@ vertical: false
 
 [友人C](https://www.ihewro.com/)　〔一箇好看的 typecho 主題〕
 
+[HXC博客](https://www.huxinchun.com/Home/index)　〔自己做了箇博客模板〕
+
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
 
 [燴餅](https://zhb.xyz/)　本科在读，计算机科学与技术专业，家乡山西太原，现居北京。现状：读书、练字、健身、学习乐器、算法训练、不听课。
+
+[无文字 | 三无计划](https://blog.imalan.cn/about/)　在首都念书的大学生。是个好人
 
 ### 旅行類
 
@@ -263,8 +267,6 @@ vertical: false
 [旅行漫記](https://travel.synyan.net/54391)　〔老虎哥〕
 
 [Wayfarer Z](https://aboutmy.name)
-
-[无文字 | 三无计划](https://blog.imalan.cn/about/)　在首都念书的大学生。是个好人
 
 ### 設計類
 
@@ -293,7 +295,3 @@ vertical: false
 [徐天樂箇人博客](https://blog.xtlsoft.top)　就讀于南通市通州區實驗中學，創客工作室主幹成員〔2017 秊的介紹〕
 
 [I BCL.](https://ibcl.us)　〔〇〇後無線電愛好者，十分淸奇〕
-
-### 其他
-
-[spotify的播客收藏](https://www.douban.com/note/752408893/)
