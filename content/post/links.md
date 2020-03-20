@@ -292,4 +292,8 @@ vertical: false
 
 [徐天樂箇人博客](https://blog.xtlsoft.top)　就讀于南通市通州區實驗中學，創客工作室主幹成員〔2017 秊的介紹〕
 
-[I BCL.](https://ibcl.us)　〔喜歡無線電的〇〇後，十分淸奇〕
+[I BCL.](https://ibcl.us)　〔〇〇後無線電愛好者，十分淸奇〕
+
+### 其他
+
+[spotify的播客收藏](https://www.douban.com/note/752408893/)
