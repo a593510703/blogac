@@ -1,15 +1,16 @@
 body {
-background: #fffae8;
+background-color: #000
 	}
 #a{
+	background: #fffae8;
 	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
 	word-wrap:break-word;
 	text-align: justify;
 	text-justify: inter-ideograph;
 	max-width: 700px;
 	padding:  60px 100px 50px 100px;
-	margin: 100px auto;
-	box-shadow:  0 0 0 2px #c41011, 0 0 0 8px #fffbe0,0 0 0 18px #c41011
+	margin: 220px auto 100px auto;
+	box-shadow:  0 0 0 8px #fffae8,0 0 0 18px #c41011, 0 0 0 45px #fffae8
 }
 #a  a{
   color: #c41011;
@@ -18,8 +19,7 @@ background: #fffae8;
 }
 #a a:hover {
 color: #151515;
-background: #ffc7c7;
-border-radius: 5px;
+text-decoration: underline;
 }
 @media screen and (max-width:1000px){
   #a{
@@ -28,6 +28,7 @@ border-radius: 5px;
 	box-shadow: none}
 	}
 #b{
+		background: #fffae8;
 	max-width: 740px;
 	margin: auto;
 }
