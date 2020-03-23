@@ -9,7 +9,7 @@ background-color: #e0f6ff
 	text-justify: inter-ideograph;
 	max-width: 700px;
 	padding:  60px 100px 50px 100px;
-	margin: 220px auto 100px auto;
+	margin: 200px auto 300px auto;
 	box-shadow:  0 0 0 8px #fffae8,0 0 0 18px #c41011, 0 0 0 45px #fffae8
 }
 #a  a{
@@ -30,7 +30,7 @@ text-decoration: underline;
 #b{
 		background: #fffae8;
 	max-width: 740px;
-	margin: auto;
+	margin:auto;
 }
 hr{
 	border: none;
@@ -57,7 +57,7 @@ hr{
 	margin:0 0 100px 0;
 	}
 	#intro .end2{
-	border-top: #C41011 1px solid;
+
 	padding: 0 0 3px 0;
 	margin: -77px 0 75px 0;
 	}
