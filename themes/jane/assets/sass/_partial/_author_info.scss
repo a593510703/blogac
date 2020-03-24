@@ -39,19 +39,11 @@
       .author-mail {
         padding-left: 2px;
         display: inline;
-        font-size: 16px;
-        font-weight: 400;
-          a{
-            font-family: $global-code-font-family;
-            color: $black;
-            text-decoration: none;
+        font-size: 17px;
+        font-weight: 500;
+            font-family: $code-font-family;
             letter-spacing: 0;
-          }
-          a:hover{
-            background: $pink;
-            border-radius: 5px;
-            padding: 4px 0;
-          }
+
       }
     }
     .author-bottom {

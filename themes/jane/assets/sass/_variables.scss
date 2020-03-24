@@ -64,9 +64,9 @@ $global-lineheight: 1.85 !default;
 }
 $global-font-family: '新书宋',"Adobe Garamond Pro",AdobeGaramondPro,Garamond,"Adobe Caslon Pro",AdobeGaramondPro,Caslon,"Minion Pro",Minion,"Adobe Gurmukhi",AdobeGurmukhi,Baskerville,"Palatino Linotype",Palatino,"Noto Serif CJK KR",NotoSerifCJKKR,"Source Han Serif K",SourceHanSerifK,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif !default;
 $global-serif-font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif !default;
-$global-code-font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas,"Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif !default;
 $global-note-font-family: '新书宋',"Adobe Garamond Pro",AdobeGaramondPro,Garamond,"Adobe Caslon Pro",AdobeGaramondPro,Caslon,"Minion Pro",Minion,"Adobe Gurmukhi",AdobeGurmukhi,Baskerville,"Times New Roman","方正新楷体_GB18030",FZNewKai_GB18030-Z03,STKaiti,Kai,"楷体",Kaiti,"Kaiti TC"!default;
 $global-fang-font-family: "方正仿宋","方正仿宋-Z02",FZFangSong-Z02,STFangsong,"仿宋",FangSong !default;
+$code-font-family: Consolas,"Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif !default;
 $global-background: $white !default;
 
 // Headings font size of the site.
@@ -178,14 +178,8 @@ $content-table-border-color: darken($deputy-color, 3%) !default;
 // ========== Code ========== //
 // Color of the code.
 $code-color: #c7254e !default;
-
 // Font size of code.
 $code-font-size: 0.9em !default;
-
-// Font family of the code.
-$code-font-family: Menlo, Consolas, "Source Code Pro", Inconsolata, Monaco, "Courier New",
- monospace !default;
-
 // Color of code highlight, solarized.
 $code-highlight-color: (
   comment: #93a1a1,

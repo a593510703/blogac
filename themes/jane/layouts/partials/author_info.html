@@ -16,7 +16,7 @@
     <p class="author-title">{{ i18n "author" }}</p>
     <span class="author-name">{{ $author_name }}</span>
     {{ with $author_mail -}}
-    {{ partial "svg/email.svg" }}<span class="author-mail"><a href="mailto:{{ . }}">{{ . }}</a></span>
+    {{ partial "svg/email.svg" }}<span class="author-mail">{{ . }}</span>
     {{- end }}
     {{ with $author_desc -}}
     <p class="author-desc">{{ . }}</p>

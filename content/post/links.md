@@ -96,29 +96,25 @@ vertical: false
 
 ## 三、導航推廣
 
-[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
-
-[时间物质](https://matterofti.me/)　<n1>20200309正式上線。一个弱社交型博客網站，利用 writefreely 搭建</n1>
-
-[spotify的播客收藏](https://www.douban.com/note/752408893/)
-
 本站收錄於已下博客衟杭：
 
-### A 類
+### 一類
+
+[十秊之約](https://www.foreverblog.cn)　<n1>20181114　這天數了一下，成員二百一十多箇。如果願意的話，我們可以把數字擴大兩倍，中國目前活躍的各類箇人獨立博客可能有六百箇</n1>
 
 [博客志 - 優秀箇人獨立博客導航](http://www.jetli.com.cn)　<n1>20191117　耶✌️</n1>
 
-[个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
-
 [Blog We](https://blogwe.com/allblogs.html)<n1>20190309—20190929　感謝收錄我，現爲友情特約博客　<a href="https://blogwe.com/kqh-me.html" target="_blank">收錄葉</a></n1>
 
-<img src="https://gravatar.loli.net/avatar/7347cb9f09cbc939b642052c9b5fb70d"  width="60" alt="Alt Text" />　[博客樹](http://blogs.org.cn)<n1>20181111</n1>
+[博客樹](https://manman.qian.lu/bokeshu)<n1>20181111</n1>
+
+[个站商店](http://storeweb.cn)　<n1>20181030　<a href="https://storeweb.cn/site/one/661" target="_blank">收錄葉</a></n1>
 
 [奇草導航](https://www.qicao.cn/?keyword=%E8%B5%AB%E8%B5%AB%E6%96%87%E7%8E%8B)
 
 [大头针网址](https://dtz9.org/#cat-8)　<n1>時間未知</n1>
 
-### B 類
+### 二類
 
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
@@ -138,9 +134,15 @@ vertical: false
 
 ~~<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a>202003 再看，網站掛了</n1>~~
 
-### 十秊之約
+### 其他推薦
 
-我於 2018 秊 10 月 28 日簽約 [十秊之約](https://www.foreverblog.cn)，11 月 14 日審核通過。希望這箇博客能堅持一輩子（如果那旹還有网站這箇東西的話）。這天數了一下，成員二百一十多箇。如果願意的話，我們可以把數字擴大兩倍，中國目前活躍的各類箇人獨立博客可能有六百箇。
+[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+
+[博文历史列表](https://liebiao.qian.lu/)　〔也是格子老師運營的，最大的亮點是 RSS 聚合！！〕
+
+[时间物质](https://matterofti.me/)　<n1>20200309正式上線。一个弱社交型博客網站，利用 writefreely 搭建</n1>
+
+[spotify的播客收藏](https://www.douban.com/note/752408893/)
 
 ## 四、師友們
 
@@ -180,15 +182,25 @@ vertical: false
 
 ### 文蓺類
 
-[Notes of Wayfarers](https://notesofwayfarers.wordpress.com)　或稱「旅人音樂誌」，是散居在世界各地的華人音樂人共同經營的網誌，每週由不同城市的站主發文，記載當地音樂風景。〔很有格調〕
+[游子微博](https://www.lindongfang.top/)　目前有五百余篇，古有先秦诗三百，今现微博文五百，纵观游子微博，记录了从2009年到如今的生活，内容涉及生老病死、情感、旅行、工作、新闻事件等等，过往十年辑录，有开心、忧伤、快乐、痛苦，人生况味，尽在其中。这，或许就是文字的意义和魅力。
 
-[程心誠意](https://chenghouwen.com)　程厚文的箇人寫作网站
+[戰國冊](https://zerg.cc/about.html)　江西陈氏，字埃，号雪狐，墨啡，麋一样的鹿，从软件业数十载，尊比尔·盖茨，奉詹姆斯·高斯林，朝谷歌，拜太阳，少年壮志，空余京杭甬。所善者寥，所好者甚，好鲜衣，好美食，好精舍，好香车，好红颜，好黑夜，好摄影，好远游，好声乐，好书画，好咖啡，好猫犬，好冬日暖阳，窗台麻雀，好十里珠帘，千钟美酒，百尺危楼。然事工科者，避劳苦，恶钻研，半途而废。今飘零半生，辗转半国，一无所成，乃辞朋友之约，抗父母之命，抵媒妁之言，离群索居，行尸走肉，所好者，惟一日两餐，所望者，惟孤独终老。予尝求生命之要义，当高居庙堂受案牍劳形，谋功名权利兼济天下，抑或远处江湖享丝竹入耳、修温良恭俭独善家身？然仰望苍穹，吾既非宇之心，亦非宙之极，念天地之磅礴，如沧海之一粟，惜古今之璀璨，若蜉蝣之须臾，以生之刹那，困于庙湖之浮云尘土，差矣！或曰：适得其所，所欲从心，心法自然。
+
+[Notes of Wayfarers](https://notesofwayfarers.wordpress.com)　或稱「旅人音樂誌」，是散居在世界各地的華人音樂人共同經營的網誌，每週由不同城市的站主發文，記載當地音樂風景。〔很有格調〕
 
 [尺宅即江湖](http://www.qtwm.com)　尺宅足自庇，寸田有餘畦。
 
 [禾城](https://mytrix.in)　〔我天，好有才〕
 
 [圈圈閒言](https://www.ylooper.com)　迢迢新秋夕，亭亭月將圓。〔有氣質的書評影評〕
+
+[故居一曲](https://www.oh-af.cn/category/bk/s-y)　〔會彈古琴？〕
+
+[for-given](https://mrx.moe) 　同人写手、业余翻译兼古典三无主义腐女「古川政良ふるかわまさよし」
+
+[露出你的犬牙](https://clatterrr.com/)　〔雖然不懂但好像挺有趣的樣子〕
+
+[烩饼](https://zhb.xyz/)　〔一些讀書筆記〕
 
 ### 老字號
 
@@ -262,6 +274,10 @@ vertical: false
 
 [无文字 | 三无计划](https://blog.imalan.cn/about/)　在首都念书的大学生。是个好人
 
+[Yi's Blog](https://wangyi.ai/about-me/)　硅谷程序员。
+
+[非礼勿言](https://feiliwuyan.com/)　〔在日本取得工學博士〕
+
 ### 旅行類
 
 [賢民的比特記憶](https://www.xianmin.org)　〔麗江一民宿老闆，發起「捍衛開放的互聯網」〕
@@ -269,6 +285,8 @@ vertical: false
 [旅行漫記](https://travel.synyan.net/54391)　〔老虎哥〕
 
 [Wayfarer Z](https://aboutmy.name)
+
+[HONGFEI](https://xiaohongfei.com/)　〔有國外旅行攻略〕
 
 ### 設計類
 
@@ -285,6 +303,8 @@ vertical: false
 [羡辙杂俎](http://zhangwenli.com/blog/)　〔這界面，太厲害啦！！！！〕
 
 [九十九封信](https://blog.99xin.me/)　〔顏値高〕
+
+[一稿計劃](https://lastone.art)　〔[字体基础知识库，全面了解 Font Design](https://lastone.art/font-design/) 強烈推薦！！〕
 
 ### 小鮮肉
 
