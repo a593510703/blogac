@@ -34,9 +34,9 @@ text-decoration: underline;
 }
 hr{
 	border: none;
-    height: 3px;
-	margin:80px 0;
-    background: #c41011;
+    height: 9px;
+	margin:50px 0;
+    background: #e0f6ff;
 }
 /*     intro      */
 #intro {
@@ -90,7 +90,7 @@ hr{
 	  margin: 0px 0 0px 0;
 	  color: #7d7d7d;
 	  font-weight: 200;
-	  font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
+	  font-family: "Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
 	  border-top: #C41011 1px solid;
 	  border-bottom: #C41011 1px solid;
   }
@@ -121,7 +121,6 @@ hr{
   font-weight: 700;
   line-height: 1.5;
   color: #c41011;
-  border: #C41011 1px dashed;
   padding:7px 15px 20px 15px;
 }
 
@@ -132,15 +131,16 @@ hr{
 	 }
   #blog .time{
     text-align: center;
-    background: #e5e5e5;
+
     padding: 4px 13px;
     margin: 0 15px;
-    font-family: "Source Code Pro","San Francisco Mono",Monaco,"Anonymous Pro",Consolas,"Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
-    font-weight: 400;
+    font-family:"Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
+		font-weight: 400;
     font-size: 15px;
     color: #7d7d7d;
     letter-spacing: 0;
     border-radius: 15px;
+		border: 1px solid;
   }
 
 
