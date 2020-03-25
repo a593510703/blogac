@@ -116,6 +116,8 @@ vertical: false
 
 ### 二類
 
+<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="_blank">中国博客联盟</a><n1>20181027　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="_blank">收錄葉</a>
+
 <a href="http://sl.laolibab.cn/" target="_blank">老李收录网</a><n1>20181029　<a href="http://sl.laolibab.cn/bk/246.html" target="_blank">收錄葉</a></n1>
 
 [網址大全](http://www.98du.net/bk/246.html)
@@ -131,8 +133,6 @@ vertical: false
 ~~[boke112导航](https://boke112.com)<n1>20181028　<a href="https://boke112.com/bkml/5976.html" target="_blank">收錄葉</a>　201909 再看，沒了</n1>~~
 
 ~~[博客大全](http://daohang.zbzmtbk.com)<n1>20181108　<a href="http://daohang.zbzmtbk.com/siteinfo/261.html" target="\_blank">收錄葉</a>　201909 再看，網站掛了</n1>~~
-
-~~<a href="https://zgboke.org" title="收录国内优秀独立博客！" target="\_blank">中国博客联盟</a><n1>20181027，現爲榮譽博客　<a href="https://zgboke.org/site/kujihhoe.com/blog.html" target="\_blank">收錄葉</a>202003 再看，網站掛了</n1>~~
 
 ### 其他推薦
 
@@ -184,7 +184,7 @@ vertical: false
 
 [游子微博](https://www.lindongfang.top/)　目前有五百余篇，古有先秦诗三百，今现微博文五百，纵观游子微博，记录了从2009年到如今的生活，内容涉及生老病死、情感、旅行、工作、新闻事件等等，过往十年辑录，有开心、忧伤、快乐、痛苦，人生况味，尽在其中。这，或许就是文字的意义和魅力。
 
-[戰國冊](https://zerg.cc/about.html)　江西陈氏，字埃，号雪狐，墨啡，麋一样的鹿，从软件业数十载，尊比尔·盖茨，奉詹姆斯·高斯林，朝谷歌，拜太阳，少年壮志，空余京杭甬。所善者寥，所好者甚，好鲜衣，好美食，好精舍，好香车，好红颜，好黑夜，好摄影，好远游，好声乐，好书画，好咖啡，好猫犬，好冬日暖阳，窗台麻雀，好十里珠帘，千钟美酒，百尺危楼。然事工科者，避劳苦，恶钻研，半途而废。今飘零半生，辗转半国，一无所成，乃辞朋友之约，抗父母之命，抵媒妁之言，离群索居，行尸走肉，所好者，惟一日两餐，所望者，惟孤独终老。予尝求生命之要义，当高居庙堂受案牍劳形，谋功名权利兼济天下，抑或远处江湖享丝竹入耳、修温良恭俭独善家身？然仰望苍穹，吾既非宇之心，亦非宙之极，念天地之磅礴，如沧海之一粟，惜古今之璀璨，若蜉蝣之须臾，以生之刹那，困于庙湖之浮云尘土，差矣！或曰：适得其所，所欲从心，心法自然。
+[戰國冊](https://zerg.cc/about.html)　⋯⋯然事工科者，避劳苦，恶钻研，半途而废。今飘零半生，辗转半国，一无所成，乃辞朋友之约，抗父母之命，抵媒妁之言，离群索居，行尸走肉，所好者，惟一日两餐，所望者，惟孤独终老。予尝求生命之要义，当高居庙堂受案牍劳形，谋功名权利兼济天下，抑或远处江湖享丝竹入耳、修温良恭俭独善家身？然仰望苍穹，吾既非宇之心，亦非宙之极，念天地之磅礴，如沧海之一粟，惜古今之璀璨，若蜉蝣之须臾，以生之刹那，困于庙湖之浮云尘土，差矣！或曰：适得其所，所欲从心，心法自然。
 
 [Notes of Wayfarers](https://notesofwayfarers.wordpress.com)　或稱「旅人音樂誌」，是散居在世界各地的華人音樂人共同經營的網誌，每週由不同城市的站主發文，記載當地音樂風景。〔很有格調〕
 
@@ -201,6 +201,8 @@ vertical: false
 [露出你的犬牙](https://clatterrr.com/)　〔雖然不懂但好像挺有趣的樣子〕
 
 [烩饼](https://zhb.xyz/)　〔一些讀書筆記〕
+
+[完美的胖达](https://wmdpd.com/link/)　〔不明覺厲。有關肺炎的文章可以看看〕
 
 ### 老字號
 
@@ -278,6 +280,8 @@ vertical: false
 
 [非礼勿言](https://feiliwuyan.com/)　〔在日本取得工學博士〕
 
+[北河以北](https://songchunlin.net/cn/)　〔自然地理學。剛博士畢業。有關於去美國讀博的內容〕
+
 ### 旅行類
 
 [賢民的比特記憶](https://www.xianmin.org)　〔麗江一民宿老闆，發起「捍衛開放的互聯網」〕
@@ -290,7 +294,9 @@ vertical: false
 
 ### 設計類
 
-[KenjiEndo](http://kenjiendo.com)　〔見過的㝡有設計感的博客〕
+[设计乘数](https://www.infoier.com/)　〔清華美院高材生。网站超棒〕
+
+[KenjiEndo](http://kenjiendo.com)　〔很有設計感〕
 
 [JJ Ying](http://iconmoon.com)　〔AnyWay.FM 也太好看！我的主葉受到他的啓發〕
 
