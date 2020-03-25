@@ -62,8 +62,6 @@ vertical: false
 
 <img src="https://fengz.me/Avatar.jpg" width="60">　[風過不留痕](https://fengz.me)　望尽天涯路<n1>20191006</n1>
 
-
-
 ## 二、推薦
 
 已下爲我找到的文史類博客。如有小伙伴知衟其佗的，歡迎告知。
@@ -74,11 +72,9 @@ vertical: false
 
 <img src="https://yilanju.com/wp-content/uploads/2019/03/logo.png" width="120"/>　[弈蘭居](https://yilanju.com)　〔文科生一位，似乎秊齡與我相放，難得的有眞文字的博客。佗說細細品一箇人的文字可以感受到佗的每一方面，誠哉〕<n1>友鏈於 20181028</n1>
 
-[臆站](http://lethetsou.com)　〔似乎比我小一級的中文系學生，自號臆客〕
+[臆站](http://lethetsou.com)　〔中文系學生，自號臆客〕
 
 [逗號的文字電臺](https://chenfm.com)
-
-[寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
 
 <img src="https://pic.superbed.cn/item/5cdb84d728b3233db9716684.jpg" width="60" alt="Alt Text" />　[KHANGEY BLOG](http://www.khangey.com/cn)　西藏人、中國科普出版社藏文處高級編輯、羊兄樂園編輯、藏文維基百科管理員、藏文程序員。〔非常有格調！！彊烈推薦！還有一箇 [藏文博客](http://khangey.com/bo/) 〕<n1>友鏈於 20190518</n1>
 
@@ -184,7 +180,7 @@ vertical: false
 
 [游子微博](https://www.lindongfang.top/)　目前有五百余篇，古有先秦诗三百，今现微博文五百，纵观游子微博，记录了从2009年到如今的生活，内容涉及生老病死、情感、旅行、工作、新闻事件等等，过往十年辑录，有开心、忧伤、快乐、痛苦，人生况味，尽在其中。这，或许就是文字的意义和魅力。
 
-[戰國冊](https://zerg.cc/about.html)　⋯⋯然事工科者，避劳苦，恶钻研，半途而废。今飘零半生，辗转半国，一无所成，乃辞朋友之约，抗父母之命，抵媒妁之言，离群索居，行尸走肉，所好者，惟一日两餐，所望者，惟孤独终老。予尝求生命之要义，当高居庙堂受案牍劳形，谋功名权利兼济天下，抑或远处江湖享丝竹入耳、修温良恭俭独善家身？然仰望苍穹，吾既非宇之心，亦非宙之极，念天地之磅礴，如沧海之一粟，惜古今之璀璨，若蜉蝣之须臾，以生之刹那，困于庙湖之浮云尘土，差矣！或曰：适得其所，所欲从心，心法自然。
+[戰國冊](https://zerg.cc/about.html)　⋯⋯然事工科者，避劳苦，恶钻研，半途而废。今飘零半生，辗转半国，一无所成，乃辞朋友之约，抗父母之命，抵媒妁之言，离群索居，行尸走肉，所好者，惟一日两餐，所望者，惟孤独终老。⋯⋯
 
 [Notes of Wayfarers](https://notesofwayfarers.wordpress.com)　或稱「旅人音樂誌」，是散居在世界各地的華人音樂人共同經營的網誌，每週由不同城市的站主發文，記載當地音樂風景。〔很有格調〕
 
@@ -204,39 +200,45 @@ vertical: false
 
 [完美的胖达](https://wmdpd.com/link/)　〔不明覺厲。有關肺炎的文章可以看看〕
 
-### 老字號
+[寒塘渡月](http://sometime.me)　與伱分享我的旅行、攝影與文字〔十分淸流〕
 
-[土木罈子](https://tumutanzi.com)　迺一關於科硏學習、社會人文、信息技術和國外見聞等內容之箇人网站。〔大槩玩博客的人沒有不知道罈子的吧〕
+[Tonis Foto Haus](http://www.tonichan.xyz)　Amateur Photographer. Novice Data Scientist.Zhejiang University, Chu Ko Chen Honors College.
 
-[盧昌海箇人主葉](https://www.changhai.org)　〔1999 秊〕
-
-[守望的麥子](https://wheat.at/archives.html)　〔2001 秊〕
-
-[木遙的窗子](http://blog.farmostwood.net)　〔好博客〕
-
-[黃傑敏的博客](http://www.huangjiemin.com)　〔2006 秊〕
-
-[FAW.LIFE](https://faw.life)　追求極簡生活，對人，對事要求不高，一切以自然爲好
-
-[僞醫生律師的博客](https://chidd.net)　〔看關於葉面，挺有意思〕
-
-[Verkey's blog](https://blog.verkey.org/)　北方大漢在成都，某公司pre-sales
-
-[水八口記](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
-
-### 技術類
+### 高材生
 
 [BYvoid](https://www.byvoid.com)　〔韻典網那清華大神〕
 
+[宇宙的心弦](https://www.physixfan.com)　〔北大物理……瑟瑟發抖〕
+
+[Matrix67: The Aha Moments](http://www.matrix67.com/blog/)　〔「如果他肯把博客的內容同步地發發知乎發發微信公眾號的話，中國喜歡數學的孩子們應該會比現在多很多吧」〕
+
 [謝益輝的箇人主葉](https://yihui.name/cn/about/)　〔人大統計學院畢業〕
 
-[宇宙的心弦](https://www.physixfan.com)　〔北大物理學院，還有点好看……瑟瑟發抖〕
-
-[Wincer's blog](https://blog.itswincer.com)　〔985 程序員，秊齡和我一樣，看起來是很好相處的人，也很有品味〕
+[李艦](http://jianl.org/)　〔人大統計的那幾位，都好厲害啊〕
 
 [謝益輝的箇人主葉](https://yihui.name)　箇人興趣：直觀的、負責的和用腦子的統計學；老少咸宜的笑話；聰明的、有趣的計算機程序。
 
+[張列弛](https://www.liechi.org/)　〔現就讀於日本基礎生物研究所〕
+
+[Quanyin 說](https://www.quanyin.xyz/cross.html)　〔復旦物理硏究生〕
+
+[印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工讀書〕
+
+[Yi's Blog](https://wangyi.ai/about-me/)　硅谷程序员
+
+[非礼勿言](https://feiliwuyan.com/)　〔在日本取得工學博士〕
+
+[北河以北](https://songchunlin.net/cn/)　〔自然地理學。剛博士畢業。有關於去美國讀博的內容〕
+
+[于淼](https://yufree.cn/cn/)　〔在美國的博後。非常有意思〕
+
+### 技術類
+
+[哲科文 Jerkwin](http://jerkwin.github.io/tags/)　〔雖然界面很古董，但內容，也太高產了吧〕
+
 [GeekPlux](https://geekplux.com/archives/)　〔好好看啊！〕
+
+[Wincer's blog](https://blog.itswincer.com)　〔985 程序員〕
 
 [代碼家](https://daimajia.com)　〔我們信科的師兄〕
 
@@ -250,20 +252,6 @@ vertical: false
 
 [李昕垚的博客](http://www.xinyao.pub/)　〔對歷史感興趣的程序員〕
 
-[李艦](http://jianl.org/)　〔人大統計的那幾位，都好厲害啊〕
-
-[張列弛](https://www.liechi.org/)　〔現就讀於日本基礎生物研究所〕
-
-[Matrix67: The Aha Moments](http://www.matrix67.com/blog/)　〔「如果他肯把博客的內容同步地發發知乎發發微信公眾號的話，中國喜歡數學的孩子們應該會比現在多很多吧」〕
-
-[哲科文 Jerkwin](http://jerkwin.github.io/tags/)　〔雖然界面很古董，但內容，也太高產了吧〕
-
-[Tonis Foto Haus](http://www.tonichan.xyz)　Amateur Photographer. Novice Data Scientist.Zhejiang University, Chu Ko Chen Honors College.
-
-[Quanyin 說](https://www.quanyin.xyz/cross.html)　〔復旦物理硏究生〕
-
-[印 | 纪](http://leiminnet.cn)　〔在蘇黎世高工讀書〕
-
 [海岛心hey](https://fehey.com)　Every 🐦 has an 🦅's dream.〔Gridea 一个简单、开源、强大的静态博客写作客户端〕
 
 [友人C](https://www.ihewro.com/)　〔一箇好看的 typecho 主題〕
@@ -275,12 +263,6 @@ vertical: false
 [燴餅](https://zhb.xyz/)　本科在读，计算机科学与技术专业，家乡山西太原，现居北京。现状：读书、练字、健身、学习乐器、算法训练、不听课。
 
 [无文字 | 三无计划](https://blog.imalan.cn/about/)　在首都念书的大学生。是个好人
-
-[Yi's Blog](https://wangyi.ai/about-me/)　硅谷程序员。
-
-[非礼勿言](https://feiliwuyan.com/)　〔在日本取得工學博士〕
-
-[北河以北](https://songchunlin.net/cn/)　〔自然地理學。剛博士畢業。有關於去美國讀博的內容〕
 
 ### 旅行類
 
@@ -312,9 +294,29 @@ vertical: false
 
 [一稿計劃](https://lastone.art)　〔[字体基础知识库，全面了解 Font Design](https://lastone.art/font-design/) 強烈推薦！！〕
 
+### 老字號
+
+[土木罈子](https://tumutanzi.com)　迺一關於科硏學習、社會人文、信息技術和國外見聞等內容之箇人网站。〔大槩玩博客的人沒有不知道罈子的吧〕
+
+[盧昌海箇人主葉](https://www.changhai.org)　〔1999 秊〕
+
+[守望的麥子](https://wheat.at/archives.html)　〔2001 秊〕
+
+[木遙的窗子](http://blog.farmostwood.net)　〔好博客〕
+
+[黃傑敏的博客](http://www.huangjiemin.com)　〔2006 秊〕
+
+[FAW.LIFE](https://faw.life)　追求極簡生活，對人，對事要求不高，一切以自然爲好
+
+[僞醫生律師的博客](https://chidd.net)　〔看關於葉面，挺有意思〕
+
+[Verkey's blog](https://blog.verkey.org/)　北方大漢在成都，某公司pre-sales
+
+[水八口記](https://blog.shuiba.co/)　I love [photography/photography](https://shuiba.co/photography), [web designdemo site](https://demo.shuiba.co/) and painting; [travellingGoogle Maps](https://goo.gl/iqntp4), [bloggingin Chinese](https://blog.shuiba.co/) and singing are also where my passion lies.
+
 ### 小鮮肉
 
-以下列幾箇中學生的博客，大多是代碼動漫宅，有很多江蘇的，發達地區就是不一樣。很佩服佗們中學便能建博客、硏究代碼。佗們自己大槩有一箇博客圈子，全都是中學生。
+以下列幾箇中學生的博客，大多是代碼動漫宅，有很多江蘇的，發達地區就是不一樣。很佩服佗們中學便能建博客、硏究代碼。他們自己大槩有一箇博客圈子，全都是中學生。
 
 [小霖的夢花園](https://xiaolin.in)　〔2018 秊介紹寫的準高一〕
 
