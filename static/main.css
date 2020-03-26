@@ -9,8 +9,10 @@ background-color: #e0f6ff
 	text-justify: inter-ideograph;
 	max-width: 700px;
 	padding:  60px 100px 50px 100px;
-	margin: 200px auto 300px auto;
-	box-shadow:  0 0 0 8px #fffae8,0 0 0 18px #e0f6ff, 0 0 0 42px #fffae8
+	margin: 150px auto 150px auto;
+	border-radius: 25px;
+	-webkit-box-shadow: 0 2px 20px -5px ;
+	box-shadow: 0 2px 20px -5px;
 }
 #a  a{
   color: #c41011;
@@ -19,7 +21,7 @@ background-color: #e0f6ff
 }
 #a a:hover {
 color: #151515;
-text-decoration: underline;
+text-decoration: none;
 }
 @media screen and (max-width:1000px){
   #a{
@@ -69,7 +71,7 @@ hr{
 	  margin: -20px 0 3px 0;
     color: #151515;
 	  font-weight: 800;
-	  border-bottom: #C41011 3px solid;
+
   }
   @media screen and (max-width:1000px){
     #intro .title {
@@ -109,11 +111,54 @@ hr{
 	padding: 25px 15px 0px 15px;
 	margin-top: 3px;
 	border: #C41011 1px dashed;
-
   }
 
+#card-container{
+	margin: 100px auto;
+	text-align: center;
+	max-width: 400px;
+}
+#card-container a{
+	text-decoration:  none;
 
+}
+#card{
+	padding:auto 15px ;
+background-color: #fffae8;
+height: 150px;
+-webkit-box-align: center;
+-ms-flex-align: center;
+align-items: center;
+-webkit-transition: .3s;
+transition: .3s;
+border-radius: 15px;
+-webkit-box-shadow: 0 5px 23px -8px ;
+box-shadow:  0 5px 23px -8px ;
+padding: 20px;
+text-align:left;
+line-height: 1.5;
+}
+#card .title{
+		font-weight: 700;
+		font-size: 25px;
+		color: #2b2b2b;
+		  letter-spacing: 5px;
+}
+#card .time{
+	font-family:"Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
+	font-weight: 400;
+	font-size: 16px;
+	color: #7d7d7d;
+	letter-spacing: 0;
+}
+#card p{
 
+	text-align: right;
+	font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
+	font-size: 17px;
+	font-weight: 200;
+	color: #7d7d7d;
+}
 /*blog*/
 #blog {
   text-align: center;
@@ -131,7 +176,6 @@ hr{
 	 }
   #blog .time{
     text-align: center;
-
     padding: 4px 13px;
     margin: 0 15px;
     font-family:"Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
@@ -155,6 +199,7 @@ line-height: 2;
   text-decoration: none;
   font-weight: 700;
   font-size: 25px;
+	padding-top: 32px;
   letter-spacing: 5px;
   display: block;
 }
@@ -190,11 +235,14 @@ padding-left: 18px
 #valine
 {
 font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
-border: 1px #c41011 dashed;
 font-size: 18px;
-padding:0 20px;
+padding:20px 20px;
 margin-bottom: 100px;
 line-height: 1.7;
+-webkit-transition: .3s;
+transition: .3s;
+-webkit-box-shadow: 0 5px 20px -10px ;
+box-shadow: 0 5px 20px -10px;
 }
 
 #bottom{

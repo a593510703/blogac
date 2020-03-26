@@ -8,7 +8,9 @@
   margin: 0 5em 3em;
   background-color: $white;
   padding: 2em 3em 2em 2em;
-
+  border-radius: 25px;
+	-webkit-box-shadow: 0 2px 20px -5px ;
+	box-shadow: 0 2px 20px -5px;
 
   .archive-word{
     font-family: $global-serif-font-family;

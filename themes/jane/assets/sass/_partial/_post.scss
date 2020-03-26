@@ -15,6 +15,9 @@
   @import '_post/utteranc';
   @import '_post/footnote';
   @import '_post/shortcode_notice';
+  border-radius: 25px;
+  -webkit-box-shadow: 0 2px 20px -5px ;
+  box-shadow: 0 2px 20px -5px;
 }
 
 .disqus-comment {
