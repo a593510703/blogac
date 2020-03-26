@@ -519,10 +519,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-    
+
             args = arguments;
             thisArg = this;
-    
+
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -544,7 +544,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-    
+
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -553,16 +553,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-    
+
         setTocClass();
-    
+
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-    
+
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -608,7 +608,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-    
+
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -1074,23 +1074,16 @@ Hugo 0.57.1
 
 ## 主葉第三版
 
-### 3 月 23 日
+### 3 月 23—26 日
 
-主葉第一版：與博客第二版同時。主葉第二版：與博客第三版同時。今天上線主葉第三版，其實只是在第二版基礎上稍微調整。效果圖：
+突然想把主葉改一改，經過四天修修補補，終於完工了。主葉第一版：與博客第二版同時，是用的一個翻葉 js，模擬 ppt 效果。主葉第二版：與博客第三版同時，魔改自一個網頁，現在忘了是誰了，80% 是我自己的內容。借鑑了[AnyWay.FM](iconmoon.com)，模擬的紙張效果，以線條作爲整個頁面的框架。今天上線主葉第三版，是在第二版基礎上稍微調整而得的。第一天做出來是這樣的：
 
 <img src="https://pic.imgdb.cn/item/5e7837655c560911295df76c.jpg" width="800">
 
-### 3 月 24 日
-
-又修改了一下。
-
-### 3 月 25 日
-
-主葉加上 [Substats](https://sspai.com/post/59593) 的小牌子。
-
-### 3 月 26 日
-
-終於定型了！大變樣！借鑑了 [spencerwoo](https://spencerwoo.com/) 的設計。
+第四天定型之後的樣子：
 
 <img src="https://pic.imgdb.cn/item/5e7ca842504f4bcb04c06176.jpg" width="800">
 
+借鑑了 [spencerwoo](https://spencerwoo.com/) 的設計。以卡片爲框架邏輯，完全取消了線條的支撐作用。
+
+另外，加上了 [Substats](https://sspai.com/post/59593) 的小牌子。

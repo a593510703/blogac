@@ -9,7 +9,7 @@ background-color: #e0f6ff
 	text-justify: inter-ideograph;
 	max-width: 700px;
 	padding:  60px 100px 50px 100px;
-	margin: 150px auto 150px auto;
+	margin: 80px auto;
 	border-radius: 25px;
 	-webkit-box-shadow: 0 2px 20px -5px ;
 	box-shadow: 0 2px 20px -5px;
@@ -23,19 +23,9 @@ background-color: #e0f6ff
 color: #151515;
 text-decoration: none;
 }
-@media screen and (max-width:1000px){
-  #a{
-  	padding:  0 15px 30px 15px;
-  	margin: 0 auto;}
-	}
-#b{
-		background: #fffae8;
-	max-width: 740px;
-	margin:auto;
-}
 hr{
 	border: none;
-    height: 9px;
+    height: 8px;
 	margin:50px auto;
     background: #e0f6ff;
 		width: 120px;
@@ -45,24 +35,7 @@ hr{
   text-align: center;
   transition: 0.5s;
 }
-.pic{
-  overflow:scroll;
-}
-    #intro .end{
-	border-bottom: #C41011 1px solid;
-    padding: 0 0 3px 0;
-	margin: 50px 0 0 0;
-	}
-	#intro .end1{
-	border-bottom: #C41011 3px solid;
-	padding: 0 0 3px 0;
-	margin:0 0 100px 0;
-	}
-	#intro .end2{
 
-	padding: 0 0 3px 0;
-	margin: -77px 0 75px 0;
-	}
     #intro .title {
     text-align: center;
     letter-spacing: 9px;
@@ -71,28 +44,16 @@ hr{
 	  margin: -20px 0 3px 0;
     color: #151515;
 	  font-weight: 800;
-
   }
-  @media screen and (max-width:1000px){
-    #intro .title {
-    	font-size: 36px;}
-  	}
     #intro .title1{
       margin-top: 40px;
   font-size: 70px;padding-left: 30px;
 }
-@media screen and (max-width:1000px){
-  #intro .title1 {
-    font-size: 46px;}
-  }
-
 
   #intro .label {
     font-size: 21px;
       letter-spacing: 2px;
 	font-weight: 700;
-
-
   }
   #intro .email {
     font-size: 18px;
@@ -108,15 +69,15 @@ hr{
 	font-size: 17px;
 	font-weight: 200;
 	color: #8c8c8c;
-	margin: -40px auto;
-
+	margin: 0 auto;
 }
 
 #card-container{
-	margin: 100px auto;
+	margin: 80px auto;
 	text-align: center;
 	max-width: 400px;
 }
+
 #card-container a{
 	text-decoration:  none;
 
@@ -187,14 +148,12 @@ line-height: 1.5;
 		border: 1px solid;
   }
 
-
-
-/*guqin*/
-#guqin {
+/*paper*/
+#paper {
 line-height: 2;
   text-align: center;}
 
-#guqin .title {
+#paper .title {
   color: #151515;
   text-decoration: none;
   font-weight: 700;
@@ -204,59 +163,31 @@ line-height: 2;
   display: block;
 }
 
-  #guqin p {
+  #paper p {
     letter-spacing: 0;color: #151515;font-weight: 400;
     font-size: 18px; text-align: left; }
 
+		#b{
+				background: #fffae8;
+			max-width: 740px;
+			margin: 80px auto;
+		}
 
-#no1 {
-margin: 236px 0	-236px 0;
-}
-
-#title1{
-	border: 1px #c41011 solid;
-	padding:14px 20px 20px 25px;
-	font-weight: 700;
-	letter-spacing: 5px;
-	font-size: 20px;
-	margin:0 auto;
-  text-align: center;
-  font-family:Hiragino Mincho ProN,HiraginoMinchoProN,Hiragino Mincho,HiraginoMincho,Yu Mincho,YuMincho,Hana Mincho,HanaMincho,HanaMin,Ms Mincho,MsMincho,serif
-}
-
-#note{
-	font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
-color:grey;
-font-size: 15px;
-font-weight: 100;
-padding-left: 18px
-}
-
-#valine
+#comment
 {
 font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
 font-size: 18px;
 padding:20px 20px;
-margin-bottom: 100px;
 line-height: 1.7;
 -webkit-transition: .3s;
 transition: .3s;
 -webkit-box-shadow: 0 5px 20px -10px ;
 box-shadow: 0 5px 20px -10px;
 }
-
-#bottom{
-margin:96px 0 -96px 0
-}
 @media screen and (max-width:1000px){
-  #bottom{
-  	display:none}
-	}
-
-#top{
-margin:-102px 0 102px 0
-}
-@media screen and (max-width:1000px){
-  #top{
-  	display:none}
+	#a{
+		padding:  0 15px 30px 15px;
+		margin: 50px auto;}
+			#card-container {margin: 50px auto;}
+#b {	margin: 50px auto}
 	}
