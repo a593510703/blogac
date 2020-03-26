@@ -2,7 +2,7 @@
 author: "柯棋瀚"
 title: "Hello world!"
 date: 2017-10-04
-lastmod: 2020-03-23
+lastmod: 2020-03-26
 categories: ["站務"]
 tags: ["公吿"]
 url: /blog/2017/10/04/shuoming.html
@@ -1090,4 +1090,7 @@ Hugo 0.57.1
 
 ### 3 月 26 日
 
-終於定型了！大變樣！
+終於定型了！大變樣！借鑑了 [spencerwoo](https://spencerwoo.com/) 的設計。
+
+<img src="https://pic.imgdb.cn/item/5e7ca842504f4bcb04c06176.jpg" width="800">
+

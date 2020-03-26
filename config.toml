@@ -45,7 +45,7 @@ defaultContentLanguage = "en"
   filename = "sitemap.xml"
 
   [[menu.main]]
-     name = "赫赫文王"
+     name = "博客"
      weight = 10
      identifier = "archives"
      url = "/post"

@@ -12,74 +12,49 @@
   {{ partial "head1.html" . }}
 </head>
 <body>
-
 <div id="a">
-<!--<center><div id="top"><img src="/11.jpg" width="50px"></div></center>-->
 <div id="intro" >
-<div class="title"><br><img src="/logo.png" width="100px"><br><br></div>
-<div class="date"><!--<i style="margin-right:15px"><img src="/logo.svg"width="16px"></i>-->
-主葉　弟三板　2020-03-24</div>
-<p class="label">永嘉田家後　生於九五後　長于錦官城　讀的歷史系</p>
-<!--<center><div class="pic"><img src="https://pic.superbed.cn/item/5d859c62451253d178d92901.jpg"  style=" border: 10px #c41011 outset" width="400"></div></center>
-<br><br>
-<span id="title1">自述</span>
-     <div class="email">
-				<p>我當然不會告訴伱具體生日　因爲名字就有我的八字</p>
-			<p>我是箇无趣的人　我每天的活動大槩都在這箇網葉裏</p>
-            <p>任何問題都可以發郵件或 iMessage</p>
-			<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>
-			<br>
-            </div><br><br><br>-->
-<!--<span id="title1">聯絡</span>-->
-<!--<div class="email">-->
+<div class="title"><br><img src="/logo.png" width="100px"></div><div id="cate">（ 赫 赫 文 王 ）</div><br><br><hr>
+<p class="label">永嘉田家後/　生於九五後/</p><p class="label">長于錦官城/　讀的歷史系/</p>
+<hr>
 <div style="font-size:18px">
-            <table cellpadding=7px style="text-align:left;margin:0 auto;padding-top:20px">
+            <table cellpadding=0px style="text-align:left;margin:0 auto 20px auto;">
             <tr>
-            <td style="text-align:right;border-right:1px #c41011 dashed;font-family: Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,Microsoft YaHei,Sans-serif">PGP　</td>
-            <td>　<a href="/kujihhoe (E2269D07) public.asc" target="_blank">E2269D07</a></td>
+            <td style="text-align:right;font-family: Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,Microsoft YaHei,Sans-serif">PGP //&nbsp </td>
+            <td><a href="/kujihhoe (E2269D07) public.asc" target="_blank">E2269D07</a></td>
             </tr>
             <tr>
-            <td style="text-align:right;border-right:1px #c41011 dashed;font-family: Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,Microsoft YaHei,Sans-serif">email & iMessage　</td>
-            <td>　<span>me (at) kqh.me</span></td>
-            </tr>
-            <tr>
-            <td style="text-align:right;border-right:1px #c41011 dashed;font-family: Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,Microsoft YaHei,Sans-serif">GitHub　</td>
-            <td>　<a href="https://github.com/kujihhoe" target="_blank">kujihhoe</a></td>
-            </tr>
-            <tr>
-            <td style="text-align:right;border-right:1px #c41011 dashed;font-family: Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,Microsoft YaHei,Sans-serif">Facebook　</td>
-            <td>　<a href="https://www.facebook.com/kujihhoe" target="_blank">kujihhoe</a></td>
+            <td style="text-align:right;font-family: Noto Sans CJK Kr,NotoSansCJKKr,Noto Sans CJK SC,NotoSansCJKSC, PingFang,PingFang SC,Microsoft YaHei,Sans-serif">email & iMessage //&nbsp </td>
+            <td><span>me (at) kqh.me</span></td>
             </tr>
             </table>
-    	<p id="note">其實這些平臺都不怎麼用</p>
-					<!--	<span style="float: right;margin:9px -16px  0;"><img src="/13.jpg" width="19px"></span>-->
 						</div>
-						<!--</div>-->
-        </div><br><br><br><br>
-      <div id="blog" >
-            <a href="/post" target="_blank">博客</a>
-            <br><span class="time">{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}</span>
-      <p style="text-align:center"> <img src="https://img.shields.io/badge/dynamic/json?color=c41011&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fkqh.me%2Fpost%2Findex.xml" height="22px">
-      </p>    </div>
-	      <br>
-				<br>
 
-				        <div id="blog" >
-				            <br><a href="https://kqh.wiki" target="_blank">維基×琴譜網</a>
-                    <br>
-				<p>【維基】存放筆記、資料</p>
-        	<p>【赫赫複印資料】旨在保存當下歷史</p>
-        <p>【琴譜網】傳世琴譜數字文本化工程，現徵募志願者</p>
-				</div>
-<br><br>
+        </div>
       </div>
+<div id="cate">× × × 網 站 × × ×</div>
+        <div id="card-container">
+            <a href="/post" target="_blank"> <div id="card">
+                 <div class="title" >博客</div>
+                 <span class="time" >{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}</span><br><br>
+                 <p><img src="https://img.shields.io/badge/dynamic/json?color=c41011&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fkqh.me%2Fpost%2Findex.xml" height="22px"></p>
+        </div></a></div>
+
+        <div id="card-container">
+            <a href="/recording" target="_blank"> <div id="card">
+                 <div class="title" >維基×琴譜網</div>
+                 <span class="time" >{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}</span><br><br>
+                 <p>【琴譜網】傳世琴譜數字文本化工程</p>
+        </div></a></div>
+
+<div id="cate">× × × 平 臺 × × ×</div>
 
 <div id="card-container">
     <a href="/guqin" target="_blank"> <div id="card"  style="background-color: #444444">
          <div class="title" style="color:#fffae8">古琴</div>
          <span class="time" style="color:#c7c7c7">2019-11-09</span><br>
      <br><p style="color:#c7c7c7">【赫赫文王】     <img src="https://img.shields.io/badge/dynamic/json?color=c41011&label=%E7%B6%B2%E6%98%93%E9%9B%B2%E9%97%9C%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DneteaseMusic%26queryKey%3D275990862"  height="23px">
- 　<img src="https://img.shields.io/badge/dynamic/json?color=c41011&label=bilibili%E9%97%9C%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D176570453"  height="23px"></p>
+  <img src="https://img.shields.io/badge/dynamic/json?color=c41011&label=bilibili%E9%97%9C%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D176570453"  height="23px"></p>
 </div></a></div>
 
 <div id="card-container">
@@ -92,15 +67,15 @@
 <div id="card-container">
     <a href="/calligraphy" target="_blank"> <div id="card"   style="background-color: #f8eec8">
          <div class="title">書法</div>
-         <span class="time" style="color:#c1a235">2019-06-12</span><br><br>
-         <p style="color:#c1a235">九歲開始練字，正常水平</p>
+         <span class="time" style="color:#8c7524">2019-06-12</span><br><br>
+         <p style="color:#8c7524">九歲開始練字，正常水平</p>
 </div></a></div>
 
 <div id="card-container">
     <a href="/design" target="_blank"> <div id="card" style="background-color: #6b0dd5">
             <div class="title" style="color:#fffae8">平面</div>
-         <span class="time" style="color:#cda1ff">2019-07-08</span><br><br>
-         <p style="color:#cda1ff">一些封面、海報、幻燈，菜鳥水平</p>
+         <span class="time" style="color:#d9bafd">2019-07-08</span><br><br>
+         <p style="color:#d9bafd">一些封面、海報、幻燈，菜鳥水平</p>
 </div></a></div>
 
 <div id="card-container">
@@ -169,10 +144,11 @@
 
 </table>
 </div>
-<!--<center><div id="bottom"><img src="/12.jpg" width="50px"></div></center>-->
-</div></div>
-<br><br><br>
 
+</div></div>
+<br>
+<div id="cate">× × × 留 言 × × ×</div>
+<br><br><br><br>
 <div id="b">
 <div id="valine">
 <div id="intro">

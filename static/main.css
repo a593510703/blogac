@@ -26,8 +26,7 @@ text-decoration: none;
 @media screen and (max-width:1000px){
   #a{
   	padding:  0 15px 30px 15px;
-  	margin: 0 auto;
-	box-shadow: none}
+  	margin: 0 auto;}
 	}
 #b{
 		background: #fffae8;
@@ -37,8 +36,9 @@ text-decoration: none;
 hr{
 	border: none;
     height: 9px;
-	margin:50px 0;
+	margin:50px auto;
     background: #e0f6ff;
+		width: 120px;
 }
 /*     intro      */
 #intro {
@@ -85,25 +85,14 @@ hr{
   #intro .title1 {
     font-size: 46px;}
   }
-  #intro .date{
-	  letter-spacing: 2px;
-	  font-size: 13px;
-	  padding: 5px 0 5px 0;
-	  margin: 0px 0 0px 0;
-	  color: #7d7d7d;
-	  font-weight: 200;
-	  font-family: "Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
-	  border-top: #C41011 1px solid;
-	  border-bottom: #C41011 1px solid;
-  }
+
 
   #intro .label {
     font-size: 21px;
       letter-spacing: 2px;
 	font-weight: 700;
-      padding: 30px 0 60px 0;
-	  margin: 30px 0 100px 0;
-	  border-bottom: #C41011 1px solid;
+
+
   }
   #intro .email {
     font-size: 18px;
@@ -112,6 +101,16 @@ hr{
 	margin-top: 3px;
 	border: #C41011 1px dashed;
   }
+
+#cate{
+	text-align: center;
+	font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
+	font-size: 17px;
+	font-weight: 200;
+	color: #8c8c8c;
+	margin: -40px auto;
+
+}
 
 #card-container{
 	margin: 100px auto;
@@ -132,13 +131,14 @@ align-items: center;
 -webkit-transition: .3s;
 transition: .3s;
 border-radius: 15px;
--webkit-box-shadow: 0 5px 23px -8px ;
-box-shadow:  0 5px 23px -8px ;
+-webkit-box-shadow: 0 5px 20px -10px ;
+box-shadow:  0 5px 20px -10px ;
 padding: 20px;
 text-align:left;
 line-height: 1.5;
 }
 #card .title{
+	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
 		font-weight: 700;
 		font-size: 25px;
 		color: #2b2b2b;
@@ -146,13 +146,13 @@ line-height: 1.5;
 }
 #card .time{
 	font-family:"Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
-	font-weight: 400;
+	font-weight: 300;
 	font-size: 16px;
 	color: #7d7d7d;
 	letter-spacing: 0;
 }
 #card p{
-
+	font-weight: 300;
 	text-align: right;
 	font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
 	font-size: 17px;

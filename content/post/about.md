@@ -93,8 +93,7 @@ vertical: false
 - 12-18 正文改爲直排
 - 2019-07-22 域名變更爲 kqh.me
 - 建站兩周年之際，啓用新 logo。來源是<u1>何尊</u1>銘文及<v1>續甲骨文編</v1>4534。
-
-<img src="https://pic.superbed.cn/item/5e1c89422fb38b8c3c5e2740.jpg" width=100>
+- 2020-03-26 弟三版主葉
 
 # 示
 
