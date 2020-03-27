@@ -5,14 +5,36 @@ background-color: #e0f6ff
 	background: #fffae8;
 	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
 	word-wrap:break-word;
-	text-align: justify;
-	text-justify: inter-ideograph;
+	text-align: center;
 	max-width: 700px;
 	padding:  60px 100px 50px 100px;
-	margin: 80px auto;
+	margin: 120px auto;
 	border-radius: 25px;
 	-webkit-box-shadow: 0 2px 20px -5px ;
 	box-shadow: 0 2px 20px -5px;
+line-height: 1.5;
+}
+#a .title {
+  color: #151515;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: 5px;
+  display: block;
+}
+  #a p {
+    letter-spacing: 0;
+		color: #151515;
+		font-weight: 400;
+    font-size: 18px;
+		line-height: 1.9;
+		text-align: left; }
+#a .label{
+	font-size: 21px;
+		letter-spacing: 2px;
+font-weight: 700;
+text-align: center;
+line-height: 1.4;
 }
 #a  a{
   color: #c41011;
@@ -28,41 +50,8 @@ hr{
     height: 8px;
 	margin:50px auto;
     background: #e0f6ff;
-		width: 120px;
+		width: 150px;
 }
-/*     intro      */
-#intro {
-  text-align: center;
-  transition: 0.5s;
-}
-
-    #intro .title {
-    text-align: center;
-    letter-spacing: 9px;
-    font-size: 52px;
-	  padding: 0 0 30px 0;
-	  margin: -20px 0 3px 0;
-    color: #151515;
-	  font-weight: 800;
-  }
-    #intro .title1{
-      margin-top: 40px;
-  font-size: 70px;padding-left: 30px;
-}
-
-  #intro .label {
-    font-size: 21px;
-      letter-spacing: 2px;
-	font-weight: 700;
-  }
-  #intro .email {
-    font-size: 18px;
-	line-height: 1.5;
-	padding: 25px 15px 0px 15px;
-	margin-top: 3px;
-	border: #C41011 1px dashed;
-  }
-
 #cate{
 	text-align: center;
 	font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
@@ -71,26 +60,24 @@ hr{
 	color: #8c8c8c;
 	margin: 0 auto;
 }
-
-#card-container{
-	margin: 80px auto;
-	text-align: center;
-	max-width: 400px;
+#bigcard{
+	max-width: 900px;
+	margin: 120px auto;
+	 display: -webkit-box;
 }
-
+#card-container{
+	margin: 0 auto;
+	width: 350px;
+}
 #card-container a{
 	text-decoration:  none;
 }
 #card{
-	padding:auto 15px ;
 background-color: #fffae8;
 height: 150px;
 padding: 20px;
 text-align:left;
 line-height: 1.5;
--webkit-box-align: center;
--ms-flex-align: center;
-align-items: center;
 -webkit-transition: .3s;
 transition: .3s;
 -webkit-box-shadow: 0 5px 20px -10px ;
@@ -118,74 +105,13 @@ box-shadow:  0 5px 20px -10px ;
 	font-weight: 200;
 	color: #7d7d7d;
 }
-/*blog*/
-#blog {
-  text-align: center;
-  font-size: 25px;
-  font-weight: 700;
-  line-height: 1.5;
-  color: #c41011;
-  padding:7px 15px 20px 15px;
-}
-
-  #blog p {
-		letter-spacing: 0;color: #151515;font-weight: 200;
-     font-size: 18px; text-align: left;
-     line-height: 1.9;
-	 }
-  #blog .time{
-    text-align: center;
-    padding: 4px 13px;
-    margin: 0 15px;
-    font-family:"Source Code Pro","San Francisco Mono", "Courier New",Monaco,Menlo, Inconsolata,"Anonymous Pro",monospace, "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,PingFangSC,"Microsoft YaHei",Sans-serif ;
-		font-weight: 400;
-    font-size: 15px;
-    color: #7d7d7d;
-    letter-spacing: 0;
-    border-radius: 15px;
-		border: 1px solid;
-  }
-
-/*paper*/
-#paper {
-line-height: 2;
-  text-align: center;}
-
-#paper .title {
-  color: #151515;
-  text-decoration: none;
-  font-weight: 700;
-  font-size: 25px;
-	padding-top: 32px;
-  letter-spacing: 5px;
-  display: block;
-}
-
-  #paper p {
-    letter-spacing: 0;color: #151515;font-weight: 400;
-    font-size: 18px; text-align: left; }
-
-		#b{
-				background: #fffae8;
-			max-width: 740px;
-			margin: 80px auto;
-		}
-
-#comment
-{
-font-family: "Noto Sans CJK Kr",NotoSansCJKKr,"Noto Sans CJK SC",NotoSansCJKSC, PingFang,"PingFang SC",PingFangSC,Microsoft YaHei,Sans-serif ;
-font-size: 18px;
-padding:20px 20px;
-line-height: 1.7;
--webkit-transition: .3s;
-transition: .3s;
--webkit-box-shadow: 0 5px 20px -10px ;
-box-shadow: 0 5px 20px -10px;
-}
 @media screen and (max-width:1000px){
 	#a{
-		padding:  0 15px 30px 15px;
-		margin: 50px auto;}
+		padding:  40px 15px 30px 15px;
+		margin: 80px auto;}
 			#card-container {margin: 50px auto;}
-#b {	margin: 50px auto}
+			#bigcard{
+			 display:block;
+			 margin: 80px auto
+			}
 	}
