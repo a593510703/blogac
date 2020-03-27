@@ -10,8 +10,8 @@ background-color: #e0f6ff
 	padding:  60px 100px 50px 100px;
 	margin: 120px auto;
 	border-radius: 25px;
-	-webkit-box-shadow: 0 2px 20px -5px ;
-	box-shadow: 0 2px 20px -5px;
+	-webkit-box-shadow: 0 2px 20px -5px  #2b2b2b;
+	box-shadow: 0 2px 20px -5px #2b2b2b;
 line-height: 1.5;
 }
 #a .title {
@@ -69,6 +69,7 @@ display: block;
 #card-container{
 	margin: 40px;
 	width: 350px;
+	height: 150px;
 	display: inline-block;
 }
 #card-container a{
@@ -76,14 +77,18 @@ display: block;
 }
 #card{
 background-color: #fffae8;
-height: 150px;
 padding: 20px 20px 10px 20px;
 text-align:left;
 line-height: 1.5;
+border-radius: 13px;
 -webkit-transition: .3s;
 transition: .3s;
--webkit-box-shadow: 0 5px 20px -10px ;
-box-shadow:  0 5px 20px -10px ;
+-webkit-box-shadow: 0 5px 20px -10px #2b2b2b ;
+box-shadow:  0 5px 20px -10px #2b2b2b ;
+}
+#card:hover{
+	-webkit-box-shadow: 0px 5px 40px  #2b2b2b ;
+	box-shadow:  0px 5px 40px  #2b2b2b ;
 }
 #card .title{
 	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
