@@ -3,7 +3,6 @@
 // ==============================
 .header {
   @include clearfix;
-
   @import '_header/logo';
   @import '_header/menu';
 }

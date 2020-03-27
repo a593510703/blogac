@@ -28,10 +28,6 @@ vertical: false
 
 ## 第一版
 
-<img src="https://pic.superbed.cn/item/5d980fb8451253d1782b0f51.png" width="600">
-
-<img src="https://pic.superbed.cn/item/5d980fb8451253d1782b0f53.png" width="600">
-
 ### 10 月 3 日
 
 建站。網站模板 fork 自 <a href="https://github.com/cnfeat/cnfeat.github.io" target="\_blank">CNFeat</a>，表示感謝。
@@ -213,8 +209,6 @@ paginate_path: "page:num"
 
 ## 第二版
 
-<img src="https://pic.superbed.cn/item/5d980d70451253d1782ab855.png" width="800">
-
 ### 10 月 27 日
 
 昨晚莫名其妙出 bug 了，我明明沒怎麼改動，但電腦下主題就出問題了，恢復原來的版本一樣不行。只好重新換模板。找來找去用了<a href="https://github.com/kitian616/jekyll-TeXt-theme" target="\_blank">這箇</a>，算是我看到的裏面製作最精良的。對作者表示感謝 :blush:
@@ -267,6 +261,7 @@ Gitbook 的私人倉庫要給錢，我申請到了 GitHub 的學生免費私人�
 
 開熏，把標點換成方正新書宋啦！現在比 word 排版還方便了，之前用 word 還要把標點替換成新書宋。  
 用 `Fontmin` 這箇 APP，提取需要的文字字體，簡直神器啊！傻瓜式操作！還給你自動生成 `@font-face`，然後添加到 css 裏面就好啦：
+
 ```
 @font-face {
     font-family: "方正新书宋GBK正版";
@@ -315,8 +310,6 @@ Safari 導出 PDF沒有自動斷行，所以一行字往往被斷開了，Chrome
 
 導航欄把「博客」遷到左邊。要不然不容易看到，會習慣性的點粗的「赫赫文王」。
 
-
-
 ```
 keqihandeMacBook-Pro:themes keqihan$ textlint /Users/keqihan/Downloads/GitHub/kujihhoe.github.io/_posts/2017-10-04-hualian.md
 
@@ -335,8 +328,6 @@ Try to run: $ textlint --fix [file]
 
 keqihandeMacBook-Pro:themes keqihan$
 ```
-
-
 
 ### 11 月 7 日
 
@@ -519,10 +510,10 @@ Google AdSense 審核通過。開通了鏡象公眾號
         return function() {
             var now = new Date,
                 remaining = wait - (now - lastCalled);
-
+    
             args = arguments;
             thisArg = this;
-
+    
             if (remaining <= 0) {
                 clearTimeout(timeoutId);
                 timeoutId = null;
@@ -544,7 +535,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
         var $articleAside = $('.js-article-aside');
         var $toc = $('.js-toc');
         var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
-
+    
         function asideSticky() {
             return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
         }
@@ -553,16 +544,16 @@ Google AdSense 審核通過。開通了鏡象公眾號
                 !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
             }
         }
-
+    
         setTocClass();
-
+    
         function setAsideTOC() {
             var asideTop,
                 asideLeft,
                 scrollBottom,
                 asideBottomTop,
                 lastScrollTop;
-
+    
             function init() {
                 var asideOffset = $articleAside.offset();
                 var footerOffset = $pageFooter.offset();
@@ -608,7 +599,7 @@ Google AdSense 審核通過。開通了鏡象公眾號
             setTimeout(init, 4000);
         }
         setTimeout(setAsideTOC, 1000);
-
+    
         $toc.toc({
             'selectors': 'h1,h2,h3',
             'container': '.js-article-content',
@@ -681,12 +672,6 @@ netlify 有「pretty urls」功能，打開後就沒有後綴 .html，肰而這�
 竟然在桌面網頁看到了谷歌廣告，開心！
 
 ## 第三版
-
-<img src="https://pic.superbed.cn/item/5d980ef7451253d1782af750.jpg" width="300">
-
-<img src="https://pic.superbed.cn/item/5d980ef8451253d1782af754.jpg" width="300">
-
-<img src="https://pic.superbed.cn/item/5d980ef8451253d1782af756.jpg" width="300">
 
 ### 11 月 21、22 日
 
@@ -955,8 +940,6 @@ font-weight: 700;
 
 效果圖：
 
-<img src="https://api.superbed.cn/pic/5c1a36eec4ff9e2b4e04528c" width="800">
-
 **加粗的** 用黑體，這樣更加醒目。
 
 下畫直線改成 border，而非原來的 text-decoration，㪅加清爽。
@@ -1076,14 +1059,4 @@ Hugo 0.57.1
 
 ### 3 月 23—26 日
 
-突然想把主葉改一改，經過四天修修補補，終於完工了。主葉第一版：與博客第二版同時，是用的一個翻葉 js，模擬 ppt 效果。主葉第二版：與博客第三版同時，魔改自一個網頁，現在忘了是誰了，80% 是我自己的內容。借鑑了[AnyWay.FM](iconmoon.com)，模擬的紙張效果，以線條作爲整個頁面的框架。今天上線主葉第三版，是在第二版基礎上稍微調整而得的。第一天做出來是這樣的：
 
-<img src="https://pic.imgdb.cn/item/5e7837655c560911295df76c.jpg" width="800">
-
-第四天定型之後的樣子：
-
-<img src="https://pic.imgdb.cn/item/5e7ca842504f4bcb04c06176.jpg" width="800">
-
-借鑑了 [spencerwoo](https://spencerwoo.com/) 的設計。以卡片爲框架邏輯，完全取消了線條的支撐作用。
-
-另外，加上了 [Substats](https://sspai.com/post/59593) 的小牌子。
