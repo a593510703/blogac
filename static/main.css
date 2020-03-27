@@ -61,13 +61,15 @@ hr{
 	margin: 0 auto;
 }
 #bigcard{
+	text-align: center;
 	max-width: 900px;
-	margin: 120px auto;
-	 display: -webkit-box;
+	margin: 50px auto;
+display: block;
 }
 #card-container{
-	margin: 0 auto;
+	margin: 40px;
 	width: 350px;
+	display: inline-block;
 }
 #card-container a{
 	text-decoration:  none;
@@ -75,7 +77,7 @@ hr{
 #card{
 background-color: #fffae8;
 height: 150px;
-padding: 20px;
+padding: 20px 20px 10px 20px;
 text-align:left;
 line-height: 1.5;
 -webkit-transition: .3s;
@@ -109,7 +111,9 @@ box-shadow:  0 5px 20px -10px ;
 	#a{
 		padding:  40px 15px 30px 15px;
 		margin: 80px auto;}
-			#card-container {margin: 50px auto;}
+			#card-container {margin: 50px auto;
+					display: block;
+			}
 			#bigcard{
 			 display:block;
 			 margin: 80px auto
