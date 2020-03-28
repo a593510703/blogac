@@ -23,7 +23,7 @@ border-bottom: 1px $theme-color solid;
     border: none;
     background: $pink;
     height: 5px;
-    border-radius: 5px;
+    
     margin: 50px 0;
   }
   @for $i from 1 through 6 {
@@ -65,6 +65,8 @@ border-bottom: 1px $theme-color solid;
     word-break: break-all;
     &:hover {
     //  border-bottom: $content-link-border;
+    -webkit-transition: .3s;
+    transition: .3s;
     background: $pink;
     color: $black;
     }
@@ -105,6 +107,8 @@ border-bottom: 1px $theme-color solid;
 
       &:hover {
         border-bottom: $post-readMore-border-bottom;
+        -webkit-transition: .3s;
+        transition: .3s;
       }
     }
   }
@@ -160,9 +164,11 @@ border-bottom: 1px $theme-color solid;
     color: $black;
     padding: 0;
   a:hover{
+    -webkit-transition: .3s;
+    transition: .3s;
     border: none;
     background: $pink;
-    border-radius: 5px;
+    
   color: $black;
 }}
 }
@@ -200,8 +206,10 @@ a{
   padding: 2px 0;
 a:hover{
   border: none;
+  -webkit-transition: .3s;
+  transition: .3s;
   background: $pink;
-  border-radius: 5px;
+  
   color: $black;
 }}
 }
@@ -324,13 +332,15 @@ a:hover{
   a {
     color: $theme-color;
     word-break: break-all;
-    border-radius: 5px;
+    
     padding: 0 5px 0 2px ;
   }
   a:hover {
   //  border-bottom: $content-link-border;
   background: $pink;
-  border-radius: 5px;
+  -webkit-transition: .3s;
+  transition: .3s;
+  
   padding: 0 5px 0 2px ;
   color: $black;
   }
@@ -422,8 +432,10 @@ a:hover{
     word-break: break-all;
     &:hover {
     //  border-bottom: $content-link-border;
+    -webkit-transition: .3s;
+    transition: .3s;
     background: $pink;
-    border-radius: 5px;
+    
     padding: 0 7px 0 2px ;
     color: $black;
     }
@@ -459,9 +471,11 @@ a:hover{
     color: $black;
     padding: 0;
   a:hover{
+    -webkit-transition: .3s;
+    transition: .3s;
     border: none;
     background: $pink;
-    border-radius: 5px;
+    
   color: $black;
 }}
 }
@@ -491,9 +505,11 @@ a{
   color:$theme-color;
   padding: 2px 0;
 a:hover{
+  -webkit-transition: .3s;
+  transition: .3s;
   border: none;
   background: $pink;
-  border-radius: 5px;
+  
   color: $black;
 }}
 }

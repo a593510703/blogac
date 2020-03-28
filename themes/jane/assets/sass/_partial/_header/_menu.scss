@@ -10,6 +10,8 @@ margin-left: -1.3em;
 a:hover{
     border-bottom: 2px $theme-color solid;
     padding-bottom: 3px;
+    -webkit-transition: .3s;
+    transition: .3s;
 }
     .active {
       font-weight: 700;

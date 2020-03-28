@@ -10,9 +10,10 @@
   a{
     color: $theme-color;
   &:hover{
+    -webkit-transition: .3s;
+    transition: .3s;
     color: $black;
     background: $pink;
-    border-radius: 5px;
     padding: 6px 0 2px 0;
     }
   }

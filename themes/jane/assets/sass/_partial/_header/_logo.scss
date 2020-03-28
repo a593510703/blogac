@@ -17,7 +17,8 @@
     a:hover{
       color: $theme-color;
       border-bottom: 2px $theme-color solid;
-
+      -webkit-transition: .3s;
+      transition: .3s;
     }
 
   }

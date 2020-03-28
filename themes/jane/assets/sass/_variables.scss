@@ -34,7 +34,7 @@ $deputy-color: nth($theme-color-list, 2) !default;
 // ========== Color ========== //
 $black: #2b2b2b !default;
 $white: #fffae3 !default;
-$pink: #ffc7c7 !default;
+$pink: #fecdcd !default;
 $shallow-pink: #ffeeee !default;
 $light-gray: #e6e6e6 !default;
 $gray: #cacaca !default;
@@ -199,7 +199,7 @@ $code-background: $deputy-color !default;
 
 // ========== Pagination ========== //
 // Margin of the pagination.
-$pagination-margin: -1.4em 0 .8em 0 !default;
+$pagination-margin: -3em 0 2em 0 !default;
 
 // Font size of the pagination (Without post, post pagination see line 140).
 $pagination-font-size: 18px !default;

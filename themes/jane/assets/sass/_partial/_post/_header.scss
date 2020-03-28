@@ -30,6 +30,8 @@ margin: 9px 20px 0 1em;
 a:hover{
 background: none;
 color:$theme-color;
+-webkit-transition: .3s;
+transition: .3s;
 }
   }
   .post-tag {
@@ -48,6 +50,8 @@ border-radius: 13px
 a:hover{
 background: none;
 color:$theme-color;
+-webkit-transition: .3s;
+transition: .3s;
 }
   }
   .post-meta {
