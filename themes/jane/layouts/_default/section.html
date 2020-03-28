@@ -35,7 +35,7 @@
         {{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
       </time>
       <span class="archive-post-title">
-    <span class="archive-post-title-author"><a href="/author/#{{ .Params.author }}">{{ .Params.author }}</a></span><span class="archive-post-link"><a href="{{ $element.URL }}" >{{ .Title }}</a></span>
+    <span class="archive-post-title-author"><a href="/author/#{{ .Params.author }}">{{ .Params.author }}</a></span><span class="archive-post-link"><a href="{{ $element.RelPermalink }}" >{{ .Title }}</a></span>
         </span>
         <span class="archive-post-ct">
     <span class="archive-post-categories">

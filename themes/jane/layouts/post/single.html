@@ -37,7 +37,7 @@
           <span class="more-meta"> {{ i18n "wordCount" .WordCount }}
         {{- end }}
   <!--         {{ if .Site.Params.counter.leancloud.enable }}
-       <span id="{{ .URL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
+       <span id="{{ .RelPermalink }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
             <span class="post-meta-item-text">點擊量 </span>
             <span class="leancloud-visitors-count"></span>
           </span>
@@ -79,7 +79,7 @@
       <!-- Post Pagination -->
       <nav class="post-nav">
         {{ with .NextInSection }}
-          <a class="prev" href="{{ .URL }}">
+          <a class="prev" href="{{ .RelPermalink }}">
             {{/* icon left */}}
             <i class="iconfont">
               {{ partial "svg/left.svg" }}
@@ -89,7 +89,7 @@
           </a>
         {{- end }}
         {{ with .PrevInSection }}
-          <a class="next" href="{{ .URL }}">
+          <a class="next" href="{{ .RelPermalink }}">
             <span class="next-text nav-default">{{ .Title }}</span>
             <span class="prev-text nav-mobile">{{ i18n "next_post" }}</span>
             {{/* icon right */}}
