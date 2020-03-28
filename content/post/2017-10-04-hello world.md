@@ -1055,8 +1055,15 @@ Hugo 0.57.1
 
 評論系統使用 [詔預Isso開放服務](https://open.saintic.com/openservice/isso)。這是國內網站，請在意的讀者注意匿名性。
 
+> 诏预开放平台  
+> 您好！  
+> 恭喜，您申请接入的Isso服务（名称：f8fn21）已通过审核，现在正常运行中！  
+> 接下来，您可以配置客户端了，点我查阅文档吧，您需要的信息如下：  
+> 专属的接口根目录（data-isso）： https://open.saintic.com/isso/f8fn21   
+> 引用的js文件（embed.min.js）： https://open.saintic.com/isso/f8fn21/js/embed.min.js    
+
 ## 主葉第三版
 
-### 3 月 23—26 日
+### 3 月 23—27 日
 
-
+見 [網站歷次改版](/221)
