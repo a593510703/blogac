@@ -3,12 +3,12 @@ background-color: #e0f6ff
 	}
 #a{
 	background: #fffae8;
-	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
+	font-family: "Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
 	word-wrap:break-word;
 	text-align: center;
-	max-width: 700px;
+	max-width: 650px;
 	padding:  60px 100px 50px 100px;
-	margin: 100px auto;
+	margin: 120px auto;
 	border-radius: 25px;
 	-webkit-box-shadow: 0 2px 20px -5px  #2b2b2b;
 	box-shadow: 0 2px 20px -5px #2b2b2b;
@@ -53,7 +53,6 @@ hr{
 	border: none;
     height: 8px;
 	margin:50px auto;
-    background: #e0f6ff;
 		width: 150px;
 }
 #cate{
@@ -67,14 +66,18 @@ hr{
 #bigcard{
 	text-align: center;
 	max-width: 900px;
-	margin: 100px auto 130px auto;
-display: block;
+	margin: 120px auto 150px auto;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
 }
 #card-container{
-	margin: 0 40px;
+	margin: 0 50px;
 	width: 350px;
 	height: 150px;
-	display: inline-block;
 }
 
 #card-container a{
@@ -96,7 +99,7 @@ box-shadow:  0 5px 20px -10px #2b2b2b ;
 	box-shadow:  0px 5px 40px  #2b2b2b ;
 }
 #card .title{
-	font-family: AldusnovaW01-Book,"Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
+	font-family: "Palatino Linotype",Palatino,"Hiragino Mincho ProN",HiraginoMinchoProN,"Hiragino Mincho",HiraginoMincho,"Yu Mincho",YuMincho,"Hana Mincho",HanaMincho,HanaMin,"Ms Mincho",MsMincho,serif;
 		font-weight: 700;
 		font-size: 25px;
 		color: #2b2b2b;
@@ -118,7 +121,7 @@ box-shadow:  0 5px 20px -10px #2b2b2b ;
 }
 @media screen and (max-width:1000px){
 	#a{
-		padding:  40px 15px 30px 15px;
+		padding:  30px 10px 30px 10px;
 		margin: 80px auto;}
 			#card-container {margin: 80px auto;
 					display: block;
