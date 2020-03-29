@@ -42,13 +42,16 @@ padding: 10px 20px 15px 20px;
 		border-top-right-radius: 25px;
 		font-size:16px;
 				font-weight: 200;
+
 	}
 #cover .time .year{
 	padding-left: -10px;
+
+
 }
 	#cover .time .des	{
-		float: right;
 		padding-right: -10px;
+
 	}
 	#cover .label{
 		font-size: 21px;
