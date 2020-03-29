@@ -258,6 +258,8 @@ vertical: false
 
 [HXC博客](https://www.huxinchun.com/Home/index)　〔自己做了箇博客模板〕
 
+[鑫空间鑫生活](https://www.zhangxinxu.com/)　〔一個前端直男。這網站簡直是前端指南〕
+
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
 
 [燴餅](https://zhb.xyz/)　本科在读，计算机科学与技术专业，家乡山西太原，现居北京。现状：读书、练字、健身、学习乐器、算法训练、不听课。
