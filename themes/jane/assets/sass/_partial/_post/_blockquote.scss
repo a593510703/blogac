@@ -13,8 +13,8 @@ blockquote {
   color: $global-font-color;
   position: relative;
   line-height: 1.6;
-  font-weight: 300;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 18px;
   font-family: $global-fang-font-family;
   letter-spacing: 0;
   a{
@@ -51,7 +51,7 @@ blockquote {
       font-family: $code-font-family;
       padding:  3px 0 3px 1px;
       background: $pink;
-      
+
     }
     a:hover{
         padding:  3px 0 3px 1px;
