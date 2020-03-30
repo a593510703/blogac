@@ -258,7 +258,7 @@ vertical: false
 
 [HXC博客](https://www.huxinchun.com/Home/index)　〔自己做了箇博客模板〕
 
-[鑫空间鑫生活](https://www.zhangxinxu.com/)　〔一個前端直男。這網站簡直是前端指南〕
+[鑫空间鑫生活](https://www.zhangxinxu.com/)　〔前端〕
 
 [Ryan0up'S Blog](https://ryanc.cc)　一个完美主義者，名曰 RYAN0UP。<n1>友鏈於 20181027，2019 年 6 月再看，沒有友鏈了</n1>
 
